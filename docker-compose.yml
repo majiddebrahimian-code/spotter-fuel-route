@@ -1,0 +1,18 @@
+services:
+  db:
+    image: postgres:18
+    container_name: spotter_postgres
+
+    environment:
+      POSTGRES_DB: spotter_db
+      POSTGRES_USER: spotter_user
+      POSTGRES_PASSWORD: spotter_password
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql
+
+volumes:
+  postgres_data:
