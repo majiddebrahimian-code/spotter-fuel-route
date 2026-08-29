@@ -1,0 +1,1247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Fuel Route Planner</title>
+
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    >
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Inter, Arial, sans-serif;
+            background: #f5f7fa;
+            color: #1f2937;
+        }
+
+        .container {
+            width: min(1400px, 94%);
+            margin: 0 auto;
+            padding: 30px 0 50px;
+        }
+
+        .header {
+            margin-bottom: 24px;
+        }
+
+        .header h1 {
+            margin: 0 0 8px;
+            font-size: 30px;
+        }
+
+        .header p {
+            margin: 0;
+            color: #6b7280;
+        }
+
+        .search-panel {
+            background: white;
+            border-radius: 14px;
+            padding: 20px;
+            box-shadow:
+                0 4px 18px rgba(0, 0, 0, 0.06);
+            margin-bottom: 20px;
+        }
+
+        .route-form {
+            display: grid;
+            grid-template-columns: 1fr 1fr auto;
+            gap: 14px;
+            align-items: end;
+        }
+
+        .field {
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+        }
+
+        .field label {
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .field input {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid #d1d5db;
+            border-radius: 8px;
+            font-size: 15px;
+            outline: none;
+        }
+
+        .field input:focus {
+            border-color: #2563eb;
+        }
+
+        button {
+            min-height: 44px;
+            padding: 0 22px;
+            border: 0;
+            border-radius: 8px;
+            background: #111827;
+            color: white;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #374151;
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: wait;
+        }
+
+        .status {
+            display: none;
+            margin-top: 14px;
+            padding: 11px 14px;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+
+        .status.loading {
+            display: block;
+            background: #eff6ff;
+            color: #1d4ed8;
+        }
+
+        .status.success {
+            display: block;
+            background: #ecfdf5;
+            color: #047857;
+        }
+
+        .status.error {
+            display: block;
+            background: #fef2f2;
+            color: #b91c1c;
+        }
+
+        .vehicle-info {
+            margin-top: 10px;
+            font-size: 13px;
+            color: #6b7280;
+        }
+
+        .summary {
+            display: grid;
+            grid-template-columns:
+                repeat(7, minmax(120px, 1fr));
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .summary-card {
+            background: white;
+            border-radius: 12px;
+            padding: 16px;
+            box-shadow:
+                0 3px 14px rgba(0, 0, 0, 0.05);
+        }
+
+        .summary-label {
+            color: #6b7280;
+            font-size: 12px;
+            margin-bottom: 7px;
+        }
+
+        .summary-value {
+            font-size: 20px;
+            font-weight: 700;
+        }
+
+        #map {
+            width: 100%;
+            height: 600px;
+            border-radius: 14px;
+            overflow: hidden;
+            box-shadow:
+                0 4px 18px rgba(0, 0, 0, 0.08);
+            background: #e5e7eb;
+        }
+
+        .stops-panel {
+            margin-top: 20px;
+            background: white;
+            border-radius: 14px;
+            padding: 20px;
+            box-shadow:
+                0 4px 18px rgba(0, 0, 0, 0.06);
+        }
+
+        .stops-panel h2 {
+            margin: 0 0 16px;
+            font-size: 20px;
+        }
+
+        .stops-list {
+            display: grid;
+            gap: 12px;
+        }
+
+        .stop-card {
+            display: grid;
+            grid-template-columns:
+                40px
+                minmax(180px, 2fr)
+                repeat(5, minmax(100px, 1fr));
+            gap: 14px;
+            align-items: center;
+            padding: 14px;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+        }
+
+        .stop-number {
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            background: #111827;
+            color: white;
+            font-weight: 700;
+        }
+
+        .stop-name {
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .stop-location {
+            font-size: 13px;
+            color: #6b7280;
+        }
+
+        .stop-value {
+            font-weight: 600;
+        }
+
+        .stop-label {
+            font-size: 11px;
+            color: #6b7280;
+            margin-bottom: 4px;
+        }
+
+        .empty-state {
+            color: #6b7280;
+            font-size: 14px;
+        }
+
+        @media (max-width: 1100px) {
+            .summary {
+                grid-template-columns:
+                    repeat(4, 1fr);
+            }
+
+            .stop-card {
+                grid-template-columns:
+                    40px 1fr 1fr;
+            }
+        }
+
+        @media (max-width: 700px) {
+            .route-form {
+                grid-template-columns: 1fr;
+            }
+
+            .summary {
+                grid-template-columns:
+                    repeat(2, 1fr);
+            }
+
+            #map {
+                height: 480px;
+            }
+
+            .stop-card {
+                grid-template-columns:
+                    40px 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>Fuel Route Planner</h1>
+
+        <p>
+            Route planning with cost-optimized fuel stops.
+        </p>
+    </div>
+
+
+    <div class="search-panel">
+
+        <form
+            id="route-form"
+            class="route-form"
+        >
+
+            <div class="field">
+                <label for="start">
+                    Start
+                </label>
+
+                <input
+                    id="start"
+                    name="start"
+                    type="text"
+                    value="New York, NY"
+                    placeholder="New York, NY"
+                    required
+                >
+            </div>
+
+
+            <div class="field">
+                <label for="finish">
+                    Finish
+                </label>
+
+                <input
+                    id="finish"
+                    name="finish"
+                    type="text"
+                    value="Miami, FL"
+                    placeholder="Miami, FL"
+                    required
+                >
+            </div>
+
+
+            <button
+                id="submit-button"
+                type="submit"
+            >
+                Plan Route
+            </button>
+
+        </form>
+
+
+        <div
+            id="status"
+            class="status"
+        ></div>
+
+
+        <div
+            id="vehicle-info"
+            class="vehicle-info"
+        ></div>
+
+    </div>
+
+
+    <div
+        id="summary"
+        class="summary"
+        hidden
+    >
+
+        <div class="summary-card">
+            <div class="summary-label">
+                Route Distance
+            </div>
+
+            <div
+                id="summary-distance"
+                class="summary-value"
+            >
+                -
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                Driving Time
+            </div>
+
+            <div
+                id="summary-duration"
+                class="summary-value"
+            >
+                -
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                Fuel Cost
+            </div>
+
+            <div
+                id="summary-cost"
+                class="summary-value"
+            >
+                -
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                Fuel Purchased
+            </div>
+
+            <div
+                id="summary-fuel"
+                class="summary-value"
+            >
+                -
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                Fuel Remaining
+            </div>
+
+            <div
+                id="summary-remaining"
+                class="summary-value"
+            >
+                -
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                Fuel Stops
+            </div>
+
+            <div
+                id="summary-stops"
+                class="summary-value"
+            >
+                -
+            </div>
+        </div>
+
+
+        <div class="summary-card">
+            <div class="summary-label">
+                Estimated Detour
+            </div>
+
+            <div
+                id="summary-detour"
+                class="summary-value"
+            >
+                -
+            </div>
+        </div>
+
+    </div>
+
+
+    <div id="map"></div>
+
+
+    <div class="stops-panel">
+
+        <h2>
+            Optimal Fuel Stops
+        </h2>
+
+        <div
+            id="stops-list"
+            class="stops-list"
+        >
+            <div class="empty-state">
+                Plan a route to see fuel stops.
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+
+<script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+></script>
+
+
+<script>
+    const API_URL = "/api/routes/";
+
+    const map = L.map(
+        "map"
+    ).setView(
+        [39.5, -98.35],
+        4
+    );
+
+
+    L.tileLayer(
+        "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        {
+            maxZoom: 19,
+            attribution:
+                '&copy; OpenStreetMap contributors'
+        }
+    ).addTo(map);
+
+
+    const routeLayers =
+        L.featureGroup().addTo(map);
+
+    const markerLayers =
+        L.featureGroup().addTo(map);
+
+
+    const form =
+        document.getElementById(
+            "route-form"
+        );
+
+    const submitButton =
+        document.getElementById(
+            "submit-button"
+        );
+
+    const statusBox =
+        document.getElementById(
+            "status"
+        );
+
+    const summary =
+        document.getElementById(
+            "summary"
+        );
+
+    const stopsList =
+        document.getElementById(
+            "stops-list"
+        );
+
+    const vehicleInfo =
+        document.getElementById(
+            "vehicle-info"
+        );
+
+
+    function setStatus(
+        message,
+        type
+    ) {
+        statusBox.textContent =
+            message;
+
+        statusBox.className =
+            `status ${type}`;
+    }
+
+
+    function clearStatus() {
+        statusBox.textContent = "";
+
+        statusBox.className =
+            "status";
+    }
+
+
+    function formatNumber(
+        value,
+        digits = 1
+    ) {
+        const number =
+            Number(value);
+
+        if (
+            !Number.isFinite(number)
+        ) {
+            return "-";
+        }
+
+        return number.toFixed(
+            digits
+        );
+    }
+
+
+    function formatMoney(value) {
+        const number =
+            Number(value);
+
+        if (
+            !Number.isFinite(number)
+        ) {
+            return "-";
+        }
+
+        return number.toLocaleString(
+            "en-US",
+            {
+                style: "currency",
+                currency: "USD",
+                minimumFractionDigits: 2,
+                maximumFractionDigits: 2
+            }
+        );
+    }
+
+
+    function escapeHtml(value) {
+        return String(
+            value ?? ""
+        ).replace(
+            /[&<>"']/g,
+            character => ({
+                "&": "&amp;",
+                "<": "&lt;",
+                ">": "&gt;",
+                '"': "&quot;",
+                "'": "&#039;"
+            })[character]
+        );
+    }
+
+
+    function resetResults() {
+        routeLayers.clearLayers();
+
+        markerLayers.clearLayers();
+
+        summary.hidden = true;
+
+        vehicleInfo.textContent = "";
+
+        stopsList.innerHTML =
+            `
+            <div class="empty-state">
+                Waiting for route results.
+            </div>
+            `;
+    }
+
+
+    function getApiError(data) {
+        if (
+            data &&
+            typeof data.error === "string"
+        ) {
+            return data.error;
+        }
+
+        if (
+            data &&
+            typeof data.detail === "string"
+        ) {
+            return data.detail;
+        }
+
+        if (
+            data &&
+            typeof data === "object"
+        ) {
+            const errors =
+                Object.entries(data)
+                    .map(
+                        ([field, messages]) => {
+                            const message =
+                                Array.isArray(
+                                    messages
+                                )
+                                    ? messages.join(
+                                        ", "
+                                    )
+                                    : messages;
+
+                            return (
+                                `${field}: ${message}`
+                            );
+                        }
+                    );
+
+            if (errors.length) {
+                return errors.join(
+                    " | "
+                );
+            }
+        }
+
+        return (
+            "Unable to plan this route."
+        );
+    }
+
+
+    async function readApiResponse(
+        response
+    ) {
+        let data = {};
+
+        try {
+            data =
+                await response.json();
+        } catch (error) {
+            throw new Error(
+                `Request failed with status ${response.status}.`
+            );
+        }
+
+        if (!response.ok) {
+            throw new Error(
+                getApiError(data)
+            );
+        }
+
+        return data;
+    }
+
+
+    function renderSummary(result) {
+        const fuelPlan =
+            result.fuel_plan;
+
+        const stops =
+            fuelPlan.fuel_stops || [];
+
+
+        document.getElementById(
+            "summary-distance"
+        ).textContent =
+            `${formatNumber(
+                result.route.distance_miles,
+                1
+            )} mi`;
+
+
+        document.getElementById(
+            "summary-duration"
+        ).textContent =
+            `${formatNumber(
+                result.route.duration_minutes / 60,
+                1
+            )} hr`;
+
+
+        document.getElementById(
+            "summary-cost"
+        ).textContent =
+            formatMoney(
+                fuelPlan.total_cost
+            );
+
+
+        document.getElementById(
+            "summary-fuel"
+        ).textContent =
+            `${formatNumber(
+                fuelPlan.total_fuel_purchased_gallons,
+                1
+            )} gal`;
+
+
+        document.getElementById(
+            "summary-remaining"
+        ).textContent =
+            `${formatNumber(
+                fuelPlan.fuel_remaining_gallons,
+                1
+            )} gal`;
+
+
+        document.getElementById(
+            "summary-stops"
+        ).textContent =
+            stops.length;
+
+
+        document.getElementById(
+            "summary-detour"
+        ).textContent =
+            `${formatNumber(
+                fuelPlan.estimated_detour_miles,
+                2
+            )} mi`;
+
+
+        summary.hidden = false;
+
+
+        vehicleInfo.textContent =
+            (
+                `Vehicle assumption: ` +
+                `${result.vehicle.mpg} MPG, ` +
+                `${result.vehicle.max_range_miles} mile range, ` +
+                `${result.vehicle.initial_fuel_gallons} gallon starting fuel.`
+            );
+    }
+
+
+    function renderStops(stops) {
+        if (!stops.length) {
+            stopsList.innerHTML =
+                `
+                <div class="empty-state">
+                    No fuel stop is required for this route.
+                </div>
+                `;
+
+            return;
+        }
+
+
+        stopsList.innerHTML =
+            stops.map(
+                (stop, index) => `
+                    <div class="stop-card">
+
+                        <div class="stop-number">
+                            ${index + 1}
+                        </div>
+
+
+                        <div>
+                            <div class="stop-name">
+                                ${escapeHtml(
+                                    stop.name
+                                )}
+                            </div>
+
+                            <div class="stop-location">
+                                ${escapeHtml(
+                                    stop.city
+                                )},
+                                ${escapeHtml(
+                                    stop.state
+                                )}
+                            </div>
+                        </div>
+
+
+                        <div>
+                            <div class="stop-label">
+                                Fuel Price
+                            </div>
+
+                            <div class="stop-value">
+                                ${formatMoney(
+                                    stop.price_per_gallon
+                                )}/gal
+                            </div>
+                        </div>
+
+
+                        <div>
+                            <div class="stop-label">
+                                Fuel on Arrival
+                            </div>
+
+                            <div class="stop-value">
+                                ${formatNumber(
+                                    stop.fuel_on_arrival_gallons,
+                                    1
+                                )} gal
+                            </div>
+                        </div>
+
+
+                        <div>
+                            <div class="stop-label">
+                                Purchase
+                            </div>
+
+                            <div class="stop-value">
+                                ${formatNumber(
+                                    stop.gallons_purchased,
+                                    1
+                                )} gal
+                            </div>
+                        </div>
+
+
+                        <div>
+                            <div class="stop-label">
+                                Stop Cost
+                            </div>
+
+                            <div class="stop-value">
+                                ${formatMoney(
+                                    stop.stop_cost
+                                )}
+                            </div>
+                        </div>
+
+
+                        <div>
+                            <div class="stop-label">
+                                Detour
+                            </div>
+
+                            <div class="stop-value">
+                                ${formatNumber(
+                                    stop.detour_miles,
+                                    2
+                                )} mi
+                            </div>
+                        </div>
+
+                    </div>
+                `
+            ).join("");
+    }
+
+
+    function renderMap(result) {
+        if (
+            !result.route ||
+            !result.route.geometry
+        ) {
+            throw new Error(
+                "Route geometry is missing from the API response."
+            );
+        }
+
+
+        const fuelStops =
+            result.fuel_plan
+                .fuel_stops || [];
+
+
+        const routeLayer =
+            L.geoJSON(
+                result.route.geometry,
+                {
+                    style: {
+                        weight: 5,
+                        opacity: 0.85
+                    }
+                }
+            ).addTo(
+                routeLayers
+            );
+
+
+        L.marker(
+            [
+                result.start.lat,
+                result.start.lon
+            ]
+        )
+        .bindPopup(
+            `
+            <strong>Start</strong>
+            <br>
+            ${escapeHtml(
+                result.start.name
+            )}
+            `
+        )
+        .addTo(
+            markerLayers
+        );
+
+
+        L.marker(
+            [
+                result.finish.lat,
+                result.finish.lon
+            ]
+        )
+        .bindPopup(
+            `
+            <strong>Finish</strong>
+            <br>
+            ${escapeHtml(
+                result.finish.name
+            )}
+            `
+        )
+        .addTo(
+            markerLayers
+        );
+
+
+        fuelStops.forEach(
+            (stop, index) => {
+
+                L.circleMarker(
+                    [
+                        Number(
+                            stop.latitude
+                        ),
+                        Number(
+                            stop.longitude
+                        )
+                    ],
+                    {
+                        radius: 9,
+                        weight: 3,
+                        fillOpacity: 0.9
+                    }
+                )
+                .bindPopup(
+                    `
+                    <strong>
+                        Fuel Stop ${index + 1}
+                    </strong>
+
+                    <br>
+
+                    ${escapeHtml(
+                        stop.name
+                    )}
+
+                    <br>
+
+                    ${escapeHtml(
+                        stop.city
+                    )},
+                    ${escapeHtml(
+                        stop.state
+                    )}
+
+                    <hr>
+
+                    Price:
+                    ${formatMoney(
+                        stop.price_per_gallon
+                    )}/gal
+
+                    <br>
+
+                    Fuel on arrival:
+                    ${formatNumber(
+                        stop.fuel_on_arrival_gallons,
+                        1
+                    )} gal
+
+                    <br>
+
+                    Purchase:
+                    ${formatNumber(
+                        stop.gallons_purchased,
+                        1
+                    )} gal
+
+                    <br>
+
+                    Fuel on departure:
+                    ${formatNumber(
+                        stop.fuel_on_departure_gallons,
+                        1
+                    )} gal
+
+                    <br>
+
+                    Cost:
+                    ${formatMoney(
+                        stop.stop_cost
+                    )}
+
+                    <br>
+
+                    Detour:
+                    ${formatNumber(
+                        stop.detour_miles,
+                        2
+                    )} mi
+
+                    <br>
+
+                    Match:
+                    ${escapeHtml(
+                        stop.geocode_status
+                    )}
+                    `
+                )
+                .addTo(
+                    markerLayers
+                );
+            }
+        );
+
+
+        const bounds =
+            routeLayer.getBounds();
+
+
+        if (
+            markerLayers
+                .getLayers()
+                .length
+        ) {
+            bounds.extend(
+                markerLayers.getBounds()
+            );
+        }
+
+
+        if (bounds.isValid()) {
+            map.fitBounds(
+                bounds,
+                {
+                    padding:
+                        [30, 30]
+                }
+            );
+        }
+    }
+
+
+    function renderResult(result) {
+        renderMap(result);
+
+        renderSummary(result);
+
+        renderStops(
+            result.fuel_plan
+                .fuel_stops || []
+        );
+    }
+
+
+    form.addEventListener(
+        "submit",
+        async event => {
+
+            event.preventDefault();
+
+            clearStatus();
+
+            resetResults();
+
+
+            const start =
+                document
+                    .getElementById(
+                        "start"
+                    )
+                    .value
+                    .trim();
+
+
+            const finish =
+                document
+                    .getElementById(
+                        "finish"
+                    )
+                    .value
+                    .trim();
+
+
+            if (
+                !start ||
+                !finish
+            ) {
+                setStatus(
+                    "Start and finish are required.",
+                    "error"
+                );
+
+                return;
+            }
+
+
+            submitButton.disabled =
+                true;
+
+            submitButton.textContent =
+                "Planning...";
+
+
+            setStatus(
+                (
+                    "Finding the route and " +
+                    "optimizing fuel stops..."
+                ),
+                "loading"
+            );
+
+
+            try {
+
+                const response =
+                    await fetch(
+                        API_URL,
+                        {
+                            method:
+                                "POST",
+
+                            headers: {
+                                "Content-Type":
+                                    "application/json"
+                            },
+
+                            body:
+                                JSON.stringify(
+                                    {
+                                        start,
+                                        finish
+                                    }
+                                )
+                        }
+                    );
+
+
+                const result =
+                    await readApiResponse(
+                        response
+                    );
+
+
+                renderResult(
+                    result
+                );
+
+
+                setStatus(
+                    "Route calculated successfully.",
+                    "success"
+                );
+
+            } catch (error) {
+
+                resetResults();
+
+                setStatus(
+                    error.message,
+                    "error"
+                );
+
+            } finally {
+
+                submitButton.disabled =
+                    false;
+
+                submitButton.textContent =
+                    "Plan Route";
+
+            }
+        }
+    );
+</script>
+
+</body>
+</html>

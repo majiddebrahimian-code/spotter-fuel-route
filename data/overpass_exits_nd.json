@@ -1,0 +1,6138 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-28T01:00:26Z",
+    "timestamp_areas_base": "2026-08-27T09:36:50Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 74210515,
+      "lat": 46.8930974,
+      "lon": -98.3286206,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "276"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74237592,
+      "lat": 46.920086,
+      "lon": -97.781989,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74251903,
+      "lat": 46.9103696,
+      "lon": -98.0149026,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "292"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74253682,
+      "lat": 46.906821,
+      "lon": -98.223831,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "281"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74261294,
+      "lat": 46.906581,
+      "lon": -98.205461,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "283"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74262944,
+      "lat": 46.916741,
+      "lon": -97.969357,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "294"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74263822,
+      "lat": 46.920241,
+      "lon": -97.917687,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "296"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74264263,
+      "lat": 46.919967,
+      "lon": -97.875925,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "298"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74264341,
+      "lat": 46.919881,
+      "lon": -97.791795,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74265097,
+      "lat": 46.919555,
+      "lon": -97.686638,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "307"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74269464,
+      "lat": 46.892378,
+      "lon": -98.422392,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "272"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74269616,
+      "lat": 46.89234,
+      "lon": -98.337277,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "276"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74270497,
+      "lat": 46.912081,
+      "lon": -98.085694,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "288"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74277870,
+      "lat": 46.917008,
+      "lon": -97.960495,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "294"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74283693,
+      "lat": 46.913513,
+      "lon": -98.077369,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "288"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74283891,
+      "lat": 46.919109,
+      "lon": -97.754713,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74292382,
+      "lat": 46.92039,
+      "lon": -97.908842,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "296"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74295351,
+      "lat": 46.892552,
+      "lon": -98.4138159,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "272"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74307225,
+      "lat": 46.920165,
+      "lon": -97.865511,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "298"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74307350,
+      "lat": 46.9067934,
+      "lon": -98.1914401,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "283"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74307407,
+      "lat": 46.91249,
+      "lon": -98.039604,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "290"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74316079,
+      "lat": 46.906606,
+      "lon": -98.231834,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "281"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74318353,
+      "lat": 46.9121145,
+      "lon": -98.0051895,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "292"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74337333,
+      "lat": 46.912527,
+      "lon": -98.038376,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "290"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74379724,
+      "lat": 46.938144,
+      "lon": -103.602524,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74379816,
+      "lat": 46.929138,
+      "lon": -103.558706,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "24"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74380176,
+      "lat": 46.8911222,
+      "lon": -103.3892718,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "32"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74380331,
+      "lat": 46.895978,
+      "lon": -103.311479,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74380556,
+      "lat": 46.929017,
+      "lon": -103.57278,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74380598,
+      "lat": 46.930566,
+      "lon": -103.552767,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "24"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74380729,
+      "lat": 46.9154552,
+      "lon": -103.4876824,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74380972,
+      "lat": 46.892196,
+      "lon": -103.379229,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "32"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74381092,
+      "lat": 46.896251,
+      "lon": -103.300807,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74887022,
+      "lat": 46.8315943,
+      "lon": -100.7255209,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74889612,
+      "lat": 46.8367934,
+      "lon": -100.5463194,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "170"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74908407,
+      "lat": 46.8313086,
+      "lon": -100.7797085,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "159"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74921286,
+      "lat": 46.864775,
+      "lon": -100.135019,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "190"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74921398,
+      "lat": 46.864521,
+      "lon": -100.1457632,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "190"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74922548,
+      "lat": 46.8364445,
+      "lon": -100.4195526,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74928858,
+      "lat": 46.8369558,
+      "lon": -100.5901126,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74945484,
+      "lat": 46.836388,
+      "lon": -100.283429,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "182"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74955943,
+      "lat": 46.837179,
+      "lon": -100.576988,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74955952,
+      "lat": 46.836957,
+      "lon": -100.535864,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "170"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74956177,
+      "lat": 46.8366015,
+      "lon": -100.409819,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74975029,
+      "lat": 46.836231,
+      "lon": -100.2937132,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "182"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74975177,
+      "lat": 46.8312578,
+      "lon": -100.7370109,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 74976816,
+      "lat": 46.829759,
+      "lon": -100.809998,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "157"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75077247,
+      "lat": 46.8272289,
+      "lon": -100.8173974,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "157"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75077315,
+      "lat": 46.8220572,
+      "lon": -100.8340936,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "156"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75077399,
+      "lat": 46.8315239,
+      "lon": -100.7665503,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "159"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75103616,
+      "lat": 46.847664,
+      "lon": -96.8562207,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "348"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75104376,
+      "lat": 46.888595,
+      "lon": -97.637479,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "310"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75106004,
+      "lat": 47.155217,
+      "lon": -96.975539,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "85"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75106443,
+      "lat": 47.2351365,
+      "lon": -97.0080751,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "92"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75106762,
+      "lat": 46.876033,
+      "lon": -97.258438,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "328"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75109032,
+      "lat": 46.875877,
+      "lon": -97.550521,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "314"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75109182,
+      "lat": 46.875785,
+      "lon": -97.488493,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "317"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75112086,
+      "lat": 46.875749,
+      "lon": -97.341219,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "324"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75112223,
+      "lat": 46.8774,
+      "lon": -97.048201,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "338"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75112566,
+      "lat": 46.8657072,
+      "lon": -96.8419561,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "64"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75115346,
+      "lat": 46.8758036,
+      "lon": -97.2685314,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "328"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75115405,
+      "lat": 46.8755306,
+      "lon": -97.3503934,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "324"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75118481,
+      "lat": 46.8731356,
+      "lon": -96.8410251,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "65"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75119190,
+      "lat": 46.8868653,
+      "lon": -96.8393018,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "66"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75120187,
+      "lat": 46.8757094,
+      "lon": -97.3930709,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "322"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75121753,
+      "lat": 46.8775355,
+      "lon": -96.9570117,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "343"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75122177,
+      "lat": 46.849054,
+      "lon": -96.794507,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "351"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75123940,
+      "lat": 46.974195,
+      "lon": -96.881097,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "72"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75125922,
+      "lat": 46.8279867,
+      "lon": -96.8396641,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "62"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75127588,
+      "lat": 46.980292,
+      "lon": -96.886811,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "72"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75129760,
+      "lat": 46.917296,
+      "lon": -97.679676,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "307"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75133322,
+      "lat": 46.877334,
+      "lon": -97.015127,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "340"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75133813,
+      "lat": 46.84733,
+      "lon": -96.847478,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "349A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75136685,
+      "lat": 46.875828,
+      "lon": -97.42504,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "320"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75136849,
+      "lat": 46.72023,
+      "lon": -96.830904,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "54"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75137152,
+      "lat": 46.836757,
+      "lon": -96.8405554,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "62B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75137239,
+      "lat": 46.853529,
+      "lon": -96.841007,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63A-B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75137242,
+      "lat": 46.851346,
+      "lon": -96.841452,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63B",
+        "ref:left": "63A",
+        "ref:right": "63B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75137534,
+      "lat": 47.148558,
+      "lon": -96.972561,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "85"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75137747,
+      "lat": 46.847886,
+      "lon": -96.804134,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "351"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75137806,
+      "lat": 46.877617,
+      "lon": -97.006352,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "340"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75137893,
+      "lat": 46.8799415,
+      "lon": -96.8404158,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "65"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75139047,
+      "lat": 46.8738616,
+      "lon": -97.2155934,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "331"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75139175,
+      "lat": 46.8757368,
+      "lon": -97.302443,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75139394,
+      "lat": 46.8770919,
+      "lon": -97.083075,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75141173,
+      "lat": 46.8756606,
+      "lon": -97.5609304,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "314"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75142854,
+      "lat": 46.714089,
+      "lon": -96.830239,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "54"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75142928,
+      "lat": 46.743031,
+      "lon": -96.839653,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "56"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75144573,
+      "lat": 46.8755696,
+      "lon": -97.4977214,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "317"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75145767,
+      "lat": 47.053709,
+      "lon": -96.942262,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "78"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75146186,
+      "lat": 46.6551641,
+      "lon": -96.8311456,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75151420,
+      "lat": 46.8083138,
+      "lon": -96.8392443,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "60"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75152816,
+      "lat": 46.930637,
+      "lon": -96.848671,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "69"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75155020,
+      "lat": 46.856217,
+      "lon": -96.840727,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "64"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75155314,
+      "lat": 46.8998675,
+      "lon": -96.8392383,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "67"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75159116,
+      "lat": 46.9086983,
+      "lon": -96.83958,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "67"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75164299,
+      "lat": 46.8472496,
+      "lon": -96.8397905,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "349B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75165047,
+      "lat": 46.848349,
+      "lon": -96.840681,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75165081,
+      "lat": 46.8475423,
+      "lon": -96.8422768,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "349A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75166142,
+      "lat": 46.874352,
+      "lon": -97.205075,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "331"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75166254,
+      "lat": 46.84149,
+      "lon": -96.840701,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75166413,
+      "lat": 46.8474559,
+      "lon": -96.8329228,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "349B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75166455,
+      "lat": 46.87594,
+      "lon": -97.382985,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "322"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75168449,
+      "lat": 46.748479,
+      "lon": -96.840006,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "56"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75168475,
+      "lat": 46.937508,
+      "lon": -96.852586,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "69"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75171718,
+      "lat": 46.6629717,
+      "lon": -96.8314424,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "50"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75172614,
+      "lat": 46.8771198,
+      "lon": -97.0578018,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "338"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75174737,
+      "lat": 46.847502,
+      "lon": -96.868745,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "348"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75175609,
+      "lat": 46.8925646,
+      "lon": -97.6439454,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "310"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75176506,
+      "lat": 46.8001447,
+      "lon": -96.8385948,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "60"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75183390,
+      "lat": 46.8774794,
+      "lon": -96.9755164,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "342"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75183641,
+      "lat": 46.8737774,
+      "lon": -96.9410581,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "343"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75183874,
+      "lat": 47.04753,
+      "lon": -96.936918,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "78"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75184417,
+      "lat": 46.847466,
+      "lon": -96.812246,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "350"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75186303,
+      "lat": 46.63326,
+      "lon": -96.831868,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "48"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75186844,
+      "lat": 46.8620694,
+      "lon": -96.8473796,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75195877,
+      "lat": 46.8946346,
+      "lon": -96.8395365,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "66"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75203307,
+      "lat": 46.8324914,
+      "lon": -96.8402903,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "62A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75237754,
+      "lat": 46.861644,
+      "lon": -96.849518,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75237758,
+      "lat": 46.8616996,
+      "lon": -96.8546497,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75237811,
+      "lat": 46.8618407,
+      "lon": -96.8522676,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75237818,
+      "lat": 46.861899,
+      "lon": -96.8581118,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75241957,
+      "lat": 46.8472493,
+      "lon": -96.826882,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "350"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75242292,
+      "lat": 46.852361,
+      "lon": -96.911887,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "346"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75242404,
+      "lat": 46.8477655,
+      "lon": -96.8749568,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "347"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75242425,
+      "lat": 46.848182,
+      "lon": -96.903317,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "346B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75774829,
+      "lat": 46.9316454,
+      "lon": -104.0320302,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75774849,
+      "lat": 46.931595,
+      "lon": -104.011914,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75774964,
+      "lat": 46.935439,
+      "lon": -103.89613,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75775033,
+      "lat": 46.942687,
+      "lon": -103.832822,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75775169,
+      "lat": 46.949782,
+      "lon": -103.667294,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75775320,
+      "lat": 46.931886,
+      "lon": -104.003375,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75775412,
+      "lat": 46.938001,
+      "lon": -103.887535,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75775513,
+      "lat": 46.942579,
+      "lon": -103.823703,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75775682,
+      "lat": 46.9493171,
+      "lon": -103.6612252,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75862146,
+      "lat": 47.8925394,
+      "lon": -97.0901639,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75862717,
+      "lat": 47.9294293,
+      "lon": -97.0933541,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "141"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75862737,
+      "lat": 47.9385574,
+      "lon": -97.0936954,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "141"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75867811,
+      "lat": 48.1326998,
+      "lon": -97.1908773,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "157"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75888141,
+      "lat": 47.9334234,
+      "lon": -97.3591198,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75893875,
+      "lat": 48.1384209,
+      "lon": -97.191187,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "157"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75894035,
+      "lat": 47.6752142,
+      "lon": -97.0784894,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "123"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75897892,
+      "lat": 48.0743401,
+      "lon": -97.1689868,
+      "tags": {
+        "highway": "motorway_junction",
+        "odbl": "clean",
+        "ref": "152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75897975,
+      "lat": 47.9850096,
+      "lon": -97.0933284,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "145"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75899605,
+      "lat": 47.9330323,
+      "lon": -97.3750172,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75907894,
+      "lat": 47.9915383,
+      "lon": -97.0926746,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "145"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75924800,
+      "lat": 47.917809,
+      "lon": -97.040599,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75941285,
+      "lat": 47.8851159,
+      "lon": -97.0871715,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75941306,
+      "lat": 47.9139503,
+      "lon": -97.0933371,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "140"
+      }
+    },
+    {
+      "type": "node",
+      "id": 75941483,
+      "lat": 48.0802253,
+      "lon": -97.1694574,
+      "tags": {
+        "highway": "motorway_junction",
+        "odbl": "clean",
+        "ref": "152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76177453,
+      "lat": 46.864451,
+      "lon": -100.039306,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "195"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76177514,
+      "lat": 46.86427,
+      "lon": -99.920248,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76177569,
+      "lat": 46.871791,
+      "lon": -99.830672,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "205"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76177620,
+      "lat": 46.878325,
+      "lon": -99.755735,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76177704,
+      "lat": 46.880318,
+      "lon": -99.642208,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "214"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76177782,
+      "lat": 46.879791,
+      "lon": -99.578584,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "217"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76177848,
+      "lat": 46.8802061,
+      "lon": -99.4950596,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76177864,
+      "lat": 46.879888,
+      "lon": -99.481491,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "221"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76178002,
+      "lat": 46.864466,
+      "lon": -99.911009,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76178117,
+      "lat": 46.872292,
+      "lon": -99.821973,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "205"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76178190,
+      "lat": 46.878588,
+      "lon": -99.746761,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76178285,
+      "lat": 46.880684,
+      "lon": -99.633065,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "214"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76178363,
+      "lat": 46.879924,
+      "lon": -99.56965,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "217"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76178461,
+      "lat": 46.879111,
+      "lon": -99.473417,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "221"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76178616,
+      "lat": 46.864718,
+      "lon": -100.031061,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "195"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76927458,
+      "lat": 46.821412,
+      "lon": -100.845376,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "156"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76927472,
+      "lat": 46.81371,
+      "lon": -100.833729,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76927495,
+      "lat": 46.8027807,
+      "lon": -100.8265575,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76927523,
+      "lat": 46.8173937,
+      "lon": -100.8371749,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76927565,
+      "lat": 46.8044591,
+      "lon": -100.8265195,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76927579,
+      "lat": 46.7979603,
+      "lon": -100.8242855,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76973893,
+      "lat": 46.86208,
+      "lon": -101.819255,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "108"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76992732,
+      "lat": 46.846899,
+      "lon": -100.913604,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76998554,
+      "lat": 46.8612167,
+      "lon": -101.4230921,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "127"
+      }
+    },
+    {
+      "type": "node",
+      "id": 76998670,
+      "lat": 46.861138,
+      "lon": -101.286363,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "134"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77001354,
+      "lat": 46.825873,
+      "lon": -100.851812,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "155"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77016637,
+      "lat": 46.863015,
+      "lon": -102.060094,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "97"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77033008,
+      "lat": 46.863673,
+      "lon": -101.775621,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "110"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77039118,
+      "lat": 46.844075,
+      "lon": -100.903317,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77059572,
+      "lat": 46.862233,
+      "lon": -102.048254,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "97"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77061463,
+      "lat": 46.861651,
+      "lon": -101.570507,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "120"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77061513,
+      "lat": 46.861544,
+      "lon": -101.5064749,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "123"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77066295,
+      "lat": 46.86196,
+      "lon": -101.71285,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77067555,
+      "lat": 46.866527,
+      "lon": -101.94432,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "102"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77067763,
+      "lat": 46.8668,
+      "lon": -101.939165,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "102"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77067976,
+      "lat": 46.861827,
+      "lon": -101.827649,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "108"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77068003,
+      "lat": 46.862323,
+      "lon": -101.787234,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "110"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77070826,
+      "lat": 46.8614778,
+      "lon": -101.2773632,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "134"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77083519,
+      "lat": 46.86329,
+      "lon": -101.003323,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "147"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77085976,
+      "lat": 46.861256,
+      "lon": -101.150072,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "140"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77092771,
+      "lat": 46.84975,
+      "lon": -100.919658,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77094198,
+      "lat": 46.838308,
+      "lon": -100.878028,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "153"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77103531,
+      "lat": 46.860705,
+      "lon": -101.160934,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "140"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77103727,
+      "lat": 46.86293,
+      "lon": -101.013146,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "147"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77108376,
+      "lat": 46.861633,
+      "lon": -101.633585,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "117"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77109230,
+      "lat": 46.861676,
+      "lon": -101.722938,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77109265,
+      "lat": 46.862179,
+      "lon": -101.642471,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "117"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77118399,
+      "lat": 46.86152,
+      "lon": -101.607635,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77122600,
+      "lat": 46.8371276,
+      "lon": -100.8698314,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "153"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77137021,
+      "lat": 46.8614371,
+      "lon": -101.4123397,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "127"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77137749,
+      "lat": 46.861428,
+      "lon": -101.579504,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "120"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77137918,
+      "lat": 46.8613381,
+      "lon": -101.5169878,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "123"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77301609,
+      "lat": 48.763902,
+      "lon": -97.212514,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77301719,
+      "lat": 48.7567058,
+      "lon": -97.2081315,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77301829,
+      "lat": 48.5751061,
+      "lon": -97.1864255,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77302219,
+      "lat": 48.632691,
+      "lon": -97.182187,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "191"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77303114,
+      "lat": 48.7061002,
+      "lon": -97.1903489,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "196"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77303213,
+      "lat": 48.798891,
+      "lon": -97.2309645,
+      "tags": {
+        "highway": "motorway_junction",
+        "odbl": "clean",
+        "ref": "203"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77303628,
+      "lat": 48.88032,
+      "lon": -97.231485,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77303789,
+      "lat": 48.807501,
+      "lon": -97.231457,
+      "tags": {
+        "highway": "motorway_junction",
+        "odbl": "clean",
+        "ref": "203"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77304694,
+      "lat": 48.662041,
+      "lon": -97.182653,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "193"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77305396,
+      "lat": 48.9742675,
+      "lon": -97.256704,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "215"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77305770,
+      "lat": 48.872431,
+      "lon": -97.230158,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77306080,
+      "lat": 48.5666348,
+      "lon": -97.1863902,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77307367,
+      "lat": 48.931136,
+      "lon": -97.257142,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "212"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77307646,
+      "lat": 48.654633,
+      "lon": -97.181821,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "193"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77307679,
+      "lat": 48.625565,
+      "lon": -97.181295,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "191"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77307795,
+      "lat": 48.938514,
+      "lon": -97.258645,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "212"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77308136,
+      "lat": 48.9669336,
+      "lon": -97.2584118,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "215"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77308369,
+      "lat": 48.6983599,
+      "lon": -97.1900288,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "196"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77335968,
+      "lat": 48.9953877,
+      "lon": -97.2402788,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77364171,
+      "lat": 48.7736236,
+      "lon": -97.7410828,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77478812,
+      "lat": 45.940356,
+      "lon": -96.840966,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77482775,
+      "lat": 45.968522,
+      "lon": -96.836297,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77496866,
+      "lat": 46.547866,
+      "lon": -96.823083,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77496994,
+      "lat": 46.38049,
+      "lon": -96.830097,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "31"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77497539,
+      "lat": 46.5401503,
+      "lon": -96.8255597,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77497616,
+      "lat": 46.569382,
+      "lon": -96.822891,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "44"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77499155,
+      "lat": 46.149523,
+      "lon": -96.834144,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77499744,
+      "lat": 46.2563152,
+      "lon": -96.8336832,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77500908,
+      "lat": 46.307883,
+      "lon": -96.830977,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "26"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77515376,
+      "lat": 46.156201,
+      "lon": -96.834467,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77515489,
+      "lat": 46.266386,
+      "lon": -96.833916,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77519827,
+      "lat": 46.055514,
+      "lon": -96.835773,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77521979,
+      "lat": 45.9370542,
+      "lon": -96.8425298,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77535350,
+      "lat": 46.576349,
+      "lon": -96.823472,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "44"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77536551,
+      "lat": 46.467378,
+      "lon": -96.830496,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77536973,
+      "lat": 46.626898,
+      "lon": -96.831232,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "48"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77538461,
+      "lat": 46.261208,
+      "lon": -96.834018,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77540089,
+      "lat": 45.961471,
+      "lon": -96.835835,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77540731,
+      "lat": 46.047856,
+      "lon": -96.835233,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77541133,
+      "lat": 46.387544,
+      "lon": -96.83044,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "31"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77542856,
+      "lat": 46.474509,
+      "lon": -96.831111,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77548663,
+      "lat": 46.315278,
+      "lon": -96.831389,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "26"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77796579,
+      "lat": 46.8969557,
+      "lon": -103.1848193,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77796625,
+      "lat": 46.89671,
+      "lon": -103.196425,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77801889,
+      "lat": 46.8837725,
+      "lon": -102.7277104,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "64"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77806961,
+      "lat": 46.8934566,
+      "lon": -102.8263477,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77845058,
+      "lat": 46.8888933,
+      "lon": -102.7393338,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "64"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77881325,
+      "lat": 46.852919,
+      "lon": -102.207338,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "90"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77881540,
+      "lat": 46.877121,
+      "lon": -102.564483,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "72"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77881594,
+      "lat": 46.877277,
+      "lon": -102.428254,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "78"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77886564,
+      "lat": 46.88898,
+      "lon": -103.00323,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77890555,
+      "lat": 46.8907559,
+      "lon": -102.8355318,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77890826,
+      "lat": 46.8959635,
+      "lon": -102.7961823,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "61"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77895698,
+      "lat": 46.888271,
+      "lon": -102.993004,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77900552,
+      "lat": 46.87085,
+      "lon": -102.302645,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "84"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77900682,
+      "lat": 46.855677,
+      "lon": -102.196417,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "90"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77925048,
+      "lat": 46.877016,
+      "lon": -102.436142,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "78"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77927168,
+      "lat": 46.896164,
+      "lon": -102.7838333,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "61"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77934027,
+      "lat": 46.872313,
+      "lon": -102.312078,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "84"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77942436,
+      "lat": 46.879157,
+      "lon": -102.574992,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "72"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77963688,
+      "lat": 46.8906957,
+      "lon": -102.882939,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "56"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77975945,
+      "lat": 46.891647,
+      "lon": -99.037292,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "242"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77984685,
+      "lat": 46.877745,
+      "lon": -99.304499,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "230"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77984841,
+      "lat": 46.88401,
+      "lon": -99.240648,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 77985023,
+      "lat": 46.891072,
+      "lon": -98.742024,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "257"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78001020,
+      "lat": 46.89251,
+      "lon": -98.477359,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "269"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78005463,
+      "lat": 46.892431,
+      "lon": -98.62504,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "262"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78009437,
+      "lat": 46.878036,
+      "lon": -99.335976,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "228"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78013946,
+      "lat": 46.885654,
+      "lon": -99.117309,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "238"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78034653,
+      "lat": 46.885,
+      "lon": -99.232416,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78036873,
+      "lat": 46.886167,
+      "lon": -99.126328,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "238"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78038241,
+      "lat": 46.892265,
+      "lon": -98.804232,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78047797,
+      "lat": 46.8898008,
+      "lon": -98.6768746,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "260"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78055265,
+      "lat": 46.877839,
+      "lon": -99.347363,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "228"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78059761,
+      "lat": 46.873769,
+      "lon": -99.436099,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78065628,
+      "lat": 46.891308,
+      "lon": -99.045843,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "242"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78065759,
+      "lat": 46.891863,
+      "lon": -98.992209,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "245"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78070845,
+      "lat": 46.892573,
+      "lon": -98.846778,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "251"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78085161,
+      "lat": 46.88493,
+      "lon": -98.714326,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "258"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78088016,
+      "lat": 46.892274,
+      "lon": -98.7499437,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "256"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78101105,
+      "lat": 46.892485,
+      "lon": -98.799425,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78103653,
+      "lat": 46.89226,
+      "lon": -98.912547,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "248"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78103696,
+      "lat": 46.892316,
+      "lon": -98.855832,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "251"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78106462,
+      "lat": 46.88691,
+      "lon": -98.722392,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "258"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78112695,
+      "lat": 46.892512,
+      "lon": -98.904118,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "248"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78113561,
+      "lat": 46.877929,
+      "lon": -99.295585,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "230"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78119362,
+      "lat": 46.8921294,
+      "lon": -98.7607963,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "256"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78123666,
+      "lat": 47.3496736,
+      "lon": -97.0501313,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78123687,
+      "lat": 47.3559518,
+      "lon": -97.0501947,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "100"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78126917,
+      "lat": 47.5961787,
+      "lon": -97.0801761,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "118"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78126933,
+      "lat": 47.6032201,
+      "lon": -97.0799092,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78128241,
+      "lat": 46.892184,
+      "lon": -98.633529,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "262"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78128383,
+      "lat": 46.892253,
+      "lon": -98.486369,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "269"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78131401,
+      "lat": 47.4948034,
+      "lon": -97.0846125,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78131426,
+      "lat": 47.5015925,
+      "lon": -97.0882822,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "111"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78133078,
+      "lat": 47.2421651,
+      "lon": -97.0122807,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "92"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78134272,
+      "lat": 47.400305,
+      "lon": -97.0735476,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78134708,
+      "lat": 47.668924,
+      "lon": -97.0796828,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "123"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78138461,
+      "lat": 46.891377,
+      "lon": -98.983725,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "245"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78139436,
+      "lat": 47.406518,
+      "lon": -97.0742885,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78141190,
+      "lat": 46.8887347,
+      "lon": -98.6809488,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "260"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78144611,
+      "lat": 47.4949143,
+      "lon": -97.0841923,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "111"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78144631,
+      "lat": 47.5016916,
+      "lon": -97.0878677,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78144675,
+      "lat": 47.349682,
+      "lon": -97.0496965,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "100"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78144690,
+      "lat": 47.35596,
+      "lon": -97.049758,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78150032,
+      "lat": 47.5961604,
+      "lon": -97.0806138,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78150051,
+      "lat": 47.6032265,
+      "lon": -97.0803429,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "118"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78166077,
+      "lat": 48.467339,
+      "lon": -97.190172,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "180"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78166492,
+      "lat": 48.522979,
+      "lon": -97.188448,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "184"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78185446,
+      "lat": 48.292027,
+      "lon": -97.188767,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "168"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78187402,
+      "lat": 48.350118,
+      "lon": -97.189167,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "172"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78192742,
+      "lat": 48.4555,
+      "lon": -97.194034,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78192758,
+      "lat": 48.462394,
+      "lon": -97.19381,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78196996,
+      "lat": 48.240351,
+      "lon": -97.189457,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "164"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78198292,
+      "lat": 48.297978,
+      "lon": -97.189242,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "168"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78198949,
+      "lat": 48.356226,
+      "lon": -97.18963,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "172"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78201003,
+      "lat": 48.200432,
+      "lon": -97.189329,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78204447,
+      "lat": 48.408944,
+      "lon": -97.190192,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78206325,
+      "lat": 48.473104,
+      "lon": -97.190676,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "180"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78228411,
+      "lat": 48.415253,
+      "lon": -97.190727,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78233830,
+      "lat": 48.233654,
+      "lon": -97.189018,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "164"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78234389,
+      "lat": 48.1974706,
+      "lon": -97.1889192,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78240824,
+      "lat": 48.524605,
+      "lon": -97.186899,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "184"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78288974,
+      "lat": 48.2101725,
+      "lon": -101.2524755,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78315644,
+      "lat": 48.2097173,
+      "lon": -101.3116783,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78348986,
+      "lat": 48.2082051,
+      "lon": -101.2899516,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78357278,
+      "lat": 48.208052,
+      "lon": -101.30303,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78361776,
+      "lat": 48.23705,
+      "lon": -101.3383654,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78377755,
+      "lat": 48.211227,
+      "lon": -101.3217,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78387981,
+      "lat": 48.208829,
+      "lon": -101.307662,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 78390540,
+      "lat": 48.2108439,
+      "lon": -101.2438923,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 453046416,
+      "lat": 46.8904653,
+      "lon": -102.8959018,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "56"
+      }
+    },
+    {
+      "type": "node",
+      "id": 481819820,
+      "lat": 47.9179608,
+      "lon": -97.0937263,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "140"
+      }
+    },
+    {
+      "type": "node",
+      "id": 939830488,
+      "lat": 47.9137642,
+      "lon": -97.0663243,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 974324151,
+      "lat": 47.9183414,
+      "lon": -97.0400157,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1417182081,
+      "lat": 47.9150188,
+      "lon": -97.0664665,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1417530532,
+      "lat": 47.777047,
+      "lon": -97.0779894,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "130"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1417530543,
+      "lat": 47.7700516,
+      "lon": -97.0775153,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "130"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1685971095,
+      "lat": 46.8473936,
+      "lon": -96.8909777,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "347"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766223223,
+      "lat": 47.3283674,
+      "lon": -97.0477979,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766223262,
+      "lat": 47.3358792,
+      "lon": -97.049992,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1994525682,
+      "lat": 47.8895181,
+      "lon": -97.0735291,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5923334254,
+      "lat": 48.7735537,
+      "lon": -97.7404858,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6023897140,
+      "lat": 46.8625305,
+      "lon": -96.8477164,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6026368308,
+      "lat": 46.8617429,
+      "lon": -96.8605037,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6721640091,
+      "lat": 46.8755437,
+      "lon": -97.4344105,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "320"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9236513567,
+      "lat": 48.244333,
+      "lon": -101.338431,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10980318964,
+      "lat": 46.8775191,
+      "lon": -96.9623602,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "342"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9573448,
+      "center": {
+        "lat": 46.9206885,
+        "lon": -97.7845535
+      },
+      "tags": {
+        "destination": "Oriska;Fingal",
+        "destination:ref": "ND 32",
+        "highway": "motorway_link",
+        "junction:ref": "302",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9573910,
+      "center": {
+        "lat": 46.9100439,
+        "lon": -98.0121325
+      },
+      "tags": {
+        "destination": "Valley City",
+        "highway": "motorway_link",
+        "junction:ref": "292",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9574566,
+      "center": {
+        "lat": 46.9058985,
+        "lon": -98.200741
+      },
+      "tags": {
+        "destination": "Rogers",
+        "destination:ref": "ND 1 North",
+        "highway": "motorway_link",
+        "junction:ref": "283",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9574799,
+      "center": {
+        "lat": 46.916174,
+        "lon": -97.9669775
+      },
+      "tags": {
+        "destination": "Valley City",
+        "highway": "motorway_link",
+        "junction:ref": "294",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9574955,
+      "center": {
+        "lat": 46.9193685,
+        "lon": -97.873425
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "298",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9574966,
+      "center": {
+        "lat": 46.9192795,
+        "lon": -97.7894625
+      },
+      "tags": {
+        "destination": "Oriska;Fingal",
+        "destination:ref": "ND 32",
+        "highway": "motorway_link",
+        "junction:ref": "302",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9575036,
+      "center": {
+        "lat": 46.918683,
+        "lon": -97.684999
+      },
+      "tags": {
+        "destination": "Tower City",
+        "highway": "motorway_link",
+        "junction:ref": "307",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND;Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9575530,
+      "center": {
+        "lat": 46.9119705,
+        "lon": -98.083346
+      },
+      "tags": {
+        "destination": "Verona;Oakes",
+        "destination:ref": "ND 1 South",
+        "highway": "motorway_link",
+        "junction:ref": "288",
+        "lanes": "1",
+        "maxspeed": "75 mph",
+        "oneway": "yes",
+        "ref": "ND 1",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9575731,
+      "center": {
+        "lat": 46.9184095,
+        "lon": -97.680844
+      },
+      "tags": {
+        "destination": "Tower City",
+        "highway": "motorway_link",
+        "junction:ref": "307",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND;Cass, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9576197,
+      "center": {
+        "lat": 46.917543,
+        "lon": -97.9625365
+      },
+      "tags": {
+        "destination": "Valley City",
+        "destination:ref": "I 94 BUS",
+        "highway": "motorway_link",
+        "junction:ref": "294",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "I 94 Business",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9576792,
+      "center": {
+        "lat": 46.913963,
+        "lon": -98.079989
+      },
+      "tags": {
+        "destination": "Verona;Oakes",
+        "destination:ref": "ND 1 South",
+        "highway": "motorway_link",
+        "junction:ref": "288",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9577872,
+      "center": {
+        "lat": 46.9209029,
+        "lon": -97.9111644
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "296",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9579285,
+      "center": {
+        "lat": 46.9073472,
+        "lon": -98.1937281
+      },
+      "tags": {
+        "destination": "Rogers",
+        "destination:ref": "ND 1 North",
+        "highway": "motorway_link",
+        "junction:ref": "283",
+        "lanes": "1",
+        "maxspeed": "75 mph",
+        "oneway": "yes",
+        "ref": "ND 1",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9579286,
+      "center": {
+        "lat": 46.9118565,
+        "lon": -98.0380945
+      },
+      "tags": {
+        "destination": "Valley City",
+        "destination:ref": "I 94 BUS",
+        "highway": "motorway_link",
+        "junction:ref": "290",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "I 94 Business",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9580290,
+      "center": {
+        "lat": 46.9120128,
+        "lon": -98.0078563
+      },
+      "tags": {
+        "destination": "Valley City",
+        "highway": "motorway_link",
+        "junction:ref": "292",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9583585,
+      "center": {
+        "lat": 46.9130881,
+        "lon": -98.0388551
+      },
+      "tags": {
+        "destination": "Valley City",
+        "highway": "motorway_link",
+        "junction:ref": "290",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Barnes, ND",
+        "tiger:name_base": "24th",
+        "tiger:name_direction_suffix": "SW",
+        "tiger:name_type": "Ave"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9622778,
+      "center": {
+        "lat": 46.890033,
+        "lon": -97.638476
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "310",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9622931,
+      "center": {
+        "lat": 46.8765757,
+        "lon": -97.2610011
+      },
+      "tags": {
+        "destination": "Lynchburg",
+        "highway": "motorway_link",
+        "junction:ref": "328",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9623181,
+      "center": {
+        "lat": 46.87687,
+        "lon": -97.5531905
+      },
+      "tags": {
+        "destination": "Buffalo;Alice",
+        "destination:ref": "ND 38 North",
+        "highway": "motorway_link",
+        "junction:ref": "314",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9623192,
+      "center": {
+        "lat": 46.876303,
+        "lon": -97.4906895
+      },
+      "tags": {
+        "destination": "Ayr",
+        "highway": "motorway_link",
+        "junction:ref": "317",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9625894,
+      "center": {
+        "lat": 46.8768245,
+        "lon": -97.0130457
+      },
+      "tags": {
+        "destination": "Kindred",
+        "highway": "motorway_link",
+        "junction:ref": "340",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9626721,
+      "center": {
+        "lat": 46.7185025,
+        "lon": -96.8315425
+      },
+      "tags": {
+        "destination": "Oxbow;Davenport",
+        "destination:ref": "CR 16",
+        "highway": "motorway_link",
+        "junction:ref": "54",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9627039,
+      "center": {
+        "lat": 46.8781232,
+        "lon": -97.0086608
+      },
+      "tags": {
+        "destination": "Kindred",
+        "highway": "motorway_link",
+        "junction:ref": "340",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9627045,
+      "center": {
+        "lat": 46.8782598,
+        "lon": -96.9668238
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "342",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9627893,
+      "center": {
+        "lat": 46.715536,
+        "lon": -96.8293815
+      },
+      "tags": {
+        "destination": "Oxbow;Davenport",
+        "destination:ref": "CR 16",
+        "highway": "motorway_link",
+        "junction:ref": "54",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9627915,
+      "center": {
+        "lat": 46.7444185,
+        "lon": -96.8388753
+      },
+      "tags": {
+        "destination": "Wild Rice;Horace",
+        "highway": "motorway_link",
+        "junction:ref": "56",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9628160,
+      "center": {
+        "lat": 46.6571874,
+        "lon": -96.8300519
+      },
+      "tags": {
+        "destination": "Hickson;Oxbow",
+        "destination:ref": "CR 18",
+        "highway": "motorway_link",
+        "junction:ref": "50",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9629638,
+      "center": {
+        "lat": 46.8747117,
+        "lon": -97.2079255
+      },
+      "tags": {
+        "destination": "Casselton;Leonard",
+        "destination:ref": "ND 18",
+        "highway": "motorway_link",
+        "junction:ref": "331",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9629835,
+      "center": {
+        "lat": 46.7471551,
+        "lon": -96.8407909
+      },
+      "tags": {
+        "destination": "Wild Rice;Horace",
+        "highway": "motorway_link",
+        "junction:ref": "56",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9630083,
+      "center": {
+        "lat": 46.6610997,
+        "lon": -96.83252
+      },
+      "tags": {
+        "destination": "Hickson;Oxbow",
+        "destination:ref": "CR 18",
+        "highway": "motorway_link",
+        "junction:ref": "50",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9630163,
+      "center": {
+        "lat": 46.87662,
+        "lon": -97.0552725
+      },
+      "tags": {
+        "destination": "Mapleton",
+        "highway": "motorway_link",
+        "junction:ref": "338",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9630452,
+      "center": {
+        "lat": 46.8911638,
+        "lon": -97.6429472
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "310",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9631294,
+      "center": {
+        "lat": 46.6317362,
+        "lon": -96.8326815
+      },
+      "tags": {
+        "destination": "Kindred",
+        "destination:ref": "ND 46",
+        "highway": "motorway_link",
+        "junction:ref": "48",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND:Richland, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9668514,
+      "center": {
+        "lat": 48.1340906,
+        "lon": -97.190061
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "157",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Grand Forks, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9668690,
+      "center": {
+        "lat": 47.7718587,
+        "lon": -97.0768224
+      },
+      "tags": {
+        "destination": "Thompson",
+        "destination:ref": "ND 15 West;CR 81A East",
+        "highway": "motorway_link",
+        "junction:ref": "130",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9669540,
+      "center": {
+        "lat": 47.7753591,
+        "lon": -97.0786935
+      },
+      "tags": {
+        "destination": "Thompson",
+        "destination:ref": "ND 15 West;CR 81A East",
+        "highway": "motorway_link",
+        "junction:ref": "130",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9670385,
+      "center": {
+        "lat": 48.1369675,
+        "lon": -97.191986
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "157",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Grand Forks, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9670401,
+      "center": {
+        "lat": 47.6736701,
+        "lon": -97.0796792
+      },
+      "tags": {
+        "destination": "Reynolds",
+        "destination:ref": "CR 25",
+        "highway": "motorway_link",
+        "junction:ref": "123",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9670708,
+      "center": {
+        "lat": 48.0759985,
+        "lon": -97.1681649
+      },
+      "tags": {
+        "destination": "Manvel;Gilby",
+        "destination:ref": "US 81 North",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "152",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "US 81",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9670710,
+      "center": {
+        "lat": 47.9844044,
+        "lon": -97.0923927
+      },
+      "tags": {
+        "destination:street": "North Washington Street",
+        "highway": "motorway_link",
+        "junction:ref": "145",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Grand Forks, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9671613,
+      "center": {
+        "lat": 47.9892327,
+        "lon": -97.0944443
+      },
+      "tags": {
+        "destination:ref": "US 81 Business",
+        "destination:street": "North Washington Street",
+        "highway": "motorway_link",
+        "junction:ref": "145",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "US 81 Business",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Grand Forks, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9673630,
+      "center": {
+        "lat": 46.931072,
+        "lon": -104.0098139
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Beach",
+        "destination:ref": "ND 16",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Golden Valley, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9673863,
+      "center": {
+        "lat": 46.9324555,
+        "lon": -104.005531
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Beach",
+        "destination:ref": "ND 16",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Golden Valley, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9726622,
+      "center": {
+        "lat": 46.8194264,
+        "lon": -100.8414299
+      },
+      "tags": {
+        "destination": "Bismarck Expressway",
+        "destination:ref": "I 94 Business",
+        "highway": "motorway_link",
+        "junction:ref": "156",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:county": "Morton, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9731724,
+      "center": {
+        "lat": 46.8451663,
+        "lon": -100.9054717
+      },
+      "tags": {
+        "destination": "Sunset Drive",
+        "highway": "motorway_link",
+        "junction:ref": "152",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:county": "Morton, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9733004,
+      "center": {
+        "lat": 46.820571,
+        "lon": -100.8405443
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Bismarck;Mandan",
+        "destination:ref": "I 94 Business East",
+        "highway": "motorway_link",
+        "junction:ref": "156",
+        "layer": "1",
+        "oneway": "yes",
+        "tiger:county": "Morton, ND",
+        "tiger:reviewed": "no",
+        "unsigned_ref": "I 194"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9734703,
+      "center": {
+        "lat": 46.8375643,
+        "lon": -100.8754719
+      },
+      "tags": {
+        "destination": "Mandan Avenue",
+        "destination:ref": "ND 1806",
+        "highway": "motorway_link",
+        "junction:ref": "153",
+        "oneway": "yes",
+        "tiger:county": "Morton, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745556,
+      "center": {
+        "lat": 48.762074,
+        "lon": -97.2126092
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "200",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745599,
+      "center": {
+        "lat": 48.6310885,
+        "lon": -97.1829845
+      },
+      "tags": {
+        "destination": "Saint Thomas",
+        "destination:ref": "CR 11",
+        "highway": "motorway_link",
+        "junction:ref": "191",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745675,
+      "center": {
+        "lat": 48.7040673,
+        "lon": -97.191179
+      },
+      "tags": {
+        "destination:ref": "CR 3",
+        "highway": "motorway_link",
+        "junction:ref": "196",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745724,
+      "center": {
+        "lat": 48.8783231,
+        "lon": -97.2320408
+      },
+      "tags": {
+        "destination": "Bathgate",
+        "destination:ref": "CR 1",
+        "highway": "motorway_link",
+        "junction:ref": "208",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745737,
+      "center": {
+        "lat": 48.8055449,
+        "lon": -97.2328725
+      },
+      "tags": {
+        "destination": "Hamilton;Cavalier",
+        "destination:ref": "US 81;ND 5",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "203",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "US 81",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745799,
+      "center": {
+        "lat": 48.6602758,
+        "lon": -97.1831588
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745886,
+      "center": {
+        "lat": 48.9726191,
+        "lon": -97.2579655
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Neche;Pembina",
+        "destination:ref": "ND 59;CR 55",
+        "foot": "no",
+        "highway": "motorway_link",
+        "junction:ref": "215",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745941,
+      "center": {
+        "lat": 48.8743697,
+        "lon": -97.2295988
+      },
+      "tags": {
+        "destination": "Bathgate",
+        "destination:ref": "CR 1",
+        "highway": "motorway_link",
+        "junction:ref": "208",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9745961,
+      "center": {
+        "lat": 48.5689615,
+        "lon": -97.1856418
+      },
+      "tags": {
+        "destination": "Drayton",
+        "destination:ref": "ND 66",
+        "highway": "motorway_link",
+        "junction:ref": "187",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9746119,
+      "center": {
+        "lat": 48.932824,
+        "lon": -97.2566275
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "212",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9746137,
+      "center": {
+        "lat": 48.6565755,
+        "lon": -97.18099
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9746139,
+      "center": {
+        "lat": 48.6275275,
+        "lon": -97.1808555
+      },
+      "tags": {
+        "destination": "Saint Thomas",
+        "destination:ref": "CR 11",
+        "highway": "motorway_link",
+        "junction:ref": "191",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9746150,
+      "center": {
+        "lat": 48.9365075,
+        "lon": -97.2591605
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "212",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9746184,
+      "center": {
+        "lat": 48.9687481,
+        "lon": -97.2570632
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Neche;Pembina",
+        "destination:ref": "ND 59;CR 55",
+        "foot": "no",
+        "highway": "motorway_link",
+        "junction:ref": "215",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9746195,
+      "center": {
+        "lat": 48.7001925,
+        "lon": -97.1892136
+      },
+      "tags": {
+        "destination:ref": "CR 3",
+        "highway": "motorway_link",
+        "junction:ref": "196",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9757416,
+      "center": {
+        "lat": 45.9381221,
+        "lon": -96.8432153
+      },
+      "tags": {
+        "destination:ref": "CR 1E",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9759023,
+      "center": {
+        "lat": 46.5457584,
+        "lon": -96.8249292
+      },
+      "tags": {
+        "destination": "Walcott",
+        "destination:ref": "CR 2",
+        "highway": "motorway_link",
+        "junction:ref": "42",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9759040,
+      "center": {
+        "lat": 46.3822195,
+        "lon": -96.8290295
+      },
+      "tags": {
+        "destination": "Galchutt",
+        "destination:ref": "CR 8",
+        "highway": "motorway_link",
+        "junction:ref": "31",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9759095,
+      "center": {
+        "lat": 46.5419101,
+        "lon": -96.8237754
+      },
+      "tags": {
+        "destination": "Walcott",
+        "destination:ref": "CR 2",
+        "highway": "motorway_link",
+        "junction:ref": "42",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9759097,
+      "center": {
+        "lat": 46.5709918,
+        "lon": -96.821861
+      },
+      "tags": {
+        "destination": "Christine",
+        "highway": "motorway_link",
+        "junction:ref": "44",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9759232,
+      "center": {
+        "lat": 46.151264,
+        "lon": -96.833022
+      },
+      "tags": {
+        "destination": "Great Bend;Mantador",
+        "destination:ref": "CR 16",
+        "highway": "motorway_link",
+        "junction:ref": "15",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9759299,
+      "center": {
+        "lat": 46.2586988,
+        "lon": -96.8322964
+      },
+      "tags": {
+        "destination": "Mooreton;Wahpeton",
+        "destination:ref": "ND 13",
+        "highway": "motorway_link",
+        "junction:ref": "23",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9759427,
+      "center": {
+        "lat": 46.3096649,
+        "lon": -96.8299041
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "26",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9760328,
+      "center": {
+        "lat": 46.154604,
+        "lon": -96.8355601
+      },
+      "tags": {
+        "destination": "Great Bend;Mantador",
+        "destination:ref": "CR 16",
+        "highway": "motorway_link",
+        "junction:ref": "15",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9760337,
+      "center": {
+        "lat": 46.2640285,
+        "lon": -96.8355181
+      },
+      "tags": {
+        "destination": "Mooreton",
+        "destination:ref": "ND 13 West",
+        "highway": "motorway_link",
+        "junction:ref": "23B",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9760639,
+      "center": {
+        "lat": 46.0535501,
+        "lon": -96.8368373
+      },
+      "tags": {
+        "destination": "Hankinson;Fairmount",
+        "destination:ref": "ND 11",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9760744,
+      "center": {
+        "lat": 45.9368527,
+        "lon": -96.8408984
+      },
+      "tags": {
+        "destination:ref": "CR 1E",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9760889,
+      "center": {
+        "lat": 45.9666415,
+        "lon": -96.837346
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9761565,
+      "center": {
+        "lat": 46.574452,
+        "lon": -96.8245365
+      },
+      "tags": {
+        "destination": "Christine",
+        "highway": "motorway_link",
+        "junction:ref": "44",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9761673,
+      "center": {
+        "lat": 46.469139,
+        "lon": -96.829494
+      },
+      "tags": {
+        "destination": "Colfax;Abercrombie",
+        "destination:ref": "CR 4",
+        "highway": "motorway_link",
+        "junction:ref": "37",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9761702,
+      "center": {
+        "lat": 46.6285415,
+        "lon": -96.8305806
+      },
+      "tags": {
+        "destination": "Kindred",
+        "destination:ref": "ND 46",
+        "highway": "motorway_link",
+        "junction:ref": "48",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND:Richland, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9761813,
+      "center": {
+        "lat": 46.2607101,
+        "lon": -96.8350715
+      },
+      "tags": {
+        "destination": "Wahpeton",
+        "destination:ref": "ND 13 East",
+        "highway": "motorway_link",
+        "junction:ref": "23A",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9761973,
+      "center": {
+        "lat": 45.9630995,
+        "lon": -96.8347625
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9762042,
+      "center": {
+        "lat": 46.0497179,
+        "lon": -96.8341896
+      },
+      "tags": {
+        "destination": "Hankinson;Fairmount",
+        "destination:ref": "ND 11",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9762079,
+      "center": {
+        "lat": 46.3857501,
+        "lon": -96.8315098
+      },
+      "tags": {
+        "destination": "Galchutt",
+        "destination:ref": "CR 8",
+        "highway": "motorway_link",
+        "junction:ref": "31",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9762232,
+      "center": {
+        "lat": 46.4727035,
+        "lon": -96.832082
+      },
+      "tags": {
+        "destination": "Colfax;Abercrombie",
+        "destination:ref": "CR 4",
+        "highway": "motorway_link",
+        "junction:ref": "37",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9762890,
+      "center": {
+        "lat": 46.3133656,
+        "lon": -96.8324966
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "26",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Richland, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9800661,
+      "center": {
+        "lat": 47.4997633,
+        "lon": -97.0879738
+      },
+      "tags": {
+        "destination": "Mayville;Cummings",
+        "destination:ref": "ND 200 West",
+        "highway": "motorway_link",
+        "junction:ref": "111",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Traill, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9800999,
+      "center": {
+        "lat": 47.6705141,
+        "lon": -97.0784624
+      },
+      "tags": {
+        "destination": "Reynolds",
+        "destination:ref": "CR 25",
+        "highway": "motorway_link",
+        "junction:ref": "123",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9801458,
+      "center": {
+        "lat": 47.4050928,
+        "lon": -97.0751722
+      },
+      "tags": {
+        "destination": "Hillsboro",
+        "highway": "motorway_link",
+        "junction:ref": "104",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Traill, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9802040,
+      "center": {
+        "lat": 47.4964391,
+        "lon": -97.0843374
+      },
+      "tags": {
+        "destination": "Mayville;Cummings",
+        "destination:ref": "ND 200 West",
+        "highway": "motorway_link",
+        "junction:ref": "111",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Traill, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9802047,
+      "center": {
+        "lat": 47.3513186,
+        "lon": -97.0489727
+      },
+      "tags": {
+        "destination": "Halstad;Blanchard",
+        "destination:ref": "ND 200 East;ND 200A West",
+        "destination:symbol": "airport",
+        "highway": "motorway_link",
+        "junction:ref": "100",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Traill, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9803510,
+      "center": {
+        "lat": 48.468905,
+        "lon": -97.189375
+      },
+      "tags": {
+        "destination:ref": "CR 9",
+        "highway": "motorway_link",
+        "junction:ref": "180",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9803541,
+      "center": {
+        "lat": 48.522535,
+        "lon": -97.18953
+      },
+      "tags": {
+        "destination": "Drayton",
+        "highway": "motorway_link",
+        "junction:ref": "184",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9804956,
+      "center": {
+        "lat": 48.351654,
+        "lon": -97.1883575
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "172",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9805660,
+      "center": {
+        "lat": 48.2387195,
+        "lon": -97.190223
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "164",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9805756,
+      "center": {
+        "lat": 48.2966349,
+        "lon": -97.190053
+      },
+      "tags": {
+        "destination": "Warsaw;Minto",
+        "destination:ref": "CR 15",
+        "highway": "motorway_link",
+        "junction:ref": "168",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9805784,
+      "center": {
+        "lat": 48.354722,
+        "lon": -97.1904155
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "172",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9805889,
+      "center": {
+        "lat": 48.1997345,
+        "lon": -97.190178
+      },
+      "tags": {
+        "destination": "Oslo;Ardoch",
+        "destination:ref": "ND 54 East;CR 19 West",
+        "highway": "motorway_link",
+        "junction:ref": "161",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9806143,
+      "center": {
+        "lat": 48.4105035,
+        "lon": -97.1894125
+      },
+      "tags": {
+        "destination": "Grafton",
+        "destination:ref": "ND 17",
+        "highway": "motorway_link",
+        "junction:ref": "176",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9808391,
+      "center": {
+        "lat": 48.2353635,
+        "lon": -97.188227
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "164",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9808430,
+      "center": {
+        "lat": 48.1976887,
+        "lon": -97.1880156
+      },
+      "tags": {
+        "destination": "Oslo;Ardoch",
+        "destination:ref": "ND 54 East;CR 19 West",
+        "highway": "motorway_link",
+        "junction:ref": "161",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 9808817,
+      "center": {
+        "lat": 48.5250852,
+        "lon": -97.1865176
+      },
+      "tags": {
+        "destination": "Drayton",
+        "highway": "motorway_link",
+        "junction:ref": "184",
+        "lanes": "1",
+        "maxspeed": "75 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND",
+        "tiger:name_base": "State Highway 44"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38092862,
+      "center": {
+        "lat": 48.7584751,
+        "lon": -97.2086838
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "200",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38093172,
+      "center": {
+        "lat": 48.0789543,
+        "lon": -97.1702494
+      },
+      "tags": {
+        "destination": "Manvel;Gilby",
+        "destination:ref": "US 81 North",
+        "highway": "motorway_link",
+        "junction:ref": "152",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38434210,
+      "center": {
+        "lat": 46.8269957,
+        "lon": -100.8550366
+      },
+      "tags": {
+        "destination": "Main Street",
+        "destination:ref": "I 94 Business",
+        "destination:ref:to": "ND 6",
+        "highway": "motorway_link",
+        "junction:ref": "155",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Morton, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38434216,
+      "center": {
+        "lat": 46.8213348,
+        "lon": -100.8387488
+      },
+      "tags": {
+        "destination": "Bismarck;Mandan",
+        "destination:ref": "I 94 Business East",
+        "highway": "motorway_link",
+        "junction:ref": "156",
+        "oneway": "yes",
+        "tiger:county": "Morton, ND",
+        "tiger:reviewed": "no",
+        "unsigned_ref": "I 194"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38434218,
+      "center": {
+        "lat": 46.8188823,
+        "lon": -100.8388888
+      },
+      "tags": {
+        "destination": "Bismarck;Mandan",
+        "destination:ref": "I 94 Business East",
+        "highway": "motorway_link",
+        "junction:ref": "156",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:county": "Morton, ND",
+        "unsigned_ref": "I 194"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48011643,
+      "center": {
+        "lat": 46.8389408,
+        "lon": -100.8751048
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "153",
+        "oneway": "yes",
+        "tiger:county": "Morton, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48078612,
+      "center": {
+        "lat": 46.83103,
+        "lon": -100.7347727
+      },
+      "tags": {
+        "destination": "Bismarck Expressway;Lincoln",
+        "highway": "motorway_link",
+        "junction:ref": "161",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:county": "Burleigh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48078624,
+      "center": {
+        "lat": 46.8319921,
+        "lon": -100.7275521
+      },
+      "tags": {
+        "destination": "Bismarck Expressway;Lincoln",
+        "highway": "motorway_link",
+        "junction:ref": "261",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "I 94 Business",
+        "surface": "asphalt",
+        "tiger:county": "Burleigh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48109770,
+      "center": {
+        "lat": 46.8372069,
+        "lon": -100.8736843
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "153",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 88832692,
+      "center": {
+        "lat": 48.8015395,
+        "lon": -97.2300614
+      },
+      "tags": {
+        "destination": "Hamilton;Cavalier",
+        "destination:ref": "US 81;ND 5",
+        "highway": "motorway_link",
+        "junction:ref": "203",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 429961970,
+      "center": {
+        "lat": 46.8380946,
+        "lon": -100.8723831
+      },
+      "tags": {
+        "destination:ref": "ND 1806",
+        "destination:street": "Mandan Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "153",
+        "oneway": "yes",
+        "tiger:county": "Morton, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636875110,
+      "center": {
+        "lat": 48.5731739,
+        "lon": -97.1873789
+      },
+      "tags": {
+        "destination": "Drayton",
+        "destination:ref": "ND 66",
+        "highway": "motorway_link",
+        "junction:ref": "187",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Pembina, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636896780,
+      "center": {
+        "lat": 46.8767532,
+        "lon": -96.9720665
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "342",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636897550,
+      "center": {
+        "lat": 46.8733413,
+        "lon": -97.2131752
+      },
+      "tags": {
+        "destination": "Casselton;Leonard",
+        "destination:ref": "ND 18",
+        "highway": "motorway_link",
+        "junction:ref": "331",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636897905,
+      "center": {
+        "lat": 46.8752353,
+        "lon": -97.2660347
+      },
+      "tags": {
+        "destination": "Lynchburg",
+        "highway": "motorway_link",
+        "junction:ref": "328",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636898390,
+      "center": {
+        "lat": 46.8750156,
+        "lon": -97.3480232
+      },
+      "tags": {
+        "destination": "Wheatland;Chaffee",
+        "highway": "motorway_link",
+        "junction:ref": "324",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636898740,
+      "center": {
+        "lat": 46.8752348,
+        "lon": -97.3904131
+      },
+      "tags": {
+        "destination": "Absaraka",
+        "highway": "motorway_link",
+        "junction:ref": "322",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636899625,
+      "center": {
+        "lat": 46.8750444,
+        "lon": -97.4320752
+      },
+      "tags": {
+        "destination": "Embden",
+        "highway": "motorway_link",
+        "junction:ref": "320",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636901383,
+      "center": {
+        "lat": 46.8750058,
+        "lon": -97.4953107
+      },
+      "tags": {
+        "destination": "Ayr",
+        "highway": "motorway_link",
+        "junction:ref": "317",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636902341,
+      "center": {
+        "lat": 46.8746893,
+        "lon": -97.5583897
+      },
+      "tags": {
+        "destination": "Buffalo;Alice",
+        "destination:ref": "ND 38 North",
+        "highway": "motorway_link",
+        "junction:ref": "314",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637149036,
+      "center": {
+        "lat": 46.9787345,
+        "lon": -96.8865605
+      },
+      "tags": {
+        "destination": "Harwood",
+        "highway": "motorway_link",
+        "junction:ref": "72",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637149040,
+      "center": {
+        "lat": 46.975678,
+        "lon": -96.88193
+      },
+      "tags": {
+        "destination": "Harwood",
+        "highway": "motorway_link",
+        "junction:ref": "72",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "paved",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637149386,
+      "center": {
+        "lat": 47.0519259,
+        "lon": -96.9419902
+      },
+      "tags": {
+        "destination": "Argusville",
+        "highway": "motorway_link",
+        "junction:ref": "78",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637149389,
+      "center": {
+        "lat": 47.048831,
+        "lon": -96.93749
+      },
+      "tags": {
+        "destination": "Argusville",
+        "highway": "motorway_link",
+        "junction:ref": "78",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637149828,
+      "center": {
+        "lat": 47.1534675,
+        "lon": -96.975954
+      },
+      "tags": {
+        "destination": "Gardner",
+        "highway": "motorway_link",
+        "junction:ref": "86",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637149829,
+      "center": {
+        "lat": 47.150123,
+        "lon": -96.9726841
+      },
+      "tags": {
+        "destination": "Gardner",
+        "highway": "motorway_link",
+        "junction:ref": "86",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637153719,
+      "center": {
+        "lat": 47.2404764,
+        "lon": -97.0120725
+      },
+      "tags": {
+        "destination": "Grandin",
+        "highway": "motorway_link",
+        "junction:ref": "92",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637153720,
+      "center": {
+        "lat": 47.2369572,
+        "lon": -97.0083551
+      },
+      "tags": {
+        "destination": "Grandin",
+        "highway": "motorway_link",
+        "junction:ref": "92",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637157381,
+      "center": {
+        "lat": 47.3544414,
+        "lon": -97.0509364
+      },
+      "tags": {
+        "destination": "Halstead;Blanchard",
+        "destination:ref": "ND 200 East;ND 200A West",
+        "highway": "motorway_link",
+        "junction:ref": "100",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Traill, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637488898,
+      "center": {
+        "lat": 46.839214,
+        "lon": -100.8753263
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "153",
+        "oneway": "yes",
+        "tiger:county": "Morton, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637500302,
+      "center": {
+        "lat": 47.4019356,
+        "lon": -97.0731744
+      },
+      "tags": {
+        "destination": "Hillsboro",
+        "highway": "motorway_link",
+        "junction:ref": "104",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Traill, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637502033,
+      "center": {
+        "lat": 47.6014273,
+        "lon": -97.0811279
+      },
+      "tags": {
+        "destination": "Buxton",
+        "highway": "motorway_link",
+        "junction:ref": "118",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Traill, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637502034,
+      "center": {
+        "lat": 47.5978997,
+        "lon": -97.079341
+      },
+      "tags": {
+        "destination": "Buxton",
+        "highway": "motorway_link",
+        "junction:ref": "118",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Traill, ND",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637510832,
+      "center": {
+        "lat": 48.2936543,
+        "lon": -97.1879551
+      },
+      "tags": {
+        "destination": "Warsaw;Minto",
+        "destination:ref": "CR 15",
+        "highway": "motorway_link",
+        "junction:ref": "168",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637512964,
+      "center": {
+        "lat": 48.4136515,
+        "lon": -97.191478
+      },
+      "tags": {
+        "destination": "Grafton",
+        "destination:ref": "ND 17",
+        "highway": "motorway_link",
+        "junction:ref": "176",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637528938,
+      "center": {
+        "lat": 48.4717875,
+        "lon": -97.1914235
+      },
+      "tags": {
+        "destination:ref": "CR 9",
+        "highway": "motorway_link",
+        "junction:ref": "180",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 680560253,
+      "center": {
+        "lat": 46.876333,
+        "lon": -97.4273945
+      },
+      "tags": {
+        "destination": "Embden",
+        "highway": "motorway_link",
+        "junction:ref": "320",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 680726593,
+      "center": {
+        "lat": 46.8762369,
+        "lon": -97.3434362
+      },
+      "tags": {
+        "destination": "Wheatland;Chaffee",
+        "highway": "motorway_link",
+        "junction:ref": "324",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cass, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 682012080,
+      "center": {
+        "lat": 46.8764098,
+        "lon": -97.3853816
+      },
+      "tags": {
+        "destination": "Absaraka",
+        "highway": "motorway_link",
+        "junction:ref": "322",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 689467406,
+      "center": {
+        "lat": 46.920772,
+        "lon": -97.8682125
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "298",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 689467408,
+      "center": {
+        "lat": 46.91973,
+        "lon": -97.9156051
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "296",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Barnes, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 715188072,
+      "center": {
+        "lat": 46.8326877,
+        "lon": -100.7300856
+      },
+      "tags": {
+        "destination": "Bismarck Expressway;Lincoln",
+        "highway": "motorway_link",
+        "junction:ref": "261",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "I 94 Business",
+        "surface": "asphalt",
+        "tiger:county": "Burleigh, ND",
+        "turn:lanes": "left;through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 715189049,
+      "center": {
+        "lat": 46.8307053,
+        "lon": -100.7322084
+      },
+      "tags": {
+        "destination": "Bismarck Expressway;Lincoln",
+        "highway": "motorway_link",
+        "junction:ref": "261",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:county": "Burleigh, ND"
+      }
+    },
+    {
+      "type": "way",
+      "id": 844680456,
+      "center": {
+        "lat": 48.5271487,
+        "lon": -97.1849591
+      },
+      "tags": {
+        "destination": "Drayton",
+        "highway": "motorway_link",
+        "junction:ref": "184",
+        "lanes": "1",
+        "maxspeed": "65 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Walsh, ND",
+        "tiger:name_base": "State Highway 44"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1459328672,
+      "center": {
+        "lat": 46.8305618,
+        "lon": -100.7317637
+      },
+      "tags": {
+        "destination": "Bismarck Expressway;Lincoln",
+        "destination:street:to": "Centennial Road",
+        "highway": "motorway_link",
+        "junction:ref": "261",
+        "lanes": "3",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:county": "Burleigh, ND",
+        "turn:lanes": "left;through|right|right"
+      }
+    }
+  ]
+}

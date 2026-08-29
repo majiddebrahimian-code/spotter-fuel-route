@@ -1,0 +1,4368 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-28T01:18:41Z",
+    "timestamp_areas_base": "2026-08-27T07:07:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 25056787,
+      "lat": 43.638878,
+      "lon": -72.3386626,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10 A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25057027,
+      "lat": 43.6417852,
+      "lon": -72.3417137,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25060849,
+      "lat": 43.6371221,
+      "lon": -72.3337686,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25079012,
+      "lat": 43.6438125,
+      "lon": -72.3380566,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25082102,
+      "lat": 43.648818,
+      "lon": -72.3360006,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25322763,
+      "lat": 43.6622573,
+      "lon": -72.3204791,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25322779,
+      "lat": 43.6703746,
+      "lon": -72.3182769,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25326367,
+      "lat": 43.5254618,
+      "lon": -72.4049859,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25326681,
+      "lat": 43.6330689,
+      "lon": -72.339259,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10 A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25576323,
+      "lat": 43.7024935,
+      "lon": -72.3089291,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25576332,
+      "lat": 43.7095603,
+      "lon": -72.3026936,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 25964610,
+      "lat": 43.8095873,
+      "lon": -72.2175448,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 27247909,
+      "lat": 43.9031855,
+      "lon": -72.1542688,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 27248694,
+      "lat": 43.8164367,
+      "lon": -72.2138637,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 27329380,
+      "lat": 43.9071822,
+      "lon": -72.1497743,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 31097903,
+      "lat": 43.6661099,
+      "lon": -72.3846448,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 31100928,
+      "lat": 43.6631308,
+      "lon": -72.3762406,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204095659,
+      "lat": 43.1714609,
+      "lon": -73.0346869,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204100796,
+      "lat": 42.9269176,
+      "lon": -73.2012462,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204106409,
+      "lat": 43.1772048,
+      "lon": -73.0277239,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204124274,
+      "lat": 42.9187039,
+      "lon": -73.2076817,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204125665,
+      "lat": 43.0441713,
+      "lon": -73.1309544,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204128017,
+      "lat": 42.9058458,
+      "lon": -73.2036915,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204143511,
+      "lat": 43.0519175,
+      "lon": -73.1270385,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204159043,
+      "lat": 42.9023038,
+      "lon": -73.2034967,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204218888,
+      "lat": 44.4000755,
+      "lon": -72.0197732,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204219630,
+      "lat": 44.402734,
+      "lon": -72.021173,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204222578,
+      "lat": 44.407442,
+      "lon": -72.025035,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204226193,
+      "lat": 44.51992,
+      "lon": -72.007653,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204226635,
+      "lat": 44.5141233,
+      "lon": -72.0079321,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204227373,
+      "lat": 44.300238,
+      "lon": -72.054018,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204228437,
+      "lat": 44.554612,
+      "lon": -72.028565,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "24"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204229628,
+      "lat": 44.558539,
+      "lon": -72.02866,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "24"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204232346,
+      "lat": 44.424338,
+      "lon": -71.957305,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204232527,
+      "lat": 44.427722,
+      "lon": -71.951448,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204234894,
+      "lat": 44.4280191,
+      "lon": -72.0339519,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "21"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204236665,
+      "lat": 44.4247034,
+      "lon": -72.0306791,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204236886,
+      "lat": 44.457393,
+      "lon": -72.024743,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204237047,
+      "lat": 44.450609,
+      "lon": -72.023879,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204254560,
+      "lat": 44.428424,
+      "lon": -72.033669,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "21"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204256714,
+      "lat": 44.398543,
+      "lon": -72.0132508,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204257299,
+      "lat": 44.4261182,
+      "lon": -72.030733,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204261695,
+      "lat": 44.2952747,
+      "lon": -72.0596087,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204267164,
+      "lat": 44.3934383,
+      "lon": -72.0170007,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204281268,
+      "lat": 44.4375095,
+      "lon": -72.0419203,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204282033,
+      "lat": 44.4382388,
+      "lon": -72.0424788,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204353713,
+      "lat": 44.4982466,
+      "lon": -73.2285217,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204358973,
+      "lat": 44.4939449,
+      "lon": -73.066436,
+      "tags": {
+        "direction": "backward",
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204360358,
+      "lat": 44.4467474,
+      "lon": -73.2093793,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204365331,
+      "lat": 44.5033471,
+      "lon": -73.0752005,
+      "tags": {
+        "direction": "backward",
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204366042,
+      "lat": 44.490649,
+      "lon": -73.173022,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204366680,
+      "lat": 44.439529,
+      "lon": -73.119137,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204366743,
+      "lat": 44.4390132,
+      "lon": -73.1095127,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204369952,
+      "lat": 44.590339,
+      "lon": -73.170124,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204370188,
+      "lat": 44.4236387,
+      "lon": -73.0116045,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204372101,
+      "lat": 44.4353787,
+      "lon": -73.080498,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204372847,
+      "lat": 44.4743413,
+      "lon": -73.1810782,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "14W"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204373177,
+      "lat": 44.5097753,
+      "lon": -73.0917012,
+      "tags": {
+        "direction": "forward",
+        "highway": "motorway_junction",
+        "note": "This short way segment is required because otherwise the VT 289 West on ramp would have to be mapped oneway=-1 to accomodate exit 9 east bound.",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204376240,
+      "lat": 44.5052864,
+      "lon": -73.0825216,
+      "tags": {
+        "direction": "forward",
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204376517,
+      "lat": 44.466844,
+      "lon": -73.18531,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "14E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204376582,
+      "lat": 44.469505,
+      "lon": -73.184773,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "14E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204381100,
+      "lat": 44.50731,
+      "lon": -73.1859366,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204383774,
+      "lat": 44.4839384,
+      "lon": -73.067107,
+      "tags": {
+        "direction": "backward",
+        "highway": "motorway_junction",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204387062,
+      "lat": 44.555356,
+      "lon": -73.183897,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204387325,
+      "lat": 44.4353474,
+      "lon": -73.0761516,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204387598,
+      "lat": 44.5045693,
+      "lon": -73.2321969,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204390155,
+      "lat": 44.4550534,
+      "lon": -73.1841856,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204390236,
+      "lat": 44.4523751,
+      "lon": -73.1822235,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "13"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204390719,
+      "lat": 44.5177573,
+      "lon": -73.1165568,
+      "tags": {
+        "direction": "backward",
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204400056,
+      "lat": 44.470763,
+      "lon": -73.183802,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "14W"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204402017,
+      "lat": 44.5044271,
+      "lon": -73.1779933,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204412306,
+      "lat": 44.5056696,
+      "lon": -73.0847143,
+      "tags": {
+        "direction": "backward",
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204413452,
+      "lat": 44.4235497,
+      "lon": -73.0059605,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204496490,
+      "lat": 44.5935124,
+      "lon": -73.1712601,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204496506,
+      "lat": 44.590764,
+      "lon": -73.170435,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204496711,
+      "lat": 44.5591425,
+      "lon": -73.1817217,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204509552,
+      "lat": 44.924797,
+      "lon": -73.1089956,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "21"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204509583,
+      "lat": 44.9200749,
+      "lon": -73.1062721,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "21"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204512463,
+      "lat": 44.6977101,
+      "lon": -73.1107452,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204512535,
+      "lat": 44.7009574,
+      "lon": -73.1004499,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204515967,
+      "lat": 44.8422629,
+      "lon": -73.0760878,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204521340,
+      "lat": 45.0064613,
+      "lon": -73.0861663,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204526561,
+      "lat": 45.0091268,
+      "lon": -73.0859769,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204535606,
+      "lat": 44.7914952,
+      "lon": -73.070982,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204536573,
+      "lat": 44.7985233,
+      "lon": -73.0674682,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204539684,
+      "lat": 44.846162,
+      "lon": -73.0826547,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204647996,
+      "lat": 45.0107867,
+      "lon": -73.085358,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204648470,
+      "lat": 44.756908,
+      "lon": -73.077291,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204649476,
+      "lat": 45.0143783,
+      "lon": -73.0850431,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204665052,
+      "lat": 43.9406196,
+      "lon": -72.6219575,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204666524,
+      "lat": 43.9284945,
+      "lon": -72.618421,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204669656,
+      "lat": 43.9931332,
+      "lon": -72.6243516,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204674009,
+      "lat": 44.11332,
+      "lon": -72.6085686,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204679497,
+      "lat": 43.985711,
+      "lon": -72.133815,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204680098,
+      "lat": 43.979875,
+      "lon": -72.126281,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204688025,
+      "lat": 44.117214,
+      "lon": -72.607072,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204690236,
+      "lat": 44.157399,
+      "lon": -72.090682,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204691535,
+      "lat": 44.16224,
+      "lon": -72.086842,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204695355,
+      "lat": 44.0190995,
+      "lon": -72.1197776,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204702104,
+      "lat": 44.926076,
+      "lon": -72.1718849,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204710222,
+      "lat": 44.0144437,
+      "lon": -72.1216452,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204721723,
+      "lat": 44.955665,
+      "lon": -72.1498349,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "28"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204723532,
+      "lat": 44.998311,
+      "lon": -72.101483,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204724003,
+      "lat": 43.614792,
+      "lon": -73.211289,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204727364,
+      "lat": 43.6134812,
+      "lon": -73.0969788,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204729086,
+      "lat": 43.5786523,
+      "lon": -72.967998,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204729432,
+      "lat": 43.6164322,
+      "lon": -73.1691589,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204729659,
+      "lat": 44.810388,
+      "lon": -72.211327,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "26"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204731979,
+      "lat": 44.8069839,
+      "lon": -72.2119682,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "26"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204733141,
+      "lat": 44.7332882,
+      "lon": -72.1806945,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "25"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204735963,
+      "lat": 45.0038848,
+      "lon": -72.0901247,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204739095,
+      "lat": 43.9853047,
+      "lon": -72.6279482,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204741276,
+      "lat": 43.589189,
+      "lon": -73.036968,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204745758,
+      "lat": 43.578182,
+      "lon": -72.966603,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204755631,
+      "lat": 45.0028245,
+      "lon": -72.0915861,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204764955,
+      "lat": 44.9230029,
+      "lon": -72.172406,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204773822,
+      "lat": 44.950478,
+      "lon": -72.152099,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "28"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204777003,
+      "lat": 43.602842,
+      "lon": -73.281336,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204778611,
+      "lat": 44.736681,
+      "lon": -72.186106,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "25"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204794365,
+      "lat": 43.619418,
+      "lon": -73.201966,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204800261,
+      "lat": 43.5877934,
+      "lon": -73.0445654,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204817036,
+      "lat": 43.617058,
+      "lon": -73.160635,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204872026,
+      "lat": 44.879617,
+      "lon": -72.172987,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204873307,
+      "lat": 44.871996,
+      "lon": -72.177085,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204886398,
+      "lat": 43.579808,
+      "lon": -72.967044,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204891587,
+      "lat": 44.3447964,
+      "lon": -72.7576543,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204891906,
+      "lat": 44.167723,
+      "lon": -72.5746336,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204911682,
+      "lat": 44.2538964,
+      "lon": -72.5986247,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204912575,
+      "lat": 44.220836,
+      "lon": -72.584986,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204912763,
+      "lat": 44.219061,
+      "lon": -72.559366,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204916586,
+      "lat": 44.212597,
+      "lon": -72.582887,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204918268,
+      "lat": 44.1657372,
+      "lon": -72.5783123,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204926648,
+      "lat": 44.2966509,
+      "lon": -72.6825443,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204932804,
+      "lat": 44.354843,
+      "lon": -72.786127,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204934078,
+      "lat": 44.2490204,
+      "lon": -72.5935602,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204935835,
+      "lat": 43.1784888,
+      "lon": -72.4632717,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204936254,
+      "lat": 43.60548,
+      "lon": -73.254788,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204943209,
+      "lat": 42.8576604,
+      "lon": -72.5812449,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204944164,
+      "lat": 43.0934204,
+      "lon": -72.4548708,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204944962,
+      "lat": 42.9642219,
+      "lon": -72.524347,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204945772,
+      "lat": 43.0892949,
+      "lon": -72.4575469,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204949253,
+      "lat": 44.1662827,
+      "lon": -72.5787798,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204950557,
+      "lat": 44.3400617,
+      "lon": -72.7475843,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204950943,
+      "lat": 42.8087939,
+      "lon": -72.566578,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204951115,
+      "lat": 42.8325982,
+      "lon": -72.5649187,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204951663,
+      "lat": 43.230967,
+      "lon": -72.449177,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204954107,
+      "lat": 42.8540281,
+      "lon": -72.5801742,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204955705,
+      "lat": 42.8885994,
+      "lon": -72.5569732,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204955951,
+      "lat": 42.9771152,
+      "lon": -72.4834801,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204957271,
+      "lat": 43.1637438,
+      "lon": -72.4628865,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204958205,
+      "lat": 43.014528,
+      "lon": -72.472235,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204958750,
+      "lat": 44.300773,
+      "lon": -72.688263,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204959873,
+      "lat": 42.9648102,
+      "lon": -72.5234075,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204962281,
+      "lat": 42.8376143,
+      "lon": -72.5684076,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 204965233,
+      "lat": 42.8836947,
+      "lon": -72.5607404,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205001897,
+      "lat": 42.9993245,
+      "lon": -72.4696626,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205001940,
+      "lat": 43.024919,
+      "lon": -72.471925,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205111198,
+      "lat": 44.2151603,
+      "lon": -72.580904,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205116090,
+      "lat": 43.620516,
+      "lon": -72.347063,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205116363,
+      "lat": 43.528977,
+      "lon": -72.399852,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205129137,
+      "lat": 43.2673742,
+      "lon": -72.4324954,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205129590,
+      "lat": 43.8293797,
+      "lon": -72.5832123,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205129674,
+      "lat": 43.2686714,
+      "lon": -72.4335783,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205130693,
+      "lat": 43.2373579,
+      "lon": -72.4481034,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205145157,
+      "lat": 43.7858638,
+      "lon": -72.4566284,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205149491,
+      "lat": 43.827075,
+      "lon": -72.5795293,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205156182,
+      "lat": 43.6408462,
+      "lon": -72.3397354,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205220824,
+      "lat": 43.728766,
+      "lon": -72.430568,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205227244,
+      "lat": 43.6225153,
+      "lon": -72.3467738,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205347728,
+      "lat": 43.4049095,
+      "lon": -72.4142863,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 205395877,
+      "lat": 43.725942,
+      "lon": -72.424812,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 244486508,
+      "lat": 42.8987262,
+      "lon": -73.1996625,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 249996759,
+      "lat": 43.6403475,
+      "lon": -72.3383133,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10 B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 250005873,
+      "lat": 43.6438134,
+      "lon": -72.3384717,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10 B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 251506278,
+      "lat": 43.4010199,
+      "lon": -72.4143491,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252157380,
+      "lat": 44.4484026,
+      "lon": -73.2044292,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252158672,
+      "lat": 44.4513867,
+      "lon": -73.1812681,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 252158870,
+      "lat": 44.4501059,
+      "lon": -73.1847229,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1558195626,
+      "lat": 42.9118416,
+      "lon": -73.2086422,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1677788157,
+      "lat": 43.7841681,
+      "lon": -72.4478586,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1710312724,
+      "lat": 43.9477979,
+      "lon": -72.6219903,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1790652910,
+      "lat": 43.6063366,
+      "lon": -73.2735766,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3113558800,
+      "lat": 44.3586227,
+      "lon": -71.8970863,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3517583266,
+      "lat": 44.5669288,
+      "lon": -72.0353009,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3517602745,
+      "lat": 44.5827188,
+      "lon": -72.0626879,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3521905054,
+      "lat": 44.3613031,
+      "lon": -72.8122133,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3522705106,
+      "lat": 44.7442803,
+      "lon": -73.0789571,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4521947145,
+      "lat": 44.44801,
+      "lon": -73.209258,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8297619669,
+      "lat": 44.4463792,
+      "lon": -73.2137576,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11800511764,
+      "lat": 44.4477886,
+      "lon": -73.2092814,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4219875,
+      "center": {
+        "lat": 43.6446885,
+        "lon": -72.3374807
+      },
+      "tags": {
+        "destination": "White River Junction",
+        "destination:ref": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "11",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4245989,
+      "center": {
+        "lat": 43.703467,
+        "lon": -72.3078524
+      },
+      "tags": {
+        "destination": "Norwich;Hanover New Hampshire",
+        "destination:ref": "VT 10A",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "13",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4289817,
+      "center": {
+        "lat": 43.6685568,
+        "lon": -72.3191106
+      },
+      "tags": {
+        "destination": "Wilder;White River Junction",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "12",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4297313,
+      "center": {
+        "lat": 43.8107663,
+        "lon": -72.2160506
+      },
+      "tags": {
+        "destination": "Thetford",
+        "destination:ref": "VT 113",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "14",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "ownership": "public",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 4886034,
+      "center": {
+        "lat": 43.814788,
+        "lon": -72.2157167
+      },
+      "tags": {
+        "destination": "Thetford",
+        "destination:ref": "US 5;VT 113",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "14",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "ownership": "public",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19671132,
+      "center": {
+        "lat": 43.1759245,
+        "lon": -73.0303689
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Manchester Center;Manchester",
+        "destination:ref": "VT 11;VT 30",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "junction:ref": "4",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19673319,
+      "center": {
+        "lat": 43.045429,
+        "lon": -73.1297369
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Arlington;Sunderland",
+        "destination:ref": "VT 313",
+        "destination:ref:to": "VT 7A",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "junction:ref": "3",
+        "lane_markings": "yes",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19673693,
+      "center": {
+        "lat": 43.1744617,
+        "lon": -73.0329726
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Manchester Center;Manchester",
+        "destination:ref": "VT 11;VT 30",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "junction:ref": "4",
+        "lanes": "2",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19675400,
+      "center": {
+        "lat": 43.0501204,
+        "lon": -73.1285763
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Arlington;Shaftsbury",
+        "destination:ref": "VT 313",
+        "destination:ref:to": "VT 7A",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "junction:ref": "3",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19679603,
+      "center": {
+        "lat": 44.4043125,
+        "lon": -72.0214135
+      },
+      "tags": {
+        "destination": "Saint Johnsbury",
+        "destination:ref": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;police;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19679726,
+      "center": {
+        "lat": 44.4054305,
+        "lon": -72.0244115
+      },
+      "tags": {
+        "destination": "Saint Johnsbury",
+        "destination:ref": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;police;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "45 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19679882,
+      "center": {
+        "lat": 44.517713,
+        "lon": -72.008166
+      },
+      "tags": {
+        "destination": "Lyndonville;East Burke",
+        "destination:ref": "US 5",
+        "destination:ref:to": "VT 114",
+        "highway": "motorway_link",
+        "junction:ref": "23",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19679896,
+      "center": {
+        "lat": 44.516676,
+        "lon": -72.0056065
+      },
+      "tags": {
+        "destination": "Lyndonville;East Burke",
+        "destination:ref": "US 5",
+        "destination:ref:to": "VT 114",
+        "highway": "motorway_link",
+        "junction:ref": "23",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19679958,
+      "center": {
+        "lat": 44.554148,
+        "lon": -72.0276175
+      },
+      "tags": {
+        "destination": "Sheffield;Burke",
+        "destination:ref": "VT 122",
+        "destination:ref:to": "US 5;VT 114",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info",
+        "highway": "motorway_link",
+        "junction:ref": "24",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19679991,
+      "center": {
+        "lat": 44.557435,
+        "lon": -72.030326
+      },
+      "tags": {
+        "destination": "Lyndonville;Burke",
+        "destination:ref": "VT 122",
+        "destination:ref:to": "US 5;VT 114",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info",
+        "highway": "motorway_link",
+        "junction:ref": "24",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19680086,
+      "center": {
+        "lat": 44.4270257,
+        "lon": -71.9538896
+      },
+      "tags": {
+        "destination": "Saint Johnsbury",
+        "destination:ref": "VT 18",
+        "destination:ref:to": "US 2",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19680164,
+      "center": {
+        "lat": 44.4277886,
+        "lon": -72.0352219
+      },
+      "tags": {
+        "destination": "Saint Johnsbury;Montpelier",
+        "destination:ref": "US 2",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "21",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19682529,
+      "center": {
+        "lat": 44.3956355,
+        "lon": -72.0150035
+      },
+      "tags": {
+        "destination": "Littleton New Hampshire",
+        "destination:ref": "I 93 South",
+        "highway": "motorway_link",
+        "junction:ref": "19",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "50 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19683066,
+      "center": {
+        "lat": 44.4287663,
+        "lon": -72.032753
+      },
+      "tags": {
+        "destination": "Saint Johnsbury;Montpelier",
+        "destination:ref": "US 2",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;camp_site",
+        "hgv": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "21",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19686323,
+      "center": {
+        "lat": 44.4391472,
+        "lon": -73.1172679
+      },
+      "tags": {
+        "destination": "Williston;Essex Junction",
+        "destination:ref": "VT 2A",
+        "destination:ref:to": "US 2;VT 116",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "12",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19686467,
+      "center": {
+        "lat": 44.5923099,
+        "lon": -73.1717967
+      },
+      "tags": {
+        "destination": "Lake Champlain Islands;Colchester",
+        "destination:ref": "US 2;US 7",
+        "destination:symbol": "park_and_ride",
+        "highway": "motorway_link",
+        "junction:ref": "17",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19686474,
+      "center": {
+        "lat": 44.5910205,
+        "lon": -73.1691035
+      },
+      "tags": {
+        "destination": "Lake Champlain Islands;Colchester",
+        "destination:ref": "US 2;US 7",
+        "destination:symbol": "park_and_ride",
+        "highway": "motorway_link",
+        "junction:ref": "17",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19686480,
+      "center": {
+        "lat": 44.4232523,
+        "lon": -73.0099742
+      },
+      "tags": {
+        "destination": "Richmond;Bolton",
+        "destination:ref": "US 2",
+        "destination:ref:to": "VT 117",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info",
+        "highway": "motorway_link",
+        "junction:ref": "11",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19687170,
+      "center": {
+        "lat": 44.5063808,
+        "lon": -73.1839521
+      },
+      "tags": {
+        "destination": "Winooski;Colchester",
+        "destination:ref": "US 2;US 7",
+        "destination:ref:to": "VT 15",
+        "highway": "motorway_link",
+        "junction:ref": "16",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "turn:lanes:forward": "left|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19689179,
+      "center": {
+        "lat": 44.4245076,
+        "lon": -73.0086873
+      },
+      "tags": {
+        "destination": "Richmond;Williston",
+        "destination:ref": "US 2",
+        "destination:ref:to": "VT 117",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info",
+        "highway": "motorway_link",
+        "junction:ref": "11",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19692777,
+      "center": {
+        "lat": 44.923432,
+        "lon": -73.108778
+      },
+      "tags": {
+        "destination": "Swanton",
+        "destination:ref": "VT 78;US 7",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "21",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19692782,
+      "center": {
+        "lat": 44.9212656,
+        "lon": -73.1064349
+      },
+      "tags": {
+        "destination": "Swanton",
+        "destination:ref": "VT 78;US 7",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;camp_site",
+        "hgv": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "21",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19692950,
+      "center": {
+        "lat": 44.697525,
+        "lon": -73.108947
+      },
+      "tags": {
+        "destination": "Georgia Center;Fairfax",
+        "destination:ref": "US 7",
+        "destination:ref:to": "VT 104A",
+        "destination:symbol": "fuel;fuel_diesel;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "18",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19692954,
+      "center": {
+        "lat": 44.7012392,
+        "lon": -73.1028773
+      },
+      "tags": {
+        "destination": "Milton;Fairfax",
+        "destination:ref": "US 7",
+        "destination:ref:to": "VT 104A",
+        "destination:symbol": "fuel;fuel_diesel;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "18",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19693396,
+      "center": {
+        "lat": 45.0072323,
+        "lon": -73.0852198
+      },
+      "tags": {
+        "destination": "Highgate Springs",
+        "destination:ref": "US 7 South",
+        "destination:symbol": "fuel;fuel_diesel",
+        "highway": "motorway_link",
+        "junction:ref": "22",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19693747,
+      "center": {
+        "lat": 45.0085481,
+        "lon": -73.0867221
+      },
+      "tags": {
+        "destination": "Highgate Springs",
+        "destination:ref": "US 7 South",
+        "destination:symbol": "fuel;fuel_diesel",
+        "highway": "motorway_link",
+        "junction:ref": "22",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19694549,
+      "center": {
+        "lat": 44.793766,
+        "lon": -73.0703757
+      },
+      "tags": {
+        "destination": "Saint Albans",
+        "destination:ref": "US 7;VT 36;VT 104",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "19",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19694665,
+      "center": {
+        "lat": 44.797207,
+        "lon": -73.0699692
+      },
+      "tags": {
+        "destination": "Saint Albans",
+        "destination:ref": "US 7;VT 36;VT 104",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "19",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19702358,
+      "center": {
+        "lat": 43.9427679,
+        "lon": -72.6210598
+      },
+      "tags": {
+        "destination": "Randolph",
+        "destination:ref": "VT 66",
+        "destination:ref:to": "VT 12",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;hospital;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19702395,
+      "center": {
+        "lat": 43.9460724,
+        "lon": -72.6225967
+      },
+      "tags": {
+        "destination": "Randolph",
+        "destination:ref": "VT 66",
+        "destination:ref:to": "VT 12",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;hospital;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19702828,
+      "center": {
+        "lat": 44.11391,
+        "lon": -72.6073163
+      },
+      "tags": {
+        "destination": "Northfield;Williamstown",
+        "destination:ref": "VT 64",
+        "destination:ref:to": "VT 12;VT 14",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19703089,
+      "center": {
+        "lat": 44.1580025,
+        "lon": -72.089505
+      },
+      "tags": {
+        "destination": "Wells River;Woodsville New Hampshire",
+        "destination:ref": "US 302",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;hospital;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "17",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Orange, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19703653,
+      "center": {
+        "lat": 44.116365,
+        "lon": -72.6079525
+      },
+      "tags": {
+        "destination": "Northfield;Williamstown",
+        "destination:ref": "VT 64",
+        "destination:ref:to": "VT 12;VT 14",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19703868,
+      "center": {
+        "lat": 44.161341,
+        "lon": -72.0894465
+      },
+      "tags": {
+        "destination": "Wells River;Woodsville New Hampshire",
+        "destination:ref": "US 302",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;hospital;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "17",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Orange, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19705763,
+      "center": {
+        "lat": 44.9538495,
+        "lon": -72.151364
+      },
+      "tags": {
+        "destination": "Newport;Derby Center",
+        "destination:ref": "US 5;VT 105",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "28",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19705875,
+      "center": {
+        "lat": 43.6152716,
+        "lon": -73.2079556
+      },
+      "tags": {
+        "destination": "Castleton Corners;Poultney",
+        "destination:ref": "VT 30",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19706545,
+      "center": {
+        "lat": 43.6160116,
+        "lon": -73.167508
+      },
+      "tags": {
+        "destination": "Castleton",
+        "destination:ref:to": "VT 4A",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19706572,
+      "center": {
+        "lat": 44.80879,
+        "lon": -72.2127845
+      },
+      "tags": {
+        "destination": "Orleans;Irasburg",
+        "destination:ref": "US 5;VT 58",
+        "highway": "motorway_link",
+        "junction:ref": "26",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Orleans, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19706842,
+      "center": {
+        "lat": 44.8075615,
+        "lon": -72.2106006
+      },
+      "tags": {
+        "destination": "Orleans;Irasburg",
+        "destination:ref": "US 5;VT 58",
+        "highway": "motorway_link",
+        "junction:ref": "26",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Orleans, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19706975,
+      "center": {
+        "lat": 44.7347316,
+        "lon": -72.1819833
+      },
+      "tags": {
+        "destination": "Barton;Glover",
+        "destination:ref": "VT 16",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "25",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19707286,
+      "center": {
+        "lat": 45.0040391,
+        "lon": -72.09041
+      },
+      "tags": {
+        "destination": "Derby Line",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;lodging",
+        "highway": "trunk_link",
+        "junction:ref": "29",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Orleans, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19707968,
+      "center": {
+        "lat": 43.589201,
+        "lon": -73.0382082
+      },
+      "tags": {
+        "destination": "Proctor;West Rutland",
+        "destination:ref": "US 4 Business",
+        "destination:ref:to": "VT 4A;VT 3",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "source": "tiger_import_dch_v0.6_20070830",
+        "surface": "asphalt",
+        "tiger:county": "Rutland, VT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19709110,
+      "center": {
+        "lat": 45.0033196,
+        "lon": -72.0900987
+      },
+      "tags": {
+        "destination": "Derby Line",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "29",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Orleans, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19709535,
+      "center": {
+        "lat": 44.922749,
+        "lon": -72.171399
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "VT 191",
+        "destination:ref:to": "US 5;VT 105",
+        "destination:symbol": "border patrol",
+        "highway": "motorway_link",
+        "junction:ref": "27",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19709920,
+      "center": {
+        "lat": 44.9514388,
+        "lon": -72.1507563
+      },
+      "tags": {
+        "destination": "Newport;Derby Center",
+        "destination:ref": "US 5;VT 105",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "28",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19710939,
+      "center": {
+        "lat": 43.618787,
+        "lon": -73.2040975
+      },
+      "tags": {
+        "destination": "Poultney;Castleton Corners",
+        "destination:ref": "VT 30",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19711388,
+      "center": {
+        "lat": 43.5877235,
+        "lon": -73.0421473
+      },
+      "tags": {
+        "destination": "West Rutland;Proctor",
+        "destination:ref": "US 4 Business",
+        "destination:ref:to": "VT 4A;VT 3",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "ref": "US 4 Business",
+        "source": "tiger_import_dch_v0.6_20070830",
+        "surface": "asphalt",
+        "tiger:county": "Rutland, VT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19711992,
+      "center": {
+        "lat": 43.6177335,
+        "lon": -73.162204
+      },
+      "tags": {
+        "destination": "Castleton",
+        "destination:ref:to": "VT 4A",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19715610,
+      "center": {
+        "lat": 44.3444966,
+        "lon": -72.7569603
+      },
+      "tags": {
+        "destination": "Waterbury;Stowe",
+        "destination:ref": "VT 100",
+        "destination:ref:to": "US 2",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;fuel_ev;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "10",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19716182,
+      "center": {
+        "lat": 43.6065802,
+        "lon": -73.2762831
+      },
+      "tags": {
+        "destination": "Fair Haven;Vergennes",
+        "destination:ref": "VT 22A",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19716781,
+      "center": {
+        "lat": 44.2517122,
+        "lon": -72.5967815
+      },
+      "tags": {
+        "destination": "Montpelier;Saint Johnsbury",
+        "destination:ref": "US 2",
+        "destination:ref:to": "VT 12",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site;info;fuel_ev",
+        "hgv": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19716878,
+      "center": {
+        "lat": 44.2179494,
+        "lon": -72.5835878
+      },
+      "tags": {
+        "destination": "Berlin;Barre",
+        "destination:ref": "VT 62",
+        "destination:ref:to": "US 302",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;hospital",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19717100,
+      "center": {
+        "lat": 44.2138299,
+        "lon": -72.5819298
+      },
+      "tags": {
+        "destination": "Berlin;Barre",
+        "destination:ref": "VT 62 East",
+        "destination:ref:to": "US 302",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;hospital",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Washington, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19717178,
+      "center": {
+        "lat": 44.1666884,
+        "lon": -72.5766459
+      },
+      "tags": {
+        "destination": "South Barre;Barre",
+        "destination:ref": "VT 63 East",
+        "destination:ref:to": "VT 14",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Washington, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19718187,
+      "center": {
+        "lat": 44.2975566,
+        "lon": -72.6836364
+      },
+      "tags": {
+        "destination": "Middlesex;Moretown",
+        "destination:ref": "US 2",
+        "destination:ref:to": "VT 100B",
+        "destination:symbol": "fuel_ev;police",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19719015,
+      "center": {
+        "lat": 44.2505102,
+        "lon": -72.5943141
+      },
+      "tags": {
+        "destination": "Montpelier",
+        "destination:ref": "US 2",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site;info;fuel_ev",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19719255,
+      "center": {
+        "lat": 43.1780074,
+        "lon": -72.4642016
+      },
+      "tags": {
+        "destination": "Rockingham;Bellows Falls",
+        "destination:ref": "US 5;VT 103",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;police",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19719736,
+      "center": {
+        "lat": 42.8559822,
+        "lon": -72.5815468
+      },
+      "tags": {
+        "destination": "Brattleboro;Bennington",
+        "destination:ref": "VT 9 West",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;police",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19719842,
+      "center": {
+        "lat": 43.0922797,
+        "lon": -72.4559019
+      },
+      "tags": {
+        "destination": "Westminster;Walpole New Hampshire",
+        "destination:ref:to": "US 5;VT 123",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Windham, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19719963,
+      "center": {
+        "lat": 42.9644025,
+        "lon": -72.5227375
+      },
+      "tags": {
+        "destination": "Putney",
+        "destination:ref": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site;info",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19720060,
+      "center": {
+        "lat": 43.0899515,
+        "lon": -72.456564
+      },
+      "tags": {
+        "destination": "Westminster;Walpole New Hampshire",
+        "destination:ref:to": "US 5;VT 123",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Windham, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19720450,
+      "center": {
+        "lat": 44.1667499,
+        "lon": -72.5778465
+      },
+      "tags": {
+        "destination": "South Barre;Barre",
+        "destination:ref": "VT 63 East",
+        "destination:ref:to": "VT 14",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19720654,
+      "center": {
+        "lat": 44.3404784,
+        "lon": -72.7478251
+      },
+      "tags": {
+        "destination": "Waterbury;Stowe",
+        "destination:ref": "VT 100",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;fuel_ev;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "10",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "tiger_import_dch_v0.6_20070830",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19720762,
+      "center": {
+        "lat": 42.8341354,
+        "lon": -72.5656012
+      },
+      "tags": {
+        "destination": "Brattleboro;Guildford",
+        "destination:ref": "US 5",
+        "destination:ref:to": "VT 142",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site;info;hospital",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19721166,
+      "center": {
+        "lat": 42.8546321,
+        "lon": -72.5796388
+      },
+      "tags": {
+        "destination": "Brattleboro;Bennington",
+        "destination:ref": "VT 9 West",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;police",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "maxspeed": "30 mph",
+        "maxspeed:advisory": "20 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19721417,
+      "center": {
+        "lat": 42.8872923,
+        "lon": -72.5587039
+      },
+      "tags": {
+        "destination": "Brattleboro;Keene New Hampshire",
+        "destination:ref": "US 5;VT 9 East",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19721972,
+      "center": {
+        "lat": 42.964629,
+        "lon": -72.5246755
+      },
+      "tags": {
+        "destination": "Putney",
+        "destination:ref": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site;info",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19722589,
+      "center": {
+        "lat": 42.8845819,
+        "lon": -72.5593415
+      },
+      "tags": {
+        "destination": "Brattleboro;Keene New Hampshire",
+        "destination:ref": "US 5;VT 9 East",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19722659,
+      "center": {
+        "lat": 43.1664484,
+        "lon": -72.4603354
+      },
+      "tags": {
+        "destination": "Rockingham;Rutland",
+        "destination:ref": "US 5",
+        "destination:ref:to": "VT 103",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;police",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Windham, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19731614,
+      "center": {
+        "lat": 43.2681238,
+        "lon": -72.4313217
+      },
+      "tags": {
+        "destination": "Springfield",
+        "destination:ref": "US 5;VT 11;VT 106",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19731676,
+      "center": {
+        "lat": 43.8274344,
+        "lon": -72.5822951
+      },
+      "tags": {
+        "destination": "Bethel;Royalton",
+        "destination:ref": "VT 107",
+        "destination:ref:to": "VT 14;VT 100",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;police",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "VT 107",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19731683,
+      "center": {
+        "lat": 43.2676357,
+        "lon": -72.4340256
+      },
+      "tags": {
+        "destination": "Springfield",
+        "destination:ref": "US 5;VT 11;VT 106",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19732837,
+      "center": {
+        "lat": 43.5260794,
+        "lon": -72.4031179
+      },
+      "tags": {
+        "destination": "Hartland;Windsor",
+        "destination:ref": "US 5;VT 12",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19733664,
+      "center": {
+        "lat": 43.8279165,
+        "lon": -72.5789508
+      },
+      "tags": {
+        "destination": "Bethel;Royalton",
+        "destination:ref": "VT 107",
+        "destination:ref:to": "VT 14",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;police",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 19733971,
+      "center": {
+        "lat": 43.7088625,
+        "lon": -72.3048936
+      },
+      "tags": {
+        "destination": "Norwich;Hanover New Hampshire",
+        "destination:ref": "US 5",
+        "destination:ref:to": "VT 10A",
+        "highway": "motorway_link",
+        "junction:ref": "13",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40190793,
+      "center": {
+        "lat": 44.3983323,
+        "lon": -72.0163898
+      },
+      "tags": {
+        "destination": "Littleton New Hampshire",
+        "destination:ref": "I 93 South",
+        "hgv": "designated",
+        "highway": "motorway_link",
+        "junction:ref": "19",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "45 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A19:A63",
+        "tiger:county": "Caledonia, VT",
+        "tiger:name_base": "I-93",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 166084376,
+      "center": {
+        "lat": 44.2992727,
+        "lon": -72.6869539
+      },
+      "tags": {
+        "destination": "Middlesex;Moretown",
+        "destination:ref": "US 2",
+        "destination:ref:to": "VT 100B",
+        "destination:symbol": "fuel_ev;police",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577488409,
+      "center": {
+        "lat": 44.5053283,
+        "lon": -73.1816299
+      },
+      "tags": {
+        "destination:lanes": "Colchester|Winooski",
+        "destination:ref:lanes": "US 2 West;US 7 North|US 2 East;US 7 South",
+        "destination:ref:to:lanes": "|VT 15",
+        "highway": "motorway_link",
+        "junction:ref": "16",
+        "lanes": "2",
+        "oneway": "yes",
+        "placement": "middle_of:1",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "turn:lanes": "left;right|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577488413,
+      "center": {
+        "lat": 44.505814,
+        "lon": -73.1805466
+      },
+      "tags": {
+        "change:lanes": "no|no|no",
+        "destination:lanes": "Winooski|Colchster;Malletts Bay|Colchster;Malletts Bay",
+        "destination:ref:lanes": "US 2 East;US 7 South|US 2 West;US 7 North|US 2 West;US 7 North",
+        "highway": "motorway_link",
+        "junction:ref": "16",
+        "lanes": "3",
+        "oneway": "yes",
+        "overtaking": "no",
+        "surface": "asphalt",
+        "turn:lanes": "left|right|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 577488414,
+      "center": {
+        "lat": 44.5050465,
+        "lon": -73.1790653
+      },
+      "tags": {
+        "destination": "Winooski;Colchester",
+        "destination:ref": "US 2;US 7",
+        "highway": "motorway_link",
+        "junction:ref": "16",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591845095,
+      "center": {
+        "lat": 44.735702,
+        "lon": -72.1851155
+      },
+      "tags": {
+        "destination": "Barton;Glover",
+        "destination:ref": "VT 16",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "25",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591845115,
+      "center": {
+        "lat": 44.5150972,
+        "lon": -72.0068796
+      },
+      "tags": {
+        "destination": "Lyndonville;East Burke",
+        "destination:ref": "US 5",
+        "destination:ref:to": "VT 114",
+        "highway": "motorway_link",
+        "junction:ref": "23",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591849606,
+      "center": {
+        "lat": 43.981717,
+        "lon": -72.12781
+      },
+      "tags": {
+        "destination": "Bradford;Barre",
+        "destination:ref": "VT 25",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "16",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591849607,
+      "center": {
+        "lat": 43.9846948,
+        "lon": -72.1333594
+      },
+      "tags": {
+        "destination": "Bradford;Barre",
+        "destination:ref": "VT 25",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "16",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591857664,
+      "center": {
+        "lat": 43.402192,
+        "lon": -72.4139109
+      },
+      "tags": {
+        "destination": "Ascutney;Windsor",
+        "destination:ref": "VT 131",
+        "destination:ref:to": "US 5;VT 12",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591857665,
+      "center": {
+        "lat": 43.4035758,
+        "lon": -72.4147406
+      },
+      "tags": {
+        "destination": "Ascutney;Windsor",
+        "destination:ref": "VT 131",
+        "destination:ref:to": "US 5;VT 12",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591878301,
+      "center": {
+        "lat": 43.6038654,
+        "lon": -73.2793063
+      },
+      "tags": {
+        "destination": "Fair Haven;Vergennes",
+        "destination:ref": "VT 22A",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591878302,
+      "center": {
+        "lat": 44.8427981,
+        "lon": -73.0770481
+      },
+      "tags": {
+        "destination": "Saint Albans",
+        "destination:ref": "VT 207",
+        "destination:ref:to": "US 7",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591878303,
+      "center": {
+        "lat": 44.8446375,
+        "lon": -73.0815696
+      },
+      "tags": {
+        "destination": "Saint Albans",
+        "destination:ref": "VT 207",
+        "destination:ref:to": "US 7",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591878307,
+      "center": {
+        "lat": 44.9249,
+        "lon": -72.1729544
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "VT 191",
+        "destination:ref:to": "US 5;VT 105",
+        "destination:symbol": "border patrol",
+        "highway": "motorway_link",
+        "junction:ref": "27",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591883817,
+      "center": {
+        "lat": 43.6149481,
+        "lon": -73.2101236
+      },
+      "tags": {
+        "destination": "Castleton Corners;Poultney",
+        "destination:ref": "VT 30",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591883818,
+      "center": {
+        "lat": 44.161903,
+        "lon": -72.08795
+      },
+      "tags": {
+        "destination": "Wells River;Woodsville New Hampshire",
+        "destination:ref": "US 302",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;hospital;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "17",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Orange, VT",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591898198,
+      "center": {
+        "lat": 44.2966358,
+        "lon": -72.0578681
+      },
+      "tags": {
+        "destination": "Barnet;Peacham",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "18",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591898199,
+      "center": {
+        "lat": 44.299889,
+        "lon": -72.056071
+      },
+      "tags": {
+        "destination": "Barnet;Peacham",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "18",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591898200,
+      "center": {
+        "lat": 43.6471389,
+        "lon": -72.3378748
+      },
+      "tags": {
+        "destination": "White River Junction",
+        "destination:ref": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "11",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591898201,
+      "center": {
+        "lat": 43.528582,
+        "lon": -72.4013
+      },
+      "tags": {
+        "destination": "Hartland;Windsor",
+        "destination:ref": "US 5;VT 12",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 591898202,
+      "center": {
+        "lat": 43.6636393,
+        "lon": -72.3197336
+      },
+      "tags": {
+        "destination": "Wilder",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "12",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592136233,
+      "center": {
+        "lat": 44.4517184,
+        "lon": -72.0237645
+      },
+      "tags": {
+        "destination": "Saint Johnsbury",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;hospital",
+        "highway": "motorway_link",
+        "junction:ref": "22",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592136234,
+      "center": {
+        "lat": 44.455886,
+        "lon": -72.02523
+      },
+      "tags": {
+        "destination": "Saint Johnsbury",
+        "destination:ref:to": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;hospital",
+        "highway": "motorway_link",
+        "junction:ref": "22",
+        "lanes": "1",
+        "lit": "no",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592146324,
+      "center": {
+        "lat": 44.424705,
+        "lon": -71.955828
+      },
+      "tags": {
+        "destination": "Saint Johnsbury;Lower Waterford",
+        "destination:ref": "VT 18",
+        "destination:ref:to": "US 2",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;camp_site",
+        "hgv": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 592150100,
+      "center": {
+        "lat": 44.4394726,
+        "lon": -73.1121386
+      },
+      "tags": {
+        "destination": "Williston;Essex Junction",
+        "destination:ref": "VT 2A",
+        "destination:ref:to": "US 2;VT 116",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "12",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 764296859,
+      "center": {
+        "lat": 43.7048158,
+        "lon": -72.3062853
+      },
+      "tags": {
+        "destination": "Norwich;Hanover New Hampshire",
+        "destination:ref": "VT 10A",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "13",
+        "lanes": "2",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 764296860,
+      "center": {
+        "lat": 43.7052511,
+        "lon": -72.3057419
+      },
+      "tags": {
+        "destination": "Thetford;Saint Johnsbury",
+        "destination:ref": "VT 10A",
+        "destination:ref:to": "US 5",
+        "highway": "motorway_link",
+        "junction:ref": "13",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 897227537,
+      "center": {
+        "lat": 44.8436965,
+        "lon": -73.0785986
+      },
+      "tags": {
+        "destination": "Saint Albans",
+        "destination:ref": "VT 207",
+        "destination:ref:to": "US 7",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 984989617,
+      "center": {
+        "lat": 43.2661424,
+        "lon": -72.4350521
+      },
+      "tags": {
+        "destination": "Springfield",
+        "destination:ref": "US 5;VT 11;VT 106",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1021447578,
+      "center": {
+        "lat": 44.3439395,
+        "lon": -72.7561264
+      },
+      "tags": {
+        "destination": "Waterbury;Stowe",
+        "destination:ref": "VT 100",
+        "destination:ref:to": "US 2",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;fuel_ev;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "10",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1032086946,
+      "center": {
+        "lat": 43.1782118,
+        "lon": -72.4651475
+      },
+      "tags": {
+        "destination": "Rockingham;Bellows Falls",
+        "destination:ref": "US 5;VT 103",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1032605866,
+      "center": {
+        "lat": 44.79616,
+        "lon": -73.072828
+      },
+      "tags": {
+        "destination": "Saint Albans",
+        "destination:ref": "US 7;VT 36;VT 104",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "19",
+        "lanes": "2",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|through;right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1065721987,
+      "center": {
+        "lat": 42.8856932,
+        "lon": -72.5586013
+      },
+      "tags": {
+        "destination": "Brattleboro;Keene New Hampshire",
+        "destination:ref": "US 5;VT 9 East",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "maxspeed": "35 mph",
+        "maxspeed:advisory": "30 mph",
+        "noname": "yes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1075445515,
+      "center": {
+        "lat": 44.5197699,
+        "lon": -72.0076027
+      },
+      "tags": {
+        "destination": "Lyndonville;East Burke",
+        "destination:ref": "US 5",
+        "destination:ref:to": "VT 114",
+        "highway": "motorway_link",
+        "junction:ref": "23",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1075445516,
+      "center": {
+        "lat": 44.5194923,
+        "lon": -72.0075097
+      },
+      "tags": {
+        "destination": "Lyndonville;East Burke",
+        "destination:ref": "US 5",
+        "destination:ref:to": "VT 114",
+        "highway": "motorway_link",
+        "junction:ref": "23",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1256902249,
+      "center": {
+        "lat": 44.4059045,
+        "lon": -72.0223095
+      },
+      "tags": {
+        "destination": "Saint Johnsbury",
+        "destination:ref": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;police;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1256902255,
+      "center": {
+        "lat": 44.4034005,
+        "lon": -72.023481
+      },
+      "tags": {
+        "destination": "Saint Johnsbury",
+        "destination:ref": "US 5",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;info;police;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "45 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1274972215,
+      "center": {
+        "lat": 44.952001,
+        "lon": -72.1525215
+      },
+      "tags": {
+        "destination": "Newport;Derby Center",
+        "destination:ref": "US 5;VT 105",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "28",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1304306313,
+      "center": {
+        "lat": 44.9524715,
+        "lon": -72.1494392
+      },
+      "tags": {
+        "destination": "Newport;Derby Center",
+        "destination:ref": "US 5;VT 105",
+        "destination:symbol": "police",
+        "highway": "motorway_link",
+        "junction:ref": "28",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1312626757,
+      "center": {
+        "lat": 44.6971293,
+        "lon": -73.1070834
+      },
+      "tags": {
+        "destination": "Georgia Center;Fairfax",
+        "destination:ref": "US 7",
+        "destination:ref:to": "VT 104A",
+        "destination:symbol": "fuel;fuel_diesel;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "18",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1312626760,
+      "center": {
+        "lat": 44.7016831,
+        "lon": -73.1053673
+      },
+      "tags": {
+        "destination": "Milton;Fairfax",
+        "destination:ref": "US 7",
+        "destination:ref:to": "VT 104A",
+        "destination:symbol": "fuel;fuel_diesel;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "18",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1319956742,
+      "center": {
+        "lat": 43.6183853,
+        "lon": -73.205947
+      },
+      "tags": {
+        "destination:ref": "VT 30",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    }
+  ]
+}

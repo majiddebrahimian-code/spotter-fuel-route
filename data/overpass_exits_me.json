@@ -1,0 +1,7072 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-28T00:57:21Z",
+    "timestamp_areas_base": "2026-08-27T09:36:50Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 84563554,
+      "lat": 44.07638,
+      "lon": -70.182154,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84564018,
+      "lat": 44.036789,
+      "lon": -70.271263,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "75"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84566026,
+      "lat": 44.07228,
+      "lon": -70.188553,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "80"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84567559,
+      "lat": 44.0767598,
+      "lon": -70.1866167,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84567587,
+      "lat": 44.074657,
+      "lon": -70.183168,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84568713,
+      "lat": 44.1107366,
+      "lon": -70.2061863,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84575677,
+      "lat": 44.0379048,
+      "lon": -70.268698,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "75"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84575933,
+      "lat": 44.1036271,
+      "lon": -70.0811158,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "86"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84591455,
+      "lat": 44.1207902,
+      "lon": -70.229255,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 84637664,
+      "lat": 44.0974187,
+      "lon": -70.0916242,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "86"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101219786,
+      "lat": 46.0030837,
+      "lon": -68.2814784,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "276"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101229690,
+      "lat": 46.145372,
+      "lon": -68.0557477,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "61",
+        "ref": "291"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101252150,
+      "lat": 46.141105,
+      "lon": -67.834037,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "62",
+        "ref": "302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101273637,
+      "lat": 43.6694194,
+      "lon": -70.2589168,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101274101,
+      "lat": 43.864764,
+      "lon": -70.1075603,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101274361,
+      "lat": 43.9085286,
+      "lon": -69.9161941,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101275557,
+      "lat": 43.6299026,
+      "lon": -70.3359336,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101275748,
+      "lat": 43.667398,
+      "lon": -70.3312661,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101276408,
+      "lat": 43.8461435,
+      "lon": -70.1192688,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101276488,
+      "lat": 43.8384682,
+      "lon": -70.1250497,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101277414,
+      "lat": 43.655974,
+      "lon": -70.285917,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101277597,
+      "lat": 43.6499942,
+      "lon": -70.2888456,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101277632,
+      "lat": 43.6540675,
+      "lon": -70.2864113,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101278881,
+      "lat": 43.6254777,
+      "lon": -70.3248597,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101279071,
+      "lat": 43.6263135,
+      "lon": -70.3327539,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101282885,
+      "lat": 43.6298619,
+      "lon": -70.3378089,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101283103,
+      "lat": 43.6288826,
+      "lon": -70.3345442,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101283441,
+      "lat": 46.1323589,
+      "lon": -67.7881767,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "63",
+        "ref": "305"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101288095,
+      "lat": 43.72984,
+      "lon": -70.233512,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101291071,
+      "lat": 43.821612,
+      "lon": -70.319994,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101292174,
+      "lat": 43.655255,
+      "lon": -70.285194,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101292275,
+      "lat": 43.6018429,
+      "lon": -70.3756146,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101292328,
+      "lat": 43.6094956,
+      "lon": -70.3679522,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "42"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101293416,
+      "lat": 43.6751876,
+      "lon": -70.2564499,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101293822,
+      "lat": 43.9163219,
+      "lon": -70.0128508,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101293916,
+      "lat": 43.6282647,
+      "lon": -70.3480996,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "45"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101295363,
+      "lat": 43.6249426,
+      "lon": -70.3232938,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101297062,
+      "lat": 43.7341145,
+      "lon": -70.2293636,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101297293,
+      "lat": 43.663824,
+      "lon": -70.2638761,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101299098,
+      "lat": 43.9190617,
+      "lon": -69.9575303,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101301751,
+      "lat": 43.6354847,
+      "lon": -70.3005139,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101307246,
+      "lat": 43.6400933,
+      "lon": -70.2946255,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101309639,
+      "lat": 43.655355,
+      "lon": -70.286455,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101310345,
+      "lat": 43.7280562,
+      "lon": -70.2362364,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101313488,
+      "lat": 43.6617291,
+      "lon": -70.2708896,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101314240,
+      "lat": 43.6308155,
+      "lon": -70.3134622,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101314511,
+      "lat": 43.660657,
+      "lon": -70.2735536,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101315319,
+      "lat": 43.8203548,
+      "lon": -70.3198165,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101315455,
+      "lat": 43.8010913,
+      "lon": -70.1863592,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101316362,
+      "lat": 45.868871,
+      "lon": -68.414965,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "264"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101317299,
+      "lat": 43.6263095,
+      "lon": -70.318522,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101317383,
+      "lat": 43.6020281,
+      "lon": -70.3190454,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101318353,
+      "lat": 43.6654943,
+      "lon": -70.2603789,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101319242,
+      "lat": 43.9172998,
+      "lon": -70.021725,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "28"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101320085,
+      "lat": 43.9181198,
+      "lon": -69.948549,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "F"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101320125,
+      "lat": 43.9209438,
+      "lon": -69.9531417,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101320415,
+      "lat": 43.7304254,
+      "lon": -70.3026568,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101320569,
+      "lat": 43.6631877,
+      "lon": -70.2662122,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101322472,
+      "lat": 43.661702,
+      "lon": -70.3320174,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101322774,
+      "lat": 43.8642075,
+      "lon": -70.1082723,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101322981,
+      "lat": 43.6277371,
+      "lon": -70.3239623,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101324090,
+      "lat": 43.6009693,
+      "lon": -70.3200055,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101327103,
+      "lat": 43.6399194,
+      "lon": -70.2936751,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101329051,
+      "lat": 43.6307783,
+      "lon": -70.3401328,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101329517,
+      "lat": 43.6502918,
+      "lon": -70.3313153,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "46"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101331874,
+      "lat": 43.8110713,
+      "lon": -70.1607036,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101331928,
+      "lat": 43.8046035,
+      "lon": -70.1698484,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101339165,
+      "lat": 43.9185974,
+      "lon": -69.9634804,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101342512,
+      "lat": 43.6774705,
+      "lon": -70.3265376,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "48"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101347140,
+      "lat": 43.9163865,
+      "lon": -70.0240526,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "28"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101347290,
+      "lat": 43.6332181,
+      "lon": -70.3071195,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101352549,
+      "lat": 43.6220506,
+      "lon": -70.3143586,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101353579,
+      "lat": 43.6620828,
+      "lon": -70.2691088,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101355540,
+      "lat": 43.879221,
+      "lon": -70.333483,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101359135,
+      "lat": 43.67324,
+      "lon": -70.346145,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101359182,
+      "lat": 43.7317343,
+      "lon": -70.3025256,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101359339,
+      "lat": 43.8775962,
+      "lon": -70.0855034,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "24"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101359378,
+      "lat": 43.6821209,
+      "lon": -70.3246264,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "48"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101359482,
+      "lat": 43.644642,
+      "lon": -70.332393,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "46"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101368119,
+      "lat": 46.1424805,
+      "lon": -68.0649522,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "61",
+        "ref": "291"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101368333,
+      "lat": 46.1330839,
+      "lon": -67.7852517,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "63",
+        "ref": "305"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101405631,
+      "lat": 46.111404,
+      "lon": -68.156774,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "286"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101472016,
+      "lat": 46.107885,
+      "lon": -68.165621,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "286"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101526578,
+      "lat": 43.6232667,
+      "lon": -70.3533042,
+      "tags": {
+        "highway": "motorway_junction",
+        "loc_name": "tourist exit",
+        "note:loc_name": "taking the next exit saves you money",
+        "ref": "44"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101542927,
+      "lat": 43.9176459,
+      "lon": -69.9704361,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101588900,
+      "lat": 43.6806677,
+      "lon": -70.2552486,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101589169,
+      "lat": 43.7868231,
+      "lon": -70.1873886,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101590023,
+      "lat": 43.6770394,
+      "lon": -70.2563186,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101590060,
+      "lat": 43.6826271,
+      "lon": -70.2532779,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101593947,
+      "lat": 43.6022361,
+      "lon": -70.3193886,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101594557,
+      "lat": 43.9094772,
+      "lon": -69.9202838,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "G"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101840074,
+      "lat": 44.1821695,
+      "lon": -69.8335827,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101842062,
+      "lat": 44.299303,
+      "lon": -69.9797318,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101842595,
+      "lat": 44.2968029,
+      "lon": -69.9837841,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101851846,
+      "lat": 44.1750339,
+      "lon": -69.8334724,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101946816,
+      "lat": 44.0311226,
+      "lon": -69.54495,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 101961292,
+      "lat": 44.0412758,
+      "lon": -69.5310083,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102065795,
+      "lat": 44.7876011,
+      "lon": -68.7865918,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102074567,
+      "lat": 44.792631,
+      "lon": -68.8044429,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "45B",
+        "ref": "182B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102140232,
+      "lat": 44.7844749,
+      "lon": -68.7760157,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102140237,
+      "lat": 44.7864328,
+      "lon": -68.8026571,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102152248,
+      "lat": 44.0945351,
+      "lon": -69.8729112,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "43"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102156023,
+      "lat": 43.9387478,
+      "lon": -69.9821662,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "31"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102162788,
+      "lat": 43.9167948,
+      "lon": -69.8585979,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "P"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102163341,
+      "lat": 44.0128383,
+      "lon": -69.9209215,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102169620,
+      "lat": 43.9074127,
+      "lon": -69.830217,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "Q"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102169634,
+      "lat": 43.9101626,
+      "lon": -69.8220458,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102185279,
+      "lat": 43.9124103,
+      "lon": -69.8020619,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102187786,
+      "lat": 44.0211914,
+      "lon": -69.9191813,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102310622,
+      "lat": 44.597002,
+      "lon": -69.613063,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "132"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102317537,
+      "lat": 44.6017901,
+      "lon": -69.5991484,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "133"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102338049,
+      "lat": 44.4319976,
+      "lon": -69.0156351,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102348531,
+      "lat": 44.4922355,
+      "lon": -68.855832,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102360607,
+      "lat": 44.4192366,
+      "lon": -69.0199309,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102360743,
+      "lat": 44.4302836,
+      "lon": -69.019307,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102397417,
+      "lat": 44.6017144,
+      "lon": -69.5982681,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "133"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102545691,
+      "lat": 43.1042614,
+      "lon": -70.7484703,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102545736,
+      "lat": 43.1081948,
+      "lon": -70.7411733,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102546246,
+      "lat": 43.4842025,
+      "lon": -70.4962219,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "32"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102549439,
+      "lat": 43.511071,
+      "lon": -70.428622,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102551191,
+      "lat": 43.15417,
+      "lon": -70.670646,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102554306,
+      "lat": 43.1060336,
+      "lon": -70.7482067,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102554352,
+      "lat": 43.1041931,
+      "lon": -70.7479561,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102554358,
+      "lat": 43.1057616,
+      "lon": -70.7454968,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102557006,
+      "lat": 43.108774,
+      "lon": -70.738622,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102557164,
+      "lat": 43.406931,
+      "lon": -70.5613849,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "25"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102557325,
+      "lat": 43.4148148,
+      "lon": -70.557246,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "25"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102560516,
+      "lat": 43.126862,
+      "lon": -70.720432,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102567714,
+      "lat": 43.5116295,
+      "lon": -70.4313546,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102569850,
+      "lat": 43.5123924,
+      "lon": -70.4330429,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102570134,
+      "lat": 43.5175084,
+      "lon": -70.465978,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Exit 35 Saco/Buxton Rt-112",
+        "proposed:highway": "motorway_junction",
+        "ref": "35"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102570875,
+      "lat": 43.5234426,
+      "lon": -70.4576808,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102571859,
+      "lat": 43.3251606,
+      "lon": -70.6069422,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102573842,
+      "lat": 43.101722,
+      "lon": -70.7457832,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102575510,
+      "lat": 43.1585229,
+      "lon": -70.6619322,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102576262,
+      "lat": 43.5341915,
+      "lon": -70.4460585,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "35;36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102580319,
+      "lat": 43.5225712,
+      "lon": -70.444907,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102581011,
+      "lat": 43.5206457,
+      "lon": -70.4430847,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102582708,
+      "lat": 43.1023627,
+      "lon": -70.7466243,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102586471,
+      "lat": 43.1053879,
+      "lon": -70.7423166,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102587955,
+      "lat": 43.4775549,
+      "lon": -70.5021702,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "32"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102592782,
+      "lat": 43.328673,
+      "lon": -70.6052738,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102594487,
+      "lat": 43.1080437,
+      "lon": -70.7433056,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102594971,
+      "lat": 43.1015357,
+      "lon": -70.7514084,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102646997,
+      "lat": 43.1040991,
+      "lon": -70.7432368,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102647032,
+      "lat": 43.10001,
+      "lon": -70.7462412,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 102802745,
+      "lat": 43.5130005,
+      "lon": -70.4356557,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 393212048,
+      "lat": 44.591493,
+      "lon": -69.617705,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "132"
+      }
+    },
+    {
+      "type": "node",
+      "id": 393298785,
+      "lat": 46.1381392,
+      "lon": -67.8454452,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "62",
+        "ref": "302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 479158313,
+      "lat": 43.9450958,
+      "lon": -69.9762213,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "31B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 479160458,
+      "lat": 43.9417298,
+      "lon": -69.9795428,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "31A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539927648,
+      "lat": 44.7840112,
+      "lon": -68.8106672,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "45A",
+        "ref": "182A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539930776,
+      "lat": 44.7873708,
+      "lon": -68.8126033,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539930796,
+      "lat": 44.7870288,
+      "lon": -68.808293,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539930798,
+      "lat": 44.7865216,
+      "lon": -68.8087878,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "45A",
+        "ref": "182A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539930807,
+      "lat": 44.7869303,
+      "lon": -68.8083647,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539930844,
+      "lat": 44.7875138,
+      "lon": -68.807819,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "45B",
+        "ref": "182B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539934384,
+      "lat": 44.7861409,
+      "lon": -68.7989919,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539938136,
+      "lat": 44.7874118,
+      "lon": -68.7852549,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3A-B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539942875,
+      "lat": 44.7802986,
+      "lon": -68.7585779,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539942947,
+      "lat": 44.7831998,
+      "lon": -68.7678373,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539945952,
+      "lat": 44.7781985,
+      "lon": -68.7538105,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539946032,
+      "lat": 44.7713115,
+      "lon": -68.7220386,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539946048,
+      "lat": 44.7728148,
+      "lon": -68.7251385,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539947214,
+      "lat": 44.7719246,
+      "lon": -68.8641918,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "44",
+        "ref": "180"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539947286,
+      "lat": 44.7750266,
+      "lon": -68.8556616,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "44",
+        "ref": "180"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540122689,
+      "lat": 44.7660931,
+      "lon": -68.9402253,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540122939,
+      "lat": 44.7676019,
+      "lon": -68.8816016,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540129789,
+      "lat": 44.7590104,
+      "lon": -68.9789195,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "174"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540129856,
+      "lat": 44.759153,
+      "lon": -68.9691636,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "174"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540136866,
+      "lat": 44.7956888,
+      "lon": -68.8028193,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "183"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540136934,
+      "lat": 44.8010973,
+      "lon": -68.8011925,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "183"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540146228,
+      "lat": 44.8062708,
+      "lon": -68.7959004,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "184"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540146260,
+      "lat": 44.8123322,
+      "lon": -68.7902813,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "184"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540146322,
+      "lat": 44.8194007,
+      "lon": -68.7749869,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "185"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540152550,
+      "lat": 44.823707,
+      "lon": -68.758833,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "186"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540152590,
+      "lat": 44.8267058,
+      "lon": -68.7513093,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "186"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540152601,
+      "lat": 44.8290587,
+      "lon": -68.7451295,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540152671,
+      "lat": 44.8358443,
+      "lon": -68.7391265,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540163826,
+      "lat": 44.8701225,
+      "lon": -68.7046155,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "191"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540163869,
+      "lat": 44.8757274,
+      "lon": -68.7006757,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "191"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540163909,
+      "lat": 44.900797,
+      "lon": -68.690966,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "193"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540163946,
+      "lat": 44.9059937,
+      "lon": -68.6936404,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "193"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540174848,
+      "lat": 44.9555489,
+      "lon": -68.7074219,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "197"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540174889,
+      "lat": 44.9630458,
+      "lon": -68.7072396,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "197"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540206745,
+      "lat": 44.9855747,
+      "lon": -68.7031027,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540206787,
+      "lat": 44.990503,
+      "lon": -68.7023704,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "199"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540207320,
+      "lat": 45.2321208,
+      "lon": -68.676259,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "217"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540207368,
+      "lat": 45.2398967,
+      "lon": -68.6780607,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "217"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540214432,
+      "lat": 45.3715782,
+      "lon": -68.6047151,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "227"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540214490,
+      "lat": 45.3809023,
+      "lon": -68.6054545,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "227"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540245050,
+      "lat": 45.5938199,
+      "lon": -68.539074,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540245153,
+      "lat": 45.5987227,
+      "lon": -68.5337603,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540245319,
+      "lat": 45.604035,
+      "lon": -68.52593,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "244"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540245326,
+      "lat": 45.6102534,
+      "lon": -68.5182908,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "244"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540245808,
+      "lat": 45.7080594,
+      "lon": -68.4768787,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540245984,
+      "lat": 45.7950448,
+      "lon": -68.4276994,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "259"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540343422,
+      "lat": 44.2053542,
+      "lon": -69.8249312,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "28",
+        "ref": "51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540343443,
+      "lat": 44.2095524,
+      "lon": -69.8315439,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "102"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540343580,
+      "lat": 44.2243936,
+      "lon": -69.8178542,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "103"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540372399,
+      "lat": 44.3105033,
+      "lon": -69.8086149,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "109"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540372579,
+      "lat": 44.314601,
+      "lon": -69.8085343,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540372597,
+      "lat": 44.3145691,
+      "lon": -69.8084041,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540372680,
+      "lat": 44.319409,
+      "lon": -69.8132059,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "109B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540381681,
+      "lat": 44.3435894,
+      "lon": -69.799111,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "112A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540381768,
+      "lat": 44.3464737,
+      "lon": -69.7937062,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "112B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540381806,
+      "lat": 44.3478499,
+      "lon": -69.7914627,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "112"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540381833,
+      "lat": 44.3513505,
+      "lon": -69.7845826,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540390686,
+      "lat": 44.3611616,
+      "lon": -69.7790591,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540429074,
+      "lat": 44.452831,
+      "lon": -69.7169483,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "120"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540429080,
+      "lat": 44.4535254,
+      "lon": -69.7153591,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "120"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540429213,
+      "lat": 44.5427297,
+      "lon": -69.6810524,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "127"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540429308,
+      "lat": 44.5480779,
+      "lon": -69.6788594,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "127"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540429383,
+      "lat": 44.5715067,
+      "lon": -69.6458058,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "130"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540429450,
+      "lat": 44.5730972,
+      "lon": -69.6365307,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "130"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540434953,
+      "lat": 44.635964,
+      "lon": -69.5312671,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540435013,
+      "lat": 44.6431092,
+      "lon": -69.5251223,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544268728,
+      "lat": 44.7432518,
+      "lon": -69.4270516,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544268891,
+      "lat": 44.7824246,
+      "lon": -69.4048327,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "150"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544269005,
+      "lat": 44.7893278,
+      "lon": -69.4017962,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "150"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544269615,
+      "lat": 44.8319352,
+      "lon": -69.2873144,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "157"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544269674,
+      "lat": 44.835591,
+      "lon": -69.2979333,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "157"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544302430,
+      "lat": 44.8170707,
+      "lon": -69.2558203,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "159"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544302783,
+      "lat": 44.8047458,
+      "lon": -69.2247091,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544302786,
+      "lat": 44.8031964,
+      "lon": -69.221317,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "161"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544302923,
+      "lat": 44.7842702,
+      "lon": -69.1040956,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "167"
+      }
+    },
+    {
+      "type": "node",
+      "id": 544303038,
+      "lat": 44.7842415,
+      "lon": -69.1001125,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "167"
+      }
+    },
+    {
+      "type": "node",
+      "id": 546562960,
+      "lat": 44.7853542,
+      "lon": -68.7794349,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 546562971,
+      "lat": 44.7867695,
+      "lon": -68.7828844,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 549267646,
+      "lat": 43.7185464,
+      "lon": -70.3054666,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "52"
+      }
+    },
+    {
+      "type": "node",
+      "id": 549267693,
+      "lat": 43.7205847,
+      "lon": -70.3052178,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "52"
+      }
+    },
+    {
+      "type": "node",
+      "id": 549267727,
+      "lat": 43.7229505,
+      "lon": -70.3010521,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 549267862,
+      "lat": 43.7302888,
+      "lon": -70.2301156,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 549267865,
+      "lat": 43.7310185,
+      "lon": -70.2309516,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 607896345,
+      "lat": 43.9172665,
+      "lon": -69.8620394,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "L"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616525882,
+      "lat": 43.6570474,
+      "lon": -70.2837213,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616526896,
+      "lat": 43.6270359,
+      "lon": -70.3294643,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616543514,
+      "lat": 43.8836103,
+      "lon": -70.3363002,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 616547237,
+      "lat": 44.1042845,
+      "lon": -69.866358,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "43"
+      }
+    },
+    {
+      "type": "node",
+      "id": 636020279,
+      "lat": 43.655809,
+      "lon": -70.2841261,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 668105851,
+      "lat": 46.010552,
+      "lon": -68.2859423,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "276"
+      }
+    },
+    {
+      "type": "node",
+      "id": 668105982,
+      "lat": 45.87702,
+      "lon": -68.411408,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "264"
+      }
+    },
+    {
+      "type": "node",
+      "id": 741034241,
+      "lat": 44.1192276,
+      "lon": -70.2206502,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 750836821,
+      "lat": 43.6240822,
+      "lon": -70.3194204,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 750836941,
+      "lat": 43.6235099,
+      "lon": -70.3199205,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 798620355,
+      "lat": 43.6534206,
+      "lon": -70.2872363,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1105230885,
+      "lat": 44.1144485,
+      "lon": -70.2127662,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1105768534,
+      "lat": 43.9115414,
+      "lon": -69.9105965,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "K"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1278246792,
+      "lat": 43.9117356,
+      "lon": -69.8106304,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1278256732,
+      "lat": 43.9102661,
+      "lon": -69.821554,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1278920131,
+      "lat": 43.9077403,
+      "lon": -69.8285735,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "S"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1399408099,
+      "lat": 44.4929833,
+      "lon": -68.8552249,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1413844736,
+      "lat": 43.9142154,
+      "lon": -69.8014801,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1878059595,
+      "lat": 43.6373994,
+      "lon": -70.2919934,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1928937759,
+      "lat": 43.5258312,
+      "lon": -70.4494306,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1929710896,
+      "lat": 44.7837225,
+      "lon": -68.7948413,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1989180868,
+      "lat": 46.886953,
+      "lon": -68.0101044,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1989180872,
+      "lat": 46.8880917,
+      "lon": -68.01935,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2271966633,
+      "lat": 43.1389967,
+      "lon": -70.7032368,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2271979413,
+      "lat": 43.144556,
+      "lon": -70.6909828,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2337770909,
+      "lat": 43.0986672,
+      "lon": -70.7556208,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3051201013,
+      "lat": 44.5049958,
+      "lon": -69.7032651,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "124"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3051201264,
+      "lat": 44.5084322,
+      "lon": -69.7036143,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "124"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3463510359,
+      "lat": 44.4283316,
+      "lon": -69.0213885,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3574881602,
+      "lat": 44.3163509,
+      "lon": -69.8096662,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3574881603,
+      "lat": 44.3163571,
+      "lon": -69.8110569,
+      "tags": {
+        "access": "no",
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4542069362,
+      "lat": 43.7835661,
+      "lon": -70.1923106,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6515563413,
+      "lat": 44.0712957,
+      "lon": -70.1798101,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "80"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8132815937,
+      "lat": 44.3126379,
+      "lon": -69.8098352,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "109A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9078287400,
+      "lat": 44.2167624,
+      "lon": -69.824002,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10072816291,
+      "lat": 43.6349368,
+      "lon": -70.3414476,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "45"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12338259001,
+      "lat": 43.524533,
+      "lon": -70.456775,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Exit 35 Saco/Buxton Rt-112",
+        "proposed:highway": "motorway_junction",
+        "ref": "35"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12911978826,
+      "lat": 44.7681034,
+      "lon": -68.7279712,
+      "tags": {
+        "highway": "motorway_junction",
+        "note": "left is not exit 6B",
+        "ref": "6A",
+        "ref:right": "6A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12912043784,
+      "lat": 44.7724962,
+      "lon": -68.7179011,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12954502891,
+      "lat": 44.819696,
+      "lon": -68.7718715,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "185"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12965267941,
+      "lat": 44.771455,
+      "lon": -68.7203395,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12985981005,
+      "lat": 43.8014974,
+      "lon": -70.1859512,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13245020039,
+      "lat": 44.2118292,
+      "lon": -69.8246632,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "28",
+        "ref": "51"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11381018,
+      "center": {
+        "lat": 45.8752356,
+        "lon": -68.4128915
+      },
+      "tags": {
+        "destination": "Sherman;Patten",
+        "destination:ref": "ME 158",
+        "destination:ref:to": "ME 11",
+        "highway": "motorway_link",
+        "junction:ref": "264",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Aroostook, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11383247,
+      "center": {
+        "lat": 46.1407715,
+        "lon": -67.8369924
+      },
+      "tags": {
+        "destination": "Houlton;Presque Isle",
+        "destination:ref": "US 1",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "302",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Aroostook, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11384403,
+      "center": {
+        "lat": 43.6677146,
+        "lon": -70.2604592
+      },
+      "tags": {
+        "destination": "Franklin St",
+        "destination:ref": "US 1A",
+        "destination:street": "Franklin Street",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "US 1A",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11384444,
+      "center": {
+        "lat": 43.8644755,
+        "lon": -70.10698
+      },
+      "tags": {
+        "destination": "Freeport;Durham",
+        "destination:ref": "ME 125;ME 136",
+        "highway": "motorway_link",
+        "junction:ref": "22",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11384558,
+      "center": {
+        "lat": 43.6656973,
+        "lon": -70.3328082
+      },
+      "tags": {
+        "destination": "Westbrook Arterial",
+        "destination:ref": "ME 25",
+        "destination:street": "Rand Road",
+        "highway": "motorway_link",
+        "junction:ref": "47",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11384581,
+      "center": {
+        "lat": 43.8406512,
+        "lon": -70.1223768
+      },
+      "tags": {
+        "destination": "Freeport",
+        "destination:street": "Desert Road",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11384771,
+      "center": {
+        "lat": 43.6258727,
+        "lon": -70.3294249
+      },
+      "tags": {
+        "destination": "South Portland",
+        "destination:ref:to": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11385086,
+      "center": {
+        "lat": 46.1322405,
+        "lon": -67.7858467
+      },
+      "tags": {
+        "destination": "Houlton;International Airport;Industrial Park",
+        "destination:ref": "US 2",
+        "highway": "motorway_link",
+        "junction:ref": "305",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Aroostook, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11385407,
+      "center": {
+        "lat": 43.7290404,
+        "lon": -70.2357453
+      },
+      "tags": {
+        "destination": "Falmouth",
+        "destination:ref:to": "US 1;ME 9",
+        "destination:street": "Buckman Road",
+        "highway": "motorway_link",
+        "junction:ref": "10",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11385733,
+      "center": {
+        "lat": 43.6030786,
+        "lon": -70.3721584
+      },
+      "tags": {
+        "destination": "Scarborough",
+        "destination:ref:to": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "42",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11385736,
+      "center": {
+        "lat": 43.607375,
+        "lon": -70.3709526
+      },
+      "tags": {
+        "destination": "Scarborough",
+        "destination:ref:to": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "42",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11385808,
+      "center": {
+        "lat": 43.6745738,
+        "lon": -70.256744
+      },
+      "tags": {
+        "destination": "Washington Avenue",
+        "destination:ref": "ME 26 South",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "ME 26",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11385831,
+      "center": {
+        "lat": 43.6296471,
+        "lon": -70.3440393
+      },
+      "tags": {
+        "destination": "Maine Mall Road;Payne Road",
+        "destination:ref:to": "US 1;ME 114",
+        "highway": "motorway_link",
+        "junction:ref": "45",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11386081,
+      "center": {
+        "lat": 43.6646434,
+        "lon": -70.2621826
+      },
+      "tags": {
+        "destination:ref": "US 1A",
+        "destination:street": "Franklin Street",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11386279,
+      "center": {
+        "lat": 43.6537441,
+        "lon": -70.2868238
+      },
+      "tags": {
+        "destination": "Congress Street",
+        "destination:ref": "ME 22;US 1A",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "US 1A",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11386423,
+      "center": {
+        "lat": 43.6383927,
+        "lon": -70.2948166
+      },
+      "tags": {
+        "destination": "Casco Bay Bridge;Portland;Waterfront",
+        "destination:street": "Commercial Street",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "45 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11387057,
+      "center": {
+        "lat": 43.6550644,
+        "lon": -70.2869265
+      },
+      "tags": {
+        "destination:ref": "ME 22;US 1A",
+        "destination:street": "Congress Street",
+        "highway": "motorway_link",
+        "junction:ref": "5A",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11387126,
+      "center": {
+        "lat": 43.7277215,
+        "lon": -70.2353227
+      },
+      "tags": {
+        "destination": "Falmouth;Cumberland",
+        "destination:ref:to": "I 95;US 1;ME 9",
+        "destination:street": "Bucknam Road",
+        "highway": "motorway_link",
+        "junction:ref": "10",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11387374,
+      "center": {
+        "lat": 43.9111894,
+        "lon": -69.9133035
+      },
+      "tags": {
+        "destination": "Cook's Corner;Brunswick Executive Airport;Orrs Island;Bailey Island",
+        "destination:ref": "ME 24 South",
+        "highway": "motorway_link",
+        "junction:ref": "K",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11387380,
+      "center": {
+        "lat": 43.6621054,
+        "lon": -70.2714163
+      },
+      "tags": {
+        "destination:ref": "ME 100 South",
+        "destination:street": "Forest Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "6A",
+        "lanes": "1",
+        "maxspeed:advisory": "20 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11387440,
+      "center": {
+        "lat": 43.6300408,
+        "lon": -70.3157734
+      },
+      "tags": {
+        "destination": "Scarborough;Old Orchard",
+        "destination:ref:to": "US 1 South",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "junction:ref": "2",
+        "lanes": "2",
+        "maxspeed": "40 mph",
+        "maxspeed:advisory": "40 mph",
+        "name": "Scarborough Connector",
+        "oneway": "yes",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "unsigned_ref": "ME 701"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11387458,
+      "center": {
+        "lat": 43.6608219,
+        "lon": -70.2712389
+      },
+      "tags": {
+        "destination:ref": "ME 100 South",
+        "destination:street": "Forest Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "6A",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11387606,
+      "center": {
+        "lat": 45.8706045,
+        "lon": -68.4134075
+      },
+      "tags": {
+        "destination": "Sherman;Patten",
+        "destination:ref": "ME 158",
+        "destination:ref:to": "ME 11",
+        "highway": "motorway_link",
+        "junction:ref": "264",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Aroostook, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11387813,
+      "center": {
+        "lat": 43.917127,
+        "lon": -70.0238155
+      },
+      "tags": {
+        "destination": "Brunswick;Bath;Coastal Route",
+        "destination:ref": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "28",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11388079,
+      "center": {
+        "lat": 43.6632216,
+        "lon": -70.3308453
+      },
+      "tags": {
+        "destination": "Rand Road;Westbrook Arterial",
+        "destination:ref": "ME 25",
+        "highway": "motorway_link",
+        "junction:ref": "47",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11388107,
+      "center": {
+        "lat": 43.8643898,
+        "lon": -70.1088946
+      },
+      "tags": {
+        "destination": "Freeport;Durham",
+        "destination:ref": "ME 125;ME 136",
+        "highway": "motorway_link",
+        "junction:ref": "22",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11388126,
+      "center": {
+        "lat": 43.6279066,
+        "lon": -70.3284407
+      },
+      "tags": {
+        "destination:ref:to": "I 95",
+        "destination:street": "Maine Mall Road",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11388466,
+      "center": {
+        "lat": 43.786367,
+        "lon": -70.1890058
+      },
+      "tags": {
+        "destination": "Cumberland;Yarmouth",
+        "destination:ref": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "15",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11388593,
+      "center": {
+        "lat": 43.6568405,
+        "lon": -70.285447
+      },
+      "tags": {
+        "destination": "Husson University",
+        "destination:ref": "ME 22 West",
+        "destination:street": "Congress Street",
+        "highway": "motorway_link",
+        "junction:ref": "5B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11388665,
+      "center": {
+        "lat": 43.6488875,
+        "lon": -70.3323123
+      },
+      "tags": {
+        "destination": "Jetport",
+        "destination:ref:to": "ME 22;ME 9",
+        "destination:street": "Congress Street",
+        "destination:symbol": "airport",
+        "highway": "motorway_link",
+        "junction:ref": "46",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11388871,
+      "center": {
+        "lat": 43.8090632,
+        "lon": -70.1649643
+      },
+      "tags": {
+        "destination": "Yarmouth",
+        "destination:ref": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "17",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11388878,
+      "center": {
+        "lat": 43.8064194,
+        "lon": -70.1674112
+      },
+      "tags": {
+        "destination": "Yarmouth;Freeport",
+        "destination:ref": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "17",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11389099,
+      "center": {
+        "lat": 43.7842622,
+        "lon": -70.1902473
+      },
+      "tags": {
+        "destination": "Yarmouth;Cumberland",
+        "destination:ref": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "15",
+        "lanes": "1",
+        "maxheight:signed": "no",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11389710,
+      "center": {
+        "lat": 43.6789276,
+        "lon": -70.324993
+      },
+      "tags": {
+        "destination": "Riverside Street;Larrabee Road",
+        "destination:ref:to": "ME 25;US 302",
+        "highway": "motorway_link",
+        "junction:ref": "48",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11390139,
+      "center": {
+        "lat": 43.9167192,
+        "lon": -70.0196193
+      },
+      "tags": {
+        "destination": "Brunswick;Bath;Coastal Route",
+        "destination:ref": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "28",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11390146,
+      "center": {
+        "lat": 43.6327033,
+        "lon": -70.3089456
+      },
+      "tags": {
+        "destination": "Jetport",
+        "destination:ref": "ME 9",
+        "destination:street": "Westbrook Street",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11390433,
+      "center": {
+        "lat": 46.1382891,
+        "lon": -67.8428241
+      },
+      "tags": {
+        "destination": "Houlton;Presque Isle",
+        "destination:ref": "US 1",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "302",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Aroostook, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11390741,
+      "center": {
+        "lat": 43.6616128,
+        "lon": -70.268712
+      },
+      "tags": {
+        "destination:ref": "ME 100 North;US 302 West",
+        "destination:street": "Forest Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "6B",
+        "lanes": "1",
+        "maxspeed:advisory": "20 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11390922,
+      "center": {
+        "lat": 43.8816327,
+        "lon": -70.3333155
+      },
+      "tags": {
+        "destination": "Gray;New Gloucester",
+        "destination:ref": "US 202;ME 115;ME 4",
+        "destination:ref:to": "ME 26",
+        "highway": "motorway_link",
+        "junction:ref": "63",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11391130,
+      "center": {
+        "lat": 43.8825254,
+        "lon": -70.3373082
+      },
+      "tags": {
+        "destination": "Grey;New Gloucester",
+        "destination:ref": "US 202;ME 115;ME 4",
+        "destination:ref:to": "ME 26",
+        "highway": "motorway_link",
+        "junction:ref": "63",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11391221,
+      "center": {
+        "lat": 43.7315054,
+        "lon": -70.3035157
+      },
+      "tags": {
+        "destination": "West Falmouth",
+        "destination:ref": "ME 26;ME 100",
+        "highway": "motorway_link",
+        "junction:ref": "53",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11391239,
+      "center": {
+        "lat": 43.8778076,
+        "lon": -70.0850288
+      },
+      "tags": {
+        "destination": "Freeport",
+        "destination:ref": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "24",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11391244,
+      "center": {
+        "lat": 43.681441,
+        "lon": -70.3259045
+      },
+      "tags": {
+        "destination:ref": "ME 25;US 302",
+        "destination:street": "Riverside Street;Larrabee Road",
+        "highway": "motorway_link",
+        "junction:ref": "48",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11391250,
+      "center": {
+        "lat": 43.6469395,
+        "lon": -70.3305922
+      },
+      "tags": {
+        "destination": "Jetport;Congress Street",
+        "destination:ref:to": "ME 22;ME 9",
+        "destination:symbol": "airport",
+        "highway": "motorway_link",
+        "junction:ref": "46",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11391643,
+      "center": {
+        "lat": 46.1335966,
+        "lon": -67.7861243
+      },
+      "tags": {
+        "destination": "Houlton;International Airport;Industrial Park",
+        "destination:ref": "US 2",
+        "highway": "motorway_link",
+        "junction:ref": "305",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Aroostook, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11393342,
+      "center": {
+        "lat": 46.111229,
+        "lon": -68.1586365
+      },
+      "tags": {
+        "destination": "Oakfield;Smyrna Mills",
+        "destination:street": "Oakfield Road",
+        "highway": "motorway_link",
+        "junction:ref": "286",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Aroostook, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11405418,
+      "center": {
+        "lat": 46.10843,
+        "lon": -68.1632165
+      },
+      "tags": {
+        "destination": "Oakfield;Smyrna Mills",
+        "destination:street": "Oakfield Road",
+        "highway": "motorway_link",
+        "junction:ref": "286",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A74",
+        "tiger:county": "Aroostook, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11412590,
+      "center": {
+        "lat": 43.6245087,
+        "lon": -70.3504313
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Downtown Portland",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "junction:ref": "44",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "oneway": "yes",
+        "ref": "I 295",
+        "surface": "asphalt",
+        "tiger:cfcc": "A19",
+        "tiger:county": "Cumberland, ME",
+        "tiger:name_base": "I-295",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11412728,
+      "center": {
+        "lat": 43.6843232,
+        "lon": -70.2524666
+      },
+      "tags": {
+        "destination": "Falmouth;Foreside",
+        "destination:ref": "US 1 North",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "2",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "ref": "US 1",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11416524,
+      "center": {
+        "lat": 43.6786632,
+        "lon": -70.2568375
+      },
+      "tags": {
+        "destination": "Washington Avenue",
+        "destination:ref": "ME 26 North",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "ME 26",
+        "surface": "asphalt",
+        "tiger:cfcc": "A35",
+        "tiger:county": "Cumberland, ME",
+        "tiger:name_base": "Washington",
+        "tiger:name_base_1": "State Route 26",
+        "tiger:name_type": "Ave"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11419786,
+      "center": {
+        "lat": 43.68022,
+        "lon": -70.2557666
+      },
+      "tags": {
+        "destination:ref": "US 1 South;ME 26 North",
+        "destination:street": "Baxter Boulevard;Washington Avenue",
+        "hgv": "no",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A25",
+        "tiger:county": "Cumberland, ME",
+        "tiger:name_base": "Baxter",
+        "tiger:name_base_1": "United States Highway 1",
+        "tiger:name_type": "Blvd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11430340,
+      "center": {
+        "lat": 44.1797935,
+        "lon": -69.8344239
+      },
+      "tags": {
+        "destination": "Gardiner",
+        "destination:ref": "US 201",
+        "highway": "motorway_link",
+        "junction:ref": "49",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11473045,
+      "center": {
+        "lat": 44.0970157,
+        "lon": -69.870637
+      },
+      "tags": {
+        "destination": "Richmond;Litchfield",
+        "destination:ref": "ME 197",
+        "highway": "motorway_link",
+        "junction:ref": "43",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11473054,
+      "center": {
+        "lat": 44.1022361,
+        "lon": -69.8688254
+      },
+      "tags": {
+        "destination": "Richmond;Litchfield",
+        "destination:ref": "ME 197",
+        "highway": "motorway_link",
+        "junction:ref": "43",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11473519,
+      "center": {
+        "lat": 43.9396729,
+        "lon": -69.9802504
+      },
+      "tags": {
+        "destination": "Topsham;Lisbon;Bates College",
+        "destination:ref": "ME 196",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "31",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11474361,
+      "center": {
+        "lat": 43.9178477,
+        "lon": -69.8602009
+      },
+      "tags": {
+        "destination": "West Bath",
+        "destination:street": "New Meadows Road",
+        "highway": "motorway_link",
+        "junction:ref": "P",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11474437,
+      "center": {
+        "lat": 44.0148676,
+        "lon": -69.9195933
+      },
+      "tags": {
+        "destination": "Bowdoinham;Bowdoin",
+        "destination:ref": "ME 125;ME 138",
+        "highway": "motorway_link",
+        "junction:ref": "37",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11474464,
+      "center": {
+        "lat": 43.9164757,
+        "lon": -69.8618566
+      },
+      "tags": {
+        "destination": "West Bath",
+        "destination:street": "New Meadows Road",
+        "highway": "motorway_link",
+        "junction:ref": "L",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11474809,
+      "center": {
+        "lat": 43.9440252,
+        "lon": -69.9784435
+      },
+      "tags": {
+        "destination": "Lisbon;Lewiston",
+        "destination:ref": "ME 196 West",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "31B",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11480107,
+      "center": {
+        "lat": 44.6010087,
+        "lon": -69.5977955
+      },
+      "tags": {
+        "destination": "Fairfield;Skowhegan",
+        "destination:ref": "US 201",
+        "highway": "motorway_link",
+        "junction:ref": "133",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11481993,
+      "center": {
+        "lat": 44.592518,
+        "lon": -69.616087
+      },
+      "tags": {
+        "destination": "Fairfield;Benton",
+        "destination:ref": "ME 139",
+        "highway": "motorway_link",
+        "junction:ref": "132",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11482102,
+      "center": {
+        "lat": 44.5957625,
+        "lon": -69.6150055
+      },
+      "tags": {
+        "destination": "Fairfield;Benton",
+        "destination:ref": "ME 139",
+        "highway": "motorway_link",
+        "junction:ref": "132",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11482427,
+      "center": {
+        "lat": 44.6025285,
+        "lon": -69.5999695
+      },
+      "tags": {
+        "destination": "Fairfield;Skowhegan",
+        "destination:ref": "US 201",
+        "highway": "motorway_link",
+        "junction:ref": "133",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11500543,
+      "center": {
+        "lat": 43.4822238,
+        "lon": -70.4989679
+      },
+      "tags": {
+        "destination": "Biddeford",
+        "destination:ref": "ME 111",
+        "highway": "motorway_link",
+        "junction:ref": "32",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11500839,
+      "center": {
+        "lat": 43.5122129,
+        "lon": -70.4296632
+      },
+      "tags": {
+        "destination": "Saco",
+        "destination:ref": "US 1 North",
+        "destination:street": "Portland Road",
+        "highway": "motorway_link",
+        "junction:ref": "2B",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11501466,
+      "center": {
+        "lat": 43.4070652,
+        "lon": -70.5605585
+      },
+      "tags": {
+        "destination": "Kennebunk;Kennebunkport",
+        "destination:ref": "ME 35",
+        "highway": "motorway_link",
+        "junction:ref": "25",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11501667,
+      "center": {
+        "lat": 43.1047538,
+        "lon": -70.7490916
+      },
+      "tags": {
+        "destination": "Kittery;South Berwick",
+        "destination:ref": "US 1;ME 236;US 1 Bypass",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11501686,
+      "center": {
+        "lat": 43.1045013,
+        "lon": -70.7449723
+      },
+      "tags": {
+        "destination": "South Berwick",
+        "destination:ref": "ME 236 North",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "maxspeed:advisory": "45 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11502253,
+      "center": {
+        "lat": 43.4119764,
+        "lon": -70.5603218
+      },
+      "tags": {
+        "destination": "Kennebunk;Kennebunkport",
+        "destination:ref": "ME 35",
+        "highway": "motorway_link",
+        "junction:ref": "25",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11504038,
+      "center": {
+        "lat": 43.511258,
+        "lon": -70.4315746
+      },
+      "tags": {
+        "destination": "Saco",
+        "destination:ref": "US 1 North",
+        "destination:street": "Portland Road",
+        "highway": "motorway_link",
+        "junction:ref": "2B",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11504172,
+      "center": {
+        "lat": 43.5121723,
+        "lon": -70.4343862
+      },
+      "tags": {
+        "destination": "Downtown Saco",
+        "destination:ref": "US 1 South;ME 5 North",
+        "highway": "motorway_link",
+        "junction:ref": "2A",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11504429,
+      "center": {
+        "lat": 43.5128675,
+        "lon": -70.4326329
+      },
+      "tags": {
+        "destination": "Downtown Saco",
+        "destination:ref": "US 1 South;ME 5 North",
+        "highway": "motorway_link",
+        "junction:ref": "2A",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11504470,
+      "center": {
+        "lat": 43.5182758,
+        "lon": -70.4611711
+      },
+      "tags": {
+        "destination": "Saco;Buxton",
+        "destination:ref": "RT-112 North St",
+        "highway": "motorway_link",
+        "junction:ref": "35",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11504602,
+      "center": {
+        "lat": 43.5247577,
+        "lon": -70.4533684
+      },
+      "tags": {
+        "destination": "Saco;Old Orchard Beach",
+        "destination:ref": "I 195 East",
+        "highway": "motorway_link",
+        "junction:ref": "36",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11505391,
+      "center": {
+        "lat": 43.1580955,
+        "lon": -70.6643711
+      },
+      "tags": {
+        "destination": "York;York Beach",
+        "destination:ref:to": "ME 91;US 1",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging;hospital;camp_site",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11506303,
+      "center": {
+        "lat": 43.5219893,
+        "lon": -70.4454589
+      },
+      "tags": {
+        "destination:ref:to": "ME 112",
+        "destination:street": "Industrial Park Road",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11506445,
+      "center": {
+        "lat": 43.5221812,
+        "lon": -70.443357
+      },
+      "tags": {
+        "destination:ref:to": "ME 112",
+        "destination:street": "Industrial Park Road",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11507945,
+      "center": {
+        "lat": 43.4785414,
+        "lon": -70.4999581
+      },
+      "tags": {
+        "destination": "Biddeford;Arundel",
+        "destination:ref": "ME 111",
+        "highway": "motorway_link",
+        "junction:ref": "32",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11508945,
+      "center": {
+        "lat": 43.326917,
+        "lon": -70.6074959
+      },
+      "tags": {
+        "destination": "Wells;Sanford",
+        "destination:ref": "ME 9;ME 109",
+        "highway": "motorway_link",
+        "junction:ref": "19",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11509349,
+      "center": {
+        "lat": 43.1068917,
+        "lon": -70.7449264
+      },
+      "tags": {
+        "destination": "Kittery;South Berwick",
+        "destination:ref": "ME 236",
+        "destination:ref:to": "US 1;US 1 BY-PASS",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "2",
+        "maxspeed": "45 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 11509472,
+      "center": {
+        "lat": 43.102474,
+        "lon": -70.7493073
+      },
+      "tags": {
+        "destination": "Kittery Center;Memorial Circle",
+        "destination:ref": "US 1 South; ME 236 South;US 1 Bypass",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32731411,
+      "center": {
+        "lat": 43.6391879,
+        "lon": -70.2948715
+      },
+      "tags": {
+        "destination": "Main Street",
+        "destination:ref": "US 1 South",
+        "destination:street": "Main Street",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "ref": "US 1",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 39910036,
+      "center": {
+        "lat": 43.9419713,
+        "lon": -69.980963
+      },
+      "tags": {
+        "destination": "Topsham;Brunswick",
+        "destination:ref": "ME 196 East",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "31A",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096339,
+      "center": {
+        "lat": 44.7857741,
+        "lon": -68.8116656
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "I 95 South",
+        "highway": "motorway_link",
+        "junction:ref": "1A",
+        "lanes": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096340,
+      "center": {
+        "lat": 44.785205,
+        "lon": -68.8068277
+      },
+      "tags": {
+        "destination": "Bangor;Brewer",
+        "destination:ref": "I 395 South;ME 15 South",
+        "destination:ref:to": "US 1A;ME 9",
+        "hgv": "designated",
+        "highway": "motorway_link",
+        "junction:ref": "182A",
+        "lanes": "1",
+        "maxspeed:advisory": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096341,
+      "center": {
+        "lat": 44.7885389,
+        "lon": -68.8043857
+      },
+      "tags": {
+        "destination": "Orono;Airport",
+        "destination:ref": "I 95 North;ME 15 North",
+        "highway": "motorway_link",
+        "junction:ref": "1B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096342,
+      "center": {
+        "lat": 44.7899988,
+        "lon": -68.8079711
+      },
+      "tags": {
+        "destination": "Hermon",
+        "destination:ref:to": "US 2 West;ME 100 West",
+        "highway": "motorway_link",
+        "junction:ref": "182B",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096343,
+      "center": {
+        "lat": 44.7878616,
+        "lon": -68.8090395
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "I 95 South",
+        "hgv": "designated",
+        "highway": "motorway_link",
+        "junction:ref": "1A",
+        "lanes": "1",
+        "lit": "no",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096344,
+      "center": {
+        "lat": 44.7863127,
+        "lon": -68.8100298
+      },
+      "tags": {
+        "destination": "Bangor;Brewer",
+        "destination:ref": "I 395 South;ME 15 South",
+        "destination:ref:to": "US 1A;ME 9",
+        "highway": "motorway_link",
+        "junction:ref": "182A",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096345,
+      "center": {
+        "lat": 44.7861006,
+        "lon": -68.8076191
+      },
+      "tags": {
+        "destination": "Orono",
+        "destination:ref": "I 95 North;ME 15 North",
+        "highway": "motorway_link",
+        "junction:ref": "1B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096346,
+      "center": {
+        "lat": 44.7876502,
+        "lon": -68.8065961
+      },
+      "tags": {
+        "destination": "Hermon",
+        "destination:ref:to": "US 2 West;ME 100 West",
+        "highway": "motorway_link",
+        "junction:ref": "182B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096673,
+      "center": {
+        "lat": 44.7852855,
+        "lon": -68.7968687
+      },
+      "tags": {
+        "destination": "Hampden",
+        "destination:ref": "US 202 West;ME 9 West",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096675,
+      "center": {
+        "lat": 44.7879938,
+        "lon": -68.7903046
+      },
+      "tags": {
+        "destination": "Hampden",
+        "destination:ref": "US 202 West;ME 9 West",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed": "60 mph",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "ref": "ME 9",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096940,
+      "center": {
+        "lat": 44.7860147,
+        "lon": -68.7824385
+      },
+      "tags": {
+        "destination": "Farm Road;Hampden",
+        "destination:ref": "US 1A West;ME 9 Business West",
+        "destination:street": "Farm Road",
+        "highway": "motorway_link",
+        "junction:ref": "3A",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096945,
+      "center": {
+        "lat": 44.7847903,
+        "lon": -68.7768318
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Downtown Bangor;Hampden",
+        "destination:ref": "US 1A;ME 9;ME 9 Business",
+        "destination:street": "Main Street",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096947,
+      "center": {
+        "lat": 44.7846497,
+        "lon": -68.7788508
+      },
+      "tags": {
+        "destination": "Downtown Bangor",
+        "destination:ref": "US 1A East;ME 9 Business East",
+        "highway": "motorway_link",
+        "junction:ref": "3B",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43096952,
+      "center": {
+        "lat": 44.786051,
+        "lon": -68.778229
+      },
+      "tags": {
+        "destination": "Downtown Bangor;Hampden",
+        "destination:ref": "US 1A;ME 9 Business",
+        "destination:street": "Main Street",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43097458,
+      "center": {
+        "lat": 44.784394,
+        "lon": -68.76952
+      },
+      "tags": {
+        "destination": "South Main Street;Brewer",
+        "destination:ref": "ME 15 South;ME 15 Business",
+        "destination:street": "South Main Street",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43097462,
+      "center": {
+        "lat": 44.7829588,
+        "lon": -68.7714951
+      },
+      "tags": {
+        "destination": "South Main Street;Brewer",
+        "destination:ref": "ME 15 South",
+        "destination:ref:to": "ME 9 East",
+        "destination:street": "South Main Street",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "ref": "ME 15",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43098423,
+      "center": {
+        "lat": 44.7793487,
+        "lon": -68.7554828
+      },
+      "tags": {
+        "destination": "Industrial Park Road;Parkway South;Brewer",
+        "destination:street": "Industrial Park Road;Parkway South",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43098424,
+      "center": {
+        "lat": 44.7791265,
+        "lon": -68.757898
+      },
+      "tags": {
+        "destination": "Parkway South;Industrial Park Road;Brewer",
+        "destination:street": "Parkway South;Industrial Park Road",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43098428,
+      "center": {
+        "lat": 44.7692617,
+        "lon": -68.722882
+      },
+      "tags": {
+        "check_date": "2024-09-13",
+        "destination": "Coastal Route;Ellsworth;Bar Harbor",
+        "destination:ref": "US 1A East",
+        "destination:ref:to": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "6A",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "source": "Esri",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43098534,
+      "center": {
+        "lat": 44.7716769,
+        "lon": -68.8609464
+      },
+      "tags": {
+        "destination": "Cold Brook Road;Hermon;Hampden",
+        "destination:street": "Cold Brook Road",
+        "highway": "motorway_link",
+        "junction:ref": "180",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43098536,
+      "center": {
+        "lat": 44.7747491,
+        "lon": -68.8579845
+      },
+      "tags": {
+        "destination": "Cold Brook Road;Hermon;Hampden",
+        "destination:street": "Cold Brook Road",
+        "highway": "motorway_link",
+        "junction:ref": "180",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43111445,
+      "center": {
+        "lat": 44.7594273,
+        "lon": -68.9720497
+      },
+      "tags": {
+        "destination": "Carmel;Winterport",
+        "destination:ref": "ME 69",
+        "highway": "motorway_link",
+        "junction:ref": "174",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43111448,
+      "center": {
+        "lat": 44.7582613,
+        "lon": -68.9766374
+      },
+      "tags": {
+        "destination": "Carmel;Winterport",
+        "destination:ref": "ME 69",
+        "highway": "motorway_link",
+        "junction:ref": "174",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43112560,
+      "center": {
+        "lat": 44.8074331,
+        "lon": -68.7943359
+      },
+      "tags": {
+        "destination": "Union Street;Airport",
+        "destination:ref": "ME 222",
+        "destination:street": "Union Street",
+        "highway": "motorway_link",
+        "junction:ref": "184",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43112562,
+      "center": {
+        "lat": 44.8113593,
+        "lon": -68.791313
+      },
+      "tags": {
+        "destination": "Union Street;Ohio Street;Airport",
+        "destination:ref": "ME 222",
+        "destination:street": "Union Street;Ohio Street",
+        "highway": "motorway_link",
+        "junction:ref": "184",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43112579,
+      "center": {
+        "lat": 44.8196777,
+        "lon": -68.7727548
+      },
+      "tags": {
+        "destination": "Bangor;Brewer",
+        "destination:ref": "ME 15 North;ME 15 Business",
+        "destination:street": "Broadway",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "185",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43112581,
+      "center": {
+        "lat": 44.8192263,
+        "lon": -68.7742468
+      },
+      "tags": {
+        "destination": "Broadway",
+        "destination:ref": "ME 15 North",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "185",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "ME 15",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43113123,
+      "center": {
+        "lat": 44.8242932,
+        "lon": -68.7563816
+      },
+      "tags": {
+        "destination": "Stillwater Avenue",
+        "destination:street": "Stillwater Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "186",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43113124,
+      "center": {
+        "lat": 44.8270631,
+        "lon": -68.752871
+      },
+      "tags": {
+        "destination": "Stillwater Avenue",
+        "destination:street": "Stillwater Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "186",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43113135,
+      "center": {
+        "lat": 44.8298039,
+        "lon": -68.7435619
+      },
+      "tags": {
+        "cycleway:both": "no",
+        "destination": "Hogan Road;Bangor;Veazie",
+        "destination:street": "Hogan Road",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "187",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43113931,
+      "center": {
+        "lat": 44.8713628,
+        "lon": -68.7028548
+      },
+      "tags": {
+        "destination": "Kelly Road;Orono",
+        "destination:street": "Kelly Road",
+        "highway": "motorway_link",
+        "junction:ref": "191",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43113939,
+      "center": {
+        "lat": 44.874563,
+        "lon": -68.7019227
+      },
+      "tags": {
+        "destination": "Kelly Road;Veazie",
+        "destination:street": "Kelly Road",
+        "highway": "motorway_link",
+        "junction:ref": "191",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43113947,
+      "center": {
+        "lat": 44.9019856,
+        "lon": -68.6908969
+      },
+      "tags": {
+        "destination": "Stillwater Avenue;Stillwater;Old Town",
+        "destination:street": "Stillwater Avenue",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43113951,
+      "center": {
+        "lat": 44.9041278,
+        "lon": -68.6932352
+      },
+      "tags": {
+        "destination": "Stillwater Avenue;Stillwater;Orono",
+        "destination:street": "Stillwater Avenue",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43114955,
+      "center": {
+        "lat": 44.9615071,
+        "lon": -68.7079865
+      },
+      "tags": {
+        "destination": "Old Town;Hudson",
+        "destination:ref": "ME 43",
+        "highway": "motorway_link",
+        "junction:ref": "197",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43117951,
+      "center": {
+        "lat": 44.992098,
+        "lon": -68.7015051
+      },
+      "tags": {
+        "destination": "Alton;LaGrange;Milo",
+        "destination:ref": "ME 16",
+        "highway": "motorway_link",
+        "junction:ref": "199",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43117985,
+      "center": {
+        "lat": 45.2341397,
+        "lon": -68.6757464
+      },
+      "tags": {
+        "destination": "Howland;Lagrange",
+        "destination:ref": "ME 6;ME 155",
+        "highway": "motorway_link",
+        "junction:ref": "217",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43117988,
+      "center": {
+        "lat": 45.2377125,
+        "lon": -68.6789957
+      },
+      "tags": {
+        "destination": "Howland;Lagrange",
+        "destination:ref": "ME 6;ME 155",
+        "highway": "motorway_link",
+        "junction:ref": "217",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43118838,
+      "center": {
+        "lat": 45.3782742,
+        "lon": -68.6064693
+      },
+      "tags": {
+        "destination": "Lincoln;Lee;Mattawamkeag",
+        "destination:ref:to": "US 2;ME 6;ME 116",
+        "highway": "motorway_link",
+        "junction:ref": "227",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43118840,
+      "center": {
+        "lat": 45.3732476,
+        "lon": -68.6038046
+      },
+      "tags": {
+        "destination": "Lincoln;Lee;Mattawamkeag",
+        "destination:ref:to": "US 2;ME 6;ME 116",
+        "highway": "motorway_link",
+        "junction:ref": "227",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43121563,
+      "center": {
+        "lat": 45.797694,
+        "lon": -68.4260989
+      },
+      "tags": {
+        "destination": "Benedicta",
+        "highway": "motorway_link",
+        "junction:ref": "259",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43126827,
+      "center": {
+        "lat": 43.529959,
+        "lon": -70.4513577
+      },
+      "tags": {
+        "destination": "Saco; Old Orchard Beach",
+        "destination:ref": "I 195 East",
+        "highway": "motorway_link",
+        "junction:ref": "36",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43128878,
+      "center": {
+        "lat": 44.2208038,
+        "lon": -69.8218418
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Gardiner;Brunswick",
+        "destination:ref": "I 295 South;ME 9;ME 126",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "junction:ref": "103",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "50 mph",
+        "oneway": "yes",
+        "ref": "I 295",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43128884,
+      "center": {
+        "lat": 44.2099023,
+        "lon": -69.8299526
+      },
+      "tags": {
+        "destination": "Gardiner;Litchfield",
+        "destination:ref": "ME 9;ME 126",
+        "destination:ref:to": "I 295 South",
+        "destination:symbol": "fuel;fuel_diesel;food",
+        "highway": "motorway_link",
+        "junction:ref": "102",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43128890,
+      "center": {
+        "lat": 44.2106594,
+        "lon": -69.8254516
+      },
+      "tags": {
+        "destination": "Gardiner;Litchfield",
+        "destination:ref": "ME 9;ME 126",
+        "destination:symbol": "fuel;fuel_diesel;food",
+        "highway": "motorway_link",
+        "junction:ref": "51",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43128896,
+      "center": {
+        "lat": 44.2073171,
+        "lon": -69.8240037
+      },
+      "tags": {
+        "destination": "Litchfield;Gardiner",
+        "destination:ref": "ME 9;ME 126",
+        "destination:symbol": "fuel;fuel_diesel;food",
+        "highway": "motorway_link",
+        "junction:ref": "51",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43132682,
+      "center": {
+        "lat": 44.3180668,
+        "lon": -69.8128465
+      },
+      "tags": {
+        "destination": "Winthrop",
+        "destination:ref": "US 202 West;ME 11 West;ME 17 West;ME 100 West",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "109B",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43132687,
+      "center": {
+        "lat": 44.3121524,
+        "lon": -69.8086533
+      },
+      "tags": {
+        "destination": "Augusta;Winthrop",
+        "destination:ref": "US 202;ME 11;ME 17;ME 100",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "109",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43133832,
+      "center": {
+        "lat": 44.3475348,
+        "lon": -69.7928933
+      },
+      "tags": {
+        "destination": "Augusta; Belgrade",
+        "destination:ref": "ME 8;ME 11",
+        "highway": "motorway_link",
+        "junction:ref": "112",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43133838,
+      "center": {
+        "lat": 44.3458806,
+        "lon": -69.7927718
+      },
+      "tags": {
+        "destination": "Augusta;Belgrade",
+        "destination:ref": "ME 8 North;ME 11 North;ME 27 North",
+        "highway": "motorway_link",
+        "junction:ref": "112B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43133840,
+      "center": {
+        "lat": 44.3441557,
+        "lon": -69.7964118
+      },
+      "tags": {
+        "destination": "Augusta",
+        "destination:ref": "ME 8 South;ME 11 South;ME 27 South",
+        "highway": "motorway_link",
+        "junction:ref": "112A",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43134884,
+      "center": {
+        "lat": 44.3523353,
+        "lon": -69.7827868
+      },
+      "tags": {
+        "destination": "Augusta;Belfast",
+        "destination:ref": "ME 3",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "113",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43139479,
+      "center": {
+        "lat": 44.4524103,
+        "lon": -69.7179231
+      },
+      "tags": {
+        "destination": "Sidney",
+        "destination:street": "Lyons Road",
+        "highway": "motorway_link",
+        "junction:ref": "120",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43139481,
+      "center": {
+        "lat": 44.4538589,
+        "lon": -69.714415
+      },
+      "tags": {
+        "destination": "Sidney",
+        "destination:street": "Lyons Road",
+        "highway": "motorway_link",
+        "junction:ref": "120",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43139502,
+      "center": {
+        "lat": 44.5465456,
+        "lon": -69.6804161
+      },
+      "tags": {
+        "destination": "Waterville;Oakland",
+        "destination:ref": "ME 11;ME 137",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "127",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43139504,
+      "center": {
+        "lat": 44.5439044,
+        "lon": -69.6801353
+      },
+      "tags": {
+        "destination": "Waterville;Oakland",
+        "destination:ref": "ME 11;ME 137",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "127",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43139522,
+      "center": {
+        "lat": 44.572745,
+        "lon": -69.6389026
+      },
+      "tags": {
+        "destination": "Waterville;Winslow",
+        "destination:ref": "ME 104",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "130",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43139523,
+      "center": {
+        "lat": 44.5713836,
+        "lon": -69.6431939
+      },
+      "tags": {
+        "destination": "Waterville",
+        "destination:ref": "ME 104",
+        "destination:street": "Main Street",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "130",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43140129,
+      "center": {
+        "lat": 44.6376721,
+        "lon": -69.5289461
+      },
+      "tags": {
+        "destination": "Clinton;Burnham",
+        "destination:street": "Hinckley Road",
+        "destination:symbol": "fuel;fuel_diesel;food",
+        "highway": "motorway_link",
+        "junction:ref": "138",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43140133,
+      "center": {
+        "lat": 44.641819,
+        "lon": -69.5269371
+      },
+      "tags": {
+        "destination": "Clinton;Burnham",
+        "destination:street": "Hinckley Road",
+        "destination:symbol": "fuel;fuel_diesel;food",
+        "highway": "motorway_link",
+        "junction:ref": "138",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43311401,
+      "center": {
+        "lat": 44.7836054,
+        "lon": -69.4037637
+      },
+      "tags": {
+        "destination": "Pittsfield;Hartland",
+        "destination:ref:to": "ME 11;ME 100;ME 152",
+        "destination:street": "Somerset Avenue",
+        "destination:symbol": "fuel;fuel_diesel;food;hospital",
+        "highway": "motorway_link",
+        "junction:ref": "150",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43311406,
+      "center": {
+        "lat": 44.7872424,
+        "lon": -69.4036347
+      },
+      "tags": {
+        "destination": "Pittsfield;Hartland;Burnham",
+        "destination:street": "Somerset Avenue",
+        "destination:symbol": "fuel;fuel_diesel;food;hospital",
+        "highway": "motorway_link",
+        "junction:ref": "150",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43311442,
+      "center": {
+        "lat": 44.8335672,
+        "lon": -69.2887202
+      },
+      "tags": {
+        "destination": "Newport;Skowhegan",
+        "destination:ref": "ME 11;ME 100",
+        "destination:ref:to": "US 2",
+        "hgv": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "157",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43311446,
+      "center": {
+        "lat": 44.8340434,
+        "lon": -69.2958901
+      },
+      "tags": {
+        "destination": "Newport;Dexter",
+        "destination:ref": "ME 11;ME 100",
+        "destination:ref:to": "ME 7",
+        "highway": "motorway_link",
+        "junction:ref": "157",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43312767,
+      "center": {
+        "lat": 44.818932,
+        "lon": -69.2572773
+      },
+      "tags": {
+        "destination": "Newport;Plymouth",
+        "destination:street": "Ridge Road",
+        "highway": "motorway_link",
+        "junction:ref": "159",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43312782,
+      "center": {
+        "lat": 44.8043507,
+        "lon": -69.2220069
+      },
+      "tags": {
+        "destination": "East Newport;Plymouth",
+        "destination:ref": "ME 7",
+        "highway": "motorway_link",
+        "junction:ref": "161",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43312784,
+      "center": {
+        "lat": 44.803021,
+        "lon": -69.2226821
+      },
+      "tags": {
+        "destination": "East Newport;Plymouth",
+        "destination:ref": "ME 7",
+        "highway": "motorway_link",
+        "junction:ref": "161",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43312797,
+      "center": {
+        "lat": 44.7850708,
+        "lon": -69.1027691
+      },
+      "tags": {
+        "destination": "Etna;Dixmont",
+        "destination:ref": "ME 69;ME 143",
+        "highway": "motorway_link",
+        "junction:ref": "167",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43312801,
+      "center": {
+        "lat": 44.7830582,
+        "lon": -69.102599
+      },
+      "tags": {
+        "destination": "Etna;Dixmont",
+        "destination:ref": "ME 69;ME 143",
+        "highway": "motorway_link",
+        "junction:ref": "167",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43387942,
+      "center": {
+        "lat": 44.7870906,
+        "lon": -68.7840696
+      },
+      "tags": {
+        "destination": "Farm Road;Downtown Bangor;Hampden",
+        "destination:ref": "US 1A;ME 9 BUS",
+        "destination:street": "Farm Road",
+        "highway": "motorway_link",
+        "junction:ref": "3A-B",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source:maxspeed": "sign",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43520145,
+      "center": {
+        "lat": 43.7204345,
+        "lon": -70.3061817
+      },
+      "tags": {
+        "destination": "Falmouth;Freeport",
+        "destination:ref": "I 495",
+        "destination:ref:to": "I 295;US 1",
+        "highway": "motorway_link",
+        "junction:ref": "52",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43520146,
+      "center": {
+        "lat": 43.720709,
+        "lon": -70.3031979
+      },
+      "tags": {
+        "destination": "Falmouth;Freeport",
+        "destination:ref:to": "I 295;US 1",
+        "highway": "motorway_link",
+        "junction:ref": "52",
+        "lanes": "1",
+        "maxspeed:advisory": "45 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43520170,
+      "center": {
+        "lat": 43.7330383,
+        "lon": -70.2312533
+      },
+      "tags": {
+        "destination": "NH-Mass",
+        "destination:ref": "I 95",
+        "destination:street": "Maine Turnpike",
+        "highway": "motorway_link",
+        "junction:ref": "11",
+        "lanes": "1",
+        "maxspeed": "40 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48530689,
+      "center": {
+        "lat": 43.7313851,
+        "lon": -70.3012906
+      },
+      "tags": {
+        "destination": "West Falmouth",
+        "destination:ref": "ME 26;ME 100",
+        "highway": "motorway_link",
+        "junction:ref": "53",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A45",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 50131664,
+      "center": {
+        "lat": 43.32527,
+        "lon": -70.6072135
+      },
+      "tags": {
+        "destination": "Wells;Sanford",
+        "destination:ref": "ME 9;ME 109",
+        "highway": "motorway_link",
+        "junction:ref": "19",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52833397,
+      "center": {
+        "lat": 45.6049073,
+        "lon": -68.5237743
+      },
+      "tags": {
+        "destination": "Medway;Millinocket",
+        "destination:ref": "ME 157",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "244",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 52833400,
+      "center": {
+        "lat": 45.6092531,
+        "lon": -68.5204944
+      },
+      "tags": {
+        "destination": "Millinocket;Mattawamkeag",
+        "destination:ref": "ME 157",
+        "destination:symbol": "fuel;fuel_diesel;food;lodging",
+        "highway": "motorway_link",
+        "junction:ref": "244",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 59768800,
+      "center": {
+        "lat": 43.1549402,
+        "lon": -70.6674988
+      },
+      "tags": {
+        "destination": "The Yorks;Ogunquit",
+        "destination:ref:to": "ME 91;US 1",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 67968068,
+      "center": {
+        "lat": 44.0193848,
+        "lon": -69.9202713
+      },
+      "tags": {
+        "destination": "Bowdoinham;Bowdoin",
+        "destination:ref": "ME 125;ME 138",
+        "highway": "motorway_link",
+        "junction:ref": "37",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 219433761,
+      "center": {
+        "lat": 43.098066,
+        "lon": -70.7546319
+      },
+      "tags": {
+        "destination": "Eliot;Kittery Foreside;Navy Yard",
+        "destination:ref:to": "ME 103",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301010324,
+      "center": {
+        "lat": 44.5058374,
+        "lon": -69.7048274
+      },
+      "tags": {
+        "destination:ref": "I95",
+        "highway": "motorway_link",
+        "junction:ref": "124",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301010325,
+      "center": {
+        "lat": 44.5058192,
+        "lon": -69.7022761
+      },
+      "tags": {
+        "destination:ref": "104",
+        "highway": "motorway_link",
+        "junction:ref": "124",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301010326,
+      "center": {
+        "lat": 44.5075882,
+        "lon": -69.7020576
+      },
+      "tags": {
+        "destination:ref": "I95",
+        "highway": "motorway_link",
+        "junction:ref": "124",
+        "lanes": "1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301010327,
+      "center": {
+        "lat": 44.5076506,
+        "lon": -69.704629
+      },
+      "tags": {
+        "destination:ref": "104",
+        "highway": "motorway_link",
+        "junction:ref": "124",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 378786707,
+      "center": {
+        "lat": 44.956991,
+        "lon": -68.7067125
+      },
+      "tags": {
+        "destination": "Old Town;Hudson",
+        "destination:ref": "ME 43",
+        "highway": "motorway_link",
+        "junction:ref": "197",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 513920799,
+      "center": {
+        "lat": 43.6631376,
+        "lon": -70.2664157
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination:ref": "US 302;ME 100",
+        "destination:street": "Forest Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "6B",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637198158,
+      "center": {
+        "lat": 43.8451818,
+        "lon": -70.1208623
+      },
+      "tags": {
+        "destination": "Freeport",
+        "destination:ref:to": "US 1",
+        "destination:street": "Desert Road",
+        "highway": "motorway_link",
+        "junction:ref": "20",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637202268,
+      "center": {
+        "lat": 44.1772746,
+        "lon": -69.8325455
+      },
+      "tags": {
+        "destination": "Gardiner",
+        "destination:ref": "US 201",
+        "highway": "motorway_link",
+        "junction:ref": "49",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Kennebec, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637574038,
+      "center": {
+        "lat": 44.8350957,
+        "lon": -68.7401967
+      },
+      "tags": {
+        "cycleway:both": "no",
+        "destination": "Hogan Road;Bangor;Veazie",
+        "destination:street": "Hogan Road",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "187",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637945079,
+      "center": {
+        "lat": 43.4070486,
+        "lon": -70.5612475
+      },
+      "tags": {
+        "destination": "Kennebunk;Kennebunkport",
+        "destination:ref": "ME 35",
+        "highway": "motorway_link",
+        "junction:ref": "25",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 637958926,
+      "center": {
+        "lat": 43.1049773,
+        "lon": -70.7467264
+      },
+      "tags": {
+        "destination": "Coastal Route;Kittery;South Berwick",
+        "destination:ref": "US 1 North;ME 236 North",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "maxspeed:advisory": "45 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 724419792,
+      "center": {
+        "lat": 43.6653065,
+        "lon": -70.2603251
+      },
+      "tags": {
+        "destination:ref": "US 1A",
+        "destination:street": "Franklin Street",
+        "highway": "primary",
+        "junction:ref": "7",
+        "lanes": "4",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "US 1A",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "turn:lanes": "left|through|through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 724420188,
+      "center": {
+        "lat": 43.6657289,
+        "lon": -70.2608745
+      },
+      "tags": {
+        "destination:ref": "US 1A",
+        "destination:street": "Franklin Street",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "3",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "US 1A",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 732492432,
+      "center": {
+        "lat": 43.6546402,
+        "lon": -70.2876993
+      },
+      "tags": {
+        "destination:ref": "ME 22;US 1A",
+        "destination:street": "Congress Street",
+        "highway": "motorway_link",
+        "junction:ref": "5A",
+        "lanes": "2",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 732589114,
+      "center": {
+        "lat": 43.6320852,
+        "lon": -70.3116389
+      },
+      "tags": {
+        "destination": "Jetport",
+        "destination:ref": "ME 9",
+        "destination:street": "Westbrook Street",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "turn:lanes": "right|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827606519,
+      "center": {
+        "lat": 43.6820785,
+        "lon": -70.3246826
+      },
+      "tags": {
+        "destination:ref": "ME 25;US 302",
+        "destination:street": "Riverside Street;Larrabee Road",
+        "highway": "motorway_link",
+        "junction:ref": "48",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827751603,
+      "center": {
+        "lat": 43.6673315,
+        "lon": -70.3313277
+      },
+      "tags": {
+        "destination": "Westbrook Arterial",
+        "destination:ref": "ME 25",
+        "destination:street": "Rand Road",
+        "highway": "motorway_link",
+        "junction:ref": "47",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827759037,
+      "center": {
+        "lat": 43.649352,
+        "lon": -70.3343939
+      },
+      "tags": {
+        "destination": "Jetport",
+        "destination:ref:to": "ME 22;ME 9",
+        "destination:street": "Congress Street",
+        "destination:symbol": "airport",
+        "highway": "motorway_link",
+        "junction:ref": "46",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes",
+        "turn:lanes": "left|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827759038,
+      "center": {
+        "lat": 43.6483911,
+        "lon": -70.3338466
+      },
+      "tags": {
+        "destination": "Jetport",
+        "destination:ref:to": "ME 22;ME 9",
+        "destination:street": "Congress Street",
+        "destination:symbol": "airport",
+        "highway": "motorway_link",
+        "junction:ref": "46",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827759041,
+      "center": {
+        "lat": 43.6501084,
+        "lon": -70.3313755
+      },
+      "tags": {
+        "destination": "Jetport",
+        "destination:ref:to": "ME 22;ME 9",
+        "destination:street": "Congress Street",
+        "destination:symbol": "airport",
+        "highway": "motorway_link",
+        "junction:ref": "46",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 827961317,
+      "center": {
+        "lat": 43.5331846,
+        "lon": -70.447229
+      },
+      "tags": {
+        "destination": "Saco; Old Orchard Beach",
+        "destination:ref": "I 195 East",
+        "highway": "motorway_link",
+        "junction:ref": "36",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 828602559,
+      "center": {
+        "lat": 43.4841715,
+        "lon": -70.4963233
+      },
+      "tags": {
+        "destination": "Biddeford",
+        "destination:ref": "ME 111",
+        "highway": "motorway_link",
+        "junction:ref": "32",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 829241829,
+      "center": {
+        "lat": 43.4145422,
+        "lon": -70.5574555
+      },
+      "tags": {
+        "destination": "Kennebunk;Kennebunkport",
+        "destination:ref": "ME 35",
+        "highway": "motorway_link",
+        "junction:ref": "25",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "placement": "transition",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 829241830,
+      "center": {
+        "lat": 43.4136596,
+        "lon": -70.5586002
+      },
+      "tags": {
+        "destination": "Kennebunk;Kennebunkport",
+        "destination:ref": "ME 35",
+        "highway": "motorway_link",
+        "junction:ref": "25",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "York, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 873310464,
+      "center": {
+        "lat": 44.3120199,
+        "lon": -69.8100731
+      },
+      "tags": {
+        "destination": "Augusta",
+        "destination:ref": "US 202;ME 11;ME 17;ME 100",
+        "highway": "motorway_link",
+        "junction:ref": "109A",
+        "lanes": "1",
+        "lit": "yes",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922482308,
+      "center": {
+        "lat": 43.511185,
+        "lon": -70.4330984
+      },
+      "tags": {
+        "destination": "Downtown Saco",
+        "destination:ref": "US 1 South;ME 5 North",
+        "highway": "motorway_link",
+        "junction:ref": "2A",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922482311,
+      "center": {
+        "lat": 43.5239951,
+        "lon": -70.443877
+      },
+      "tags": {
+        "destination:ref:to": "ME 112",
+        "destination:street": "Industrial Park Road",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 922491713,
+      "center": {
+        "lat": 43.6540787,
+        "lon": -70.2863167
+      },
+      "tags": {
+        "destination": "Congress Street",
+        "destination:ref": "ME 22;US 1A",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "US 1A",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 964170363,
+      "center": {
+        "lat": 44.359644,
+        "lon": -69.7817533
+      },
+      "tags": {
+        "destination": "Augusta;Belfast",
+        "destination:ref": "ME 3",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "113",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1027065472,
+      "center": {
+        "lat": 44.5072129,
+        "lon": -69.7007395
+      },
+      "tags": {
+        "destination:ref": "104",
+        "highway": "motorway_link",
+        "junction:ref": "124",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1027065473,
+      "center": {
+        "lat": 44.5078348,
+        "lon": -69.7059823
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "124",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1172890549,
+      "center": {
+        "lat": 44.8179594,
+        "lon": -68.7736794
+      },
+      "tags": {
+        "destination": "Broadway",
+        "destination:ref": "ME 15 North",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "185",
+        "lanes": "3",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "ME 15",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1230936866,
+      "center": {
+        "lat": 44.2066717,
+        "lon": -69.8356713
+      },
+      "tags": {
+        "destination:ref": "I-95",
+        "highway": "motorway_link",
+        "junction:ref": "102",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1232264498,
+      "center": {
+        "lat": 44.1791399,
+        "lon": -69.832035
+      },
+      "tags": {
+        "destination": "Gardiner",
+        "destination:ref": "US 201",
+        "highway": "motorway_link",
+        "junction:ref": "49",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1232264499,
+      "center": {
+        "lat": 44.1777384,
+        "lon": -69.83496
+      },
+      "tags": {
+        "destination": "Gardiner",
+        "destination:ref": "US 201",
+        "highway": "motorway_link",
+        "junction:ref": "49",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1297172705,
+      "center": {
+        "lat": 44.7828405,
+        "lon": -68.772406
+      },
+      "tags": {
+        "destination": "Brewer",
+        "destination:ref": "ME 15 Business North",
+        "destination:ref:to": "ME 9 East",
+        "destination:street": "South Main Street",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1328155536,
+      "center": {
+        "lat": 44.3120605,
+        "lon": -69.8110262
+      },
+      "tags": {
+        "destination": "Augusta",
+        "destination:ref": "US 202;ME 11;ME 17;ME 100",
+        "highway": "motorway_link",
+        "junction:ref": "109A",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1333607653,
+      "center": {
+        "lat": 43.523983,
+        "lon": -70.4579472
+      },
+      "tags": {
+        "destination": "Saco;Buxton",
+        "destination:ref": "RT-112 Buxton Rd",
+        "highway": "motorway_link",
+        "junction:ref": "35",
+        "lanes": "1",
+        "oneway": "yes",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1333607658,
+      "center": {
+        "lat": 43.5234931,
+        "lon": -70.4582269
+      },
+      "tags": {
+        "destination": "Saco;Buxton",
+        "destination:ref": "RT-112 Buxton Rd",
+        "highway": "motorway_link",
+        "junction:ref": "35",
+        "lanes": "1",
+        "oneway": "yes",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1377138516,
+      "center": {
+        "lat": 43.940667,
+        "lon": -69.9781366
+      },
+      "tags": {
+        "destination:lanes": "Lisbon;Lewiston|Topsham;Brunswick|Topsham Fair Mall Road",
+        "destination:ref": "ME 196",
+        "highway": "motorway_link",
+        "junction:ref": "31",
+        "lanes": "3",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "left_of:3",
+        "surface": "asphalt",
+        "turn:lanes": "left|right|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1396687357,
+      "center": {
+        "lat": 44.7839418,
+        "lon": -68.8111462
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Newport",
+        "destination:ref": "I 95 South",
+        "highway": "motorway_link",
+        "junction:ref": "1A",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1409113360,
+      "center": {
+        "lat": 44.7837379,
+        "lon": -68.772252
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "South Main Street;Brewer",
+        "destination:ref": "ME 15 South",
+        "destination:ref:to": "ME 9 East",
+        "destination:street": "South Main Street",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "layer": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "ref": "ME 15",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1409811921,
+      "center": {
+        "lat": 44.8196873,
+        "lon": -68.7747502
+      },
+      "tags": {
+        "destination": "Bangor;Brewer",
+        "destination:ref": "ME 15 North;ME 15 Business",
+        "destination:street": "Broadway",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "185",
+        "lanes": "2",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left;right|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1409811922,
+      "center": {
+        "lat": 44.8196502,
+        "lon": -68.7739263
+      },
+      "tags": {
+        "destination": "Bangor;Brewer",
+        "destination:ref": "ME 15 North;ME 15 Business",
+        "destination:street": "Broadway",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "185",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1409811931,
+      "center": {
+        "lat": 44.8185869,
+        "lon": -68.773336
+      },
+      "tags": {
+        "destination": "Broadway",
+        "destination:ref": "ME 15 North",
+        "destination:symbol": "hospital",
+        "highway": "motorway_link",
+        "junction:ref": "185",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "ME 15",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1421907247,
+      "center": {
+        "lat": 43.9178283,
+        "lon": -70.0218912
+      },
+      "tags": {
+        "destination": "Brunswick;Bath;Coastal Route",
+        "destination:ref": "US 1",
+        "highway": "motorway_link",
+        "junction:ref": "28",
+        "lanes": "1",
+        "maxspeed": "50 mph",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1428906929,
+      "center": {
+        "lat": 44.2237713,
+        "lon": -69.818846
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Gardiner;Brunswick",
+        "destination:ref": "I 295 South;ME 9;ME 126",
+        "foot": "no",
+        "hgv": "designated",
+        "highway": "motorway",
+        "horse": "no",
+        "junction:ref": "103",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50 mph",
+        "oneway": "yes",
+        "ref": "I 295",
+        "surface": "asphalt",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1446184110,
+      "center": {
+        "lat": 43.863901,
+        "lon": -70.1069995
+      },
+      "tags": {
+        "destination": "Durham;Auburn;Bradbury Mountain State Park",
+        "destination:ref": "ME 125;ME 136",
+        "highway": "motorway_link",
+        "junction:ref": "22",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1447295055,
+      "center": {
+        "lat": 43.5303272,
+        "lon": -70.4503267
+      },
+      "tags": {
+        "destination": "Saco;Buxton",
+        "destination:ref": "RT-112 Buxton Rd",
+        "highway": "motorway_link",
+        "junction:ref": "35",
+        "lanes": "1",
+        "oneway": "yes",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1447295057,
+      "center": {
+        "lat": 43.5275558,
+        "lon": -70.4532646
+      },
+      "tags": {
+        "destination": "Saco;Buxton",
+        "destination:ref": "RT-112 Buxton Rd",
+        "highway": "motorway_link",
+        "junction:ref": "35",
+        "lanes": "1",
+        "oneway": "yes",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1546586126,
+      "center": {
+        "lat": 44.3472807,
+        "lon": -69.7944846
+      },
+      "tags": {
+        "destination": "Augusta; Belgrade",
+        "destination:ref": "ME 8;ME 11",
+        "highway": "motorway_link",
+        "junction:ref": "112",
+        "lanes": "3",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "surface": "asphalt",
+        "turn:lanes": "left|left|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1547942160,
+      "center": {
+        "lat": 43.8830253,
+        "lon": -70.3388166
+      },
+      "tags": {
+        "destination": "Grey;New Gloucester",
+        "destination:ref": "US 202;ME 115;ME 4",
+        "destination:ref:to": "ME 26",
+        "highway": "motorway_link",
+        "junction:ref": "63",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cumberland, ME",
+        "tiger:reviewed": "no",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1551217725,
+      "center": {
+        "lat": 44.0174985,
+        "lon": -69.9215415
+      },
+      "tags": {
+        "destination": "Bowdoin;Park & Ride",
+        "destination:ref": "ME 125;ME 138",
+        "highway": "motorway_link",
+        "junction:ref": "37",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    }
+  ]
+}

@@ -5,8 +5,8 @@ class FuelStation(models.Model):
     GEOCODE_STATUS = [
         ("pending", "Pending"),
         ("exact", "Exact"),
-        ("non_exact", "Non Exact"),
-        ("fallback", "Fallback"),
+        ("approximate", "Approximate"),
+        ("uncertain", "Uncertain"),
         ("failed", "Failed"),
     ]
 
@@ -35,6 +35,20 @@ class FuelStation(models.Model):
         max_length=20,
         choices=GEOCODE_STATUS,
         default="pending",
+    )
+
+    match_score = models.DecimalField(
+        max_digits=5,
+        decimal_places=2,
+        null=True,
+        blank=True,
+    )
+
+    match_margin = models.DecimalField(
+        max_digits=5,
+        decimal_places=2,
+        null=True,
+        blank=True,
     )
 
     def __str__(self):

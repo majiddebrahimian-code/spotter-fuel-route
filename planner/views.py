@@ -1,41 +1,70 @@
+import requests
+
+from django.views.generic import TemplateView
+from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
-from .serializers import RouteSerializer
-from .services.geocoding import geocode
-from .services.routing import get_route
+from planner.serializers import RouteSerializer
+from planner.services.optimizer import NoFeasibleFuelPlan
+from planner.services.route_planner import (
+    LocationNotFoundError,
+    RouteUnavailableError,
+    plan_route,
+)
+
+
+class RouteMapView(TemplateView):
+    template_name = "planner/map.html"
 
 
 class RouteView(APIView):
-
     def post(self, request):
         serializer = RouteSerializer(data=request.data)
+
         serializer.is_valid(raise_exception=True)
 
-        start_name = serializer.validated_data["start"]
-        finish_name = serializer.validated_data["finish"]
+        start = serializer.validated_data["start"]
 
-        start = geocode(start_name)
-        finish = geocode(finish_name)
+        finish = serializer.validated_data["finish"]
 
-        if not start or not finish:
-            return Response(
-                {"error": "Could not find one of the locations."},
-                status=400,
+        try:
+            result = plan_route(
+                start_location=start,
+                finish_location=finish,
             )
 
-        route = get_route(start, finish)
-
-        if not route:
             return Response(
-                {"error": "Could not calculate the route."},
-                status=400,
+                result,
+                status=status.HTTP_200_OK,
             )
 
-        return Response(
-            {
-                "start": start,
-                "finish": finish,
-                "route": route,
-            }
-        )
+        except LocationNotFoundError as exc:
+            return Response(
+                {
+                    "error": str(exc),
+                },
+                status=status.HTTP_400_BAD_REQUEST,
+            )
+
+        except NoFeasibleFuelPlan as exc:
+            return Response(
+                {
+                    "error": str(exc),
+                },
+                status=status.HTTP_422_UNPROCESSABLE_ENTITY,
+            )
+
+        except RouteUnavailableError as exc:
+            return Response(
+                {
+                    "error": str(exc),
+                },
+                status=status.HTTP_502_BAD_GATEWAY,
+            )
+
+        except requests.RequestException:
+            return Response(
+                {"error": ("External mapping service " "is temporarily unavailable.")},
+                status=status.HTTP_502_BAD_GATEWAY,
+            )

@@ -1,0 +1,6659 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-28T00:58:21Z",
+    "timestamp_areas_base": "2026-08-27T09:36:50Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 38906764,
+      "lat": 45.3744763,
+      "lon": -112.7073047,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "74"
+      }
+    },
+    {
+      "type": "node",
+      "id": 38925763,
+      "lat": 44.7929037,
+      "lon": -112.7642616,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 38934781,
+      "lat": 45.2028987,
+      "lon": -112.6579387,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "62"
+      }
+    },
+    {
+      "type": "node",
+      "id": 38945779,
+      "lat": 45.5211368,
+      "lon": -112.7093702,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "85"
+      }
+    },
+    {
+      "type": "node",
+      "id": 38951130,
+      "lat": 44.6083257,
+      "lon": -112.4815199,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 38977207,
+      "lat": 44.7219137,
+      "lon": -112.7006585,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39035039,
+      "lat": 45.7480954,
+      "lon": -107.8450098,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "484"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39035080,
+      "lat": 45.7506485,
+      "lon": -107.8536704,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "484"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39056139,
+      "lat": 45.1291851,
+      "lon": -107.3596698,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "544"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39097079,
+      "lat": 45.7812777,
+      "lon": -107.9959717,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39100158,
+      "lat": 45.7467067,
+      "lon": -107.6064012,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "495"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39126423,
+      "lat": 45.0538306,
+      "lon": -107.3367465,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "549"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39132317,
+      "lat": 45.7805058,
+      "lon": -107.9618335,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "478"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39132345,
+      "lat": 45.7794587,
+      "lon": -107.950634,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "478"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39140382,
+      "lat": 45.9185076,
+      "lon": -111.5915985,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "274"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39173354,
+      "lat": 45.7390465,
+      "lon": -107.5769173,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "497"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39187018,
+      "lat": 45.5977261,
+      "lon": -107.4621315,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "509"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39187066,
+      "lat": 45.5758775,
+      "lon": -107.4520841,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "510"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39264186,
+      "lat": 47.5457731,
+      "lon": -111.4488038,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "286"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39270656,
+      "lat": 47.481758,
+      "lon": -111.3472187,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "278"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39282424,
+      "lat": 47.4698271,
+      "lon": -111.3644824,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "277"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39307766,
+      "lat": 47.2770358,
+      "lon": -111.7042514,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "256"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39315683,
+      "lat": 47.5499433,
+      "lon": -111.4758799,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39325994,
+      "lat": 47.4863331,
+      "lon": -111.3399637,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39355760,
+      "lat": 47.1330714,
+      "lon": -111.8944186,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "240"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39355969,
+      "lat": 47.2164504,
+      "lon": -111.7784628,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "250"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39356182,
+      "lat": 47.4312335,
+      "lon": -111.5120204,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "270"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39356282,
+      "lat": 47.5038795,
+      "lon": -111.3426609,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "280"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39416228,
+      "lat": 46.61222,
+      "lon": -105.5427795,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "159"
+      }
+    },
+    {
+      "type": "node",
+      "id": 39416441,
+      "lat": 46.3094917,
+      "lon": -106.0314147,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "126"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40422578,
+      "lat": 45.1759087,
+      "lon": -112.6952579,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40443251,
+      "lat": 46.5116352,
+      "lon": -105.696882,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "148"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40462504,
+      "lat": 44.9958181,
+      "lon": -112.8536946,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "44"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40465108,
+      "lat": 45.2213978,
+      "lon": -112.6438386,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40479973,
+      "lat": 44.8959664,
+      "lon": -112.819951,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40483348,
+      "lat": 44.5579326,
+      "lon": -112.3146216,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40491027,
+      "lat": 46.3104338,
+      "lon": -106.0430715,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "126"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40502530,
+      "lat": 46.3709058,
+      "lon": -105.8778961,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "135"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40508939,
+      "lat": 46.4231498,
+      "lon": -105.7886467,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "141"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40517148,
+      "lat": 46.3195482,
+      "lon": -105.9884204,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "128"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40517239,
+      "lat": 46.3917132,
+      "lon": -105.8290649,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40553180,
+      "lat": 45.0946534,
+      "lon": -112.7785413,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "52"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40558816,
+      "lat": 47.1232694,
+      "lon": -104.7011225,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "215"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40559117,
+      "lat": 47.0321526,
+      "lon": -104.8165321,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "206"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40560363,
+      "lat": 47.1130946,
+      "lon": -104.7415415,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "213"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40560445,
+      "lat": 47.0030971,
+      "lon": -104.8377251,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "204"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40561244,
+      "lat": 46.9448661,
+      "lon": -104.9167407,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "198"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40562401,
+      "lat": 46.899196,
+      "lon": -105.0241402,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "192"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40563977,
+      "lat": 47.0452745,
+      "lon": -104.3867835,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "231"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40564004,
+      "lat": 47.0480879,
+      "lon": -104.3963478,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "231"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40564784,
+      "lat": 47.0901707,
+      "lon": -104.5333564,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "224"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40566777,
+      "lat": 47.0827473,
+      "lon": -104.7805799,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "210"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40578360,
+      "lat": 46.0986243,
+      "lon": -112.7940638,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40578473,
+      "lat": 46.1864104,
+      "lon": -112.783744,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "201"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40652956,
+      "lat": 45.90031,
+      "lon": -111.5292738,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "278"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40653906,
+      "lat": 45.6666147,
+      "lon": -110.8310903,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "319"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40656165,
+      "lat": 45.6466201,
+      "lon": -110.889613,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "316"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40664632,
+      "lat": 45.7108684,
+      "lon": -111.0615283,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "305"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40664706,
+      "lat": 45.8820123,
+      "lon": -111.4318544,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "283"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40668064,
+      "lat": 45.7762601,
+      "lon": -111.1989307,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "298"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40671738,
+      "lat": 45.9031481,
+      "lon": -111.5396525,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "278"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40671955,
+      "lat": 45.6463743,
+      "lon": -110.8811595,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "316"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40694576,
+      "lat": 45.7668272,
+      "lon": -111.1806617,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "298"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40695184,
+      "lat": 45.7189767,
+      "lon": -111.0697455,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "305"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40701966,
+      "lat": 45.697978,
+      "lon": -111.0511178,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "306"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40710084,
+      "lat": 45.6791708,
+      "lon": -111.0121296,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "309"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40710373,
+      "lat": 45.8511166,
+      "lon": -111.3422334,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "288"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40711114,
+      "lat": 45.6960004,
+      "lon": -111.0410641,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "306"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40714825,
+      "lat": 45.662938,
+      "lon": -110.8398446,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "319"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40716193,
+      "lat": 45.8819994,
+      "lon": -111.4434119,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "283"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40719225,
+      "lat": 45.6749706,
+      "lon": -111.0101088,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "309"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40731740,
+      "lat": 45.849073,
+      "lon": -111.333739,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "288"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40735002,
+      "lat": 45.6559222,
+      "lon": -110.9471108,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "313"
+      }
+    },
+    {
+      "type": "node",
+      "id": 40754860,
+      "lat": 45.6511378,
+      "lon": -110.9423928,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "313"
+      }
+    },
+    {
+      "type": "node",
+      "id": 41229104,
+      "lat": 46.6994656,
+      "lon": -113.4375282,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43084484,
+      "lat": 46.6722758,
+      "lon": -113.1594481,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "153"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43084535,
+      "lat": 46.6932328,
+      "lon": -113.2038259,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43261474,
+      "lat": 46.1066542,
+      "lon": -112.4136574,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43270350,
+      "lat": 46.5369214,
+      "lon": -111.9430938,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43271436,
+      "lat": 46.384946,
+      "lon": -112.0269503,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43283448,
+      "lat": 46.4654696,
+      "lon": -111.9826092,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "182"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43296888,
+      "lat": 46.2603665,
+      "lon": -112.338933,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "151"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43302647,
+      "lat": 46.2493295,
+      "lon": -112.1159378,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "164"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43320392,
+      "lat": 46.4722861,
+      "lon": -111.9800369,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43331619,
+      "lat": 45.8699807,
+      "lon": -111.949616,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "256"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43331752,
+      "lat": 45.8772446,
+      "lon": -112.0969654,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "249"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43332211,
+      "lat": 45.918984,
+      "lon": -112.4108353,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43376485,
+      "lat": 46.2592333,
+      "lon": -112.1900612,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "160"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43377383,
+      "lat": 46.0444897,
+      "lon": -112.4515501,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "134"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43487993,
+      "lat": 47.024236,
+      "lon": -112.04368,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "228"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43489696,
+      "lat": 46.7009706,
+      "lon": -112.0118184,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43544497,
+      "lat": 46.6105001,
+      "lon": -112.0102305,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "193"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43544701,
+      "lat": 46.5945254,
+      "lon": -112.0010381,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "192"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43639135,
+      "lat": 46.707297,
+      "lon": -112.0121922,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43646103,
+      "lat": 46.591319,
+      "lon": -111.993616,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43662000,
+      "lat": 47.1299791,
+      "lon": -111.9059045,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43686723,
+      "lat": 47.1329747,
+      "lon": -111.8967807,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43696654,
+      "lat": 46.8233085,
+      "lon": -112.0027956,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "209"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43840690,
+      "lat": 46.5872676,
+      "lon": -111.9934261,
+      "tags": {
+        "FIXME:ref": "verify",
+        "highway": "motorway_junction",
+        "old_ref": "192A",
+        "ref": "192"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43957735,
+      "lat": 47.0780237,
+      "lon": -111.964601,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "234"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43958696,
+      "lat": 47.0046571,
+      "lon": -112.0655192,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "226"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43960727,
+      "lat": 46.8902083,
+      "lon": -112.1141389,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "216"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43962373,
+      "lat": 46.732104,
+      "lon": -112.0175888,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43964040,
+      "lat": 46.6025198,
+      "lon": -112.0054133,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "193"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43965386,
+      "lat": 46.8157629,
+      "lon": -112.0003262,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "209"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43965942,
+      "lat": 46.8867627,
+      "lon": -112.1073162,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "216"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43966400,
+      "lat": 46.9177156,
+      "lon": -112.1199889,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "219"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43966979,
+      "lat": 46.9509561,
+      "lon": -112.1106185,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43968011,
+      "lat": 47.0063012,
+      "lon": -112.0745685,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "226"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43968259,
+      "lat": 47.0168128,
+      "lon": -112.0484773,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "228"
+      }
+    },
+    {
+      "type": "node",
+      "id": 43968969,
+      "lat": 47.07146,
+      "lon": -111.97047,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "234"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44320081,
+      "lat": 45.6268142,
+      "lon": -112.6748555,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "93"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44449937,
+      "lat": 47.0287981,
+      "lon": -114.7413264,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "61"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44451299,
+      "lat": 47.0708151,
+      "lon": -114.7649895,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44452009,
+      "lat": 47.0791065,
+      "lon": -114.768779,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44454072,
+      "lat": 47.0082555,
+      "lon": -114.4980803,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "75"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44461142,
+      "lat": 47.0034499,
+      "lon": -114.4891846,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "75"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44468878,
+      "lat": 47.3256616,
+      "lon": -115.2501481,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "25"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44541598,
+      "lat": 47.3777827,
+      "lon": -115.354197,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44541982,
+      "lat": 47.3126505,
+      "lon": -115.2331016,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "26"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44542090,
+      "lat": 47.2969108,
+      "lon": -115.1713806,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44543328,
+      "lat": 47.0188432,
+      "lon": -114.6520769,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "66"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44543460,
+      "lat": 47.0116733,
+      "lon": -114.5450668,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44543668,
+      "lat": 46.9943642,
+      "lon": -114.4504177,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "77"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44560108,
+      "lat": 46.7247535,
+      "lon": -113.5706344,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "130"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44579016,
+      "lat": 47.0316758,
+      "lon": -114.3183759,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "85"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44592410,
+      "lat": 46.8645244,
+      "lon": -113.9568145,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "107"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44635757,
+      "lat": 46.8382292,
+      "lon": -113.8338841,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44648857,
+      "lat": 46.7840794,
+      "lon": -113.7166183,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "120"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44659728,
+      "lat": 46.7271391,
+      "lon": -113.674544,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "126"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44705588,
+      "lat": 46.8791253,
+      "lon": -113.9017619,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "109"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44705703,
+      "lat": 46.8747323,
+      "lon": -113.8906033,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "109"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44734555,
+      "lat": 47.0185698,
+      "lon": -114.2351384,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "89"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44758292,
+      "lat": 46.9546566,
+      "lon": -114.1371853,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "96"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44773073,
+      "lat": 45.7264799,
+      "lon": -110.2402,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "352"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44794162,
+      "lat": 46.7276288,
+      "lon": -113.6443722,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44795006,
+      "lat": 47.018869,
+      "lon": -114.3723789,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "82"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44795326,
+      "lat": 46.9921811,
+      "lon": -114.1887146,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44795526,
+      "lat": 46.9257819,
+      "lon": -114.0734869,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "99"
+      }
+    },
+    {
+      "type": "node",
+      "id": 44853716,
+      "lat": 45.7108443,
+      "lon": -110.3906469,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "343"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45039795,
+      "lat": 48.1273065,
+      "lon": -111.9009686,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "335"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45047522,
+      "lat": 48.3601088,
+      "lon": -111.9360066,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "352"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45053419,
+      "lat": 48.0318661,
+      "lon": -111.8268896,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "328"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45075419,
+      "lat": 48.2596035,
+      "lon": -111.9359466,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "345"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45084163,
+      "lat": 48.3033737,
+      "lon": -111.9359777,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "348"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45110051,
+      "lat": 48.1765495,
+      "lon": -111.9344484,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "339"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45268482,
+      "lat": 46.5933407,
+      "lon": -112.9316178,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "166"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45312416,
+      "lat": 46.5131973,
+      "lon": -112.7875459,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "175"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45314572,
+      "lat": 46.6055634,
+      "lon": -113.0009551,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "162"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45315421,
+      "lat": 46.4153009,
+      "lon": -112.7236449,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "184"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45318253,
+      "lat": 46.6060387,
+      "lon": -113.0120165,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "162"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45348314,
+      "lat": 46.2736921,
+      "lon": -112.7475231,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "195"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45348668,
+      "lat": 46.4925383,
+      "lon": -112.7296895,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "179"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45348885,
+      "lat": 46.5247117,
+      "lon": -112.8207697,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "174"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45400051,
+      "lat": 46.7190958,
+      "lon": -105.4321906,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "169"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45400177,
+      "lat": 46.7851425,
+      "lon": -105.3071707,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45400364,
+      "lat": 46.8342918,
+      "lon": -105.1359236,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "185"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45701713,
+      "lat": 46.2573131,
+      "lon": -106.687637,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "93"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45709483,
+      "lat": 46.2661665,
+      "lon": -106.6701365,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "95"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45748658,
+      "lat": 46.2676952,
+      "lon": -106.4186766,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "106"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45748807,
+      "lat": 46.2674153,
+      "lon": -106.4282442,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "106"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45750856,
+      "lat": 46.2672219,
+      "lon": -106.4777794,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "103"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45848061,
+      "lat": 46.2555055,
+      "lon": -106.6985386,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "93"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45886518,
+      "lat": 46.2667428,
+      "lon": -106.6605899,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "95"
+      }
+    },
+    {
+      "type": "node",
+      "id": 45995739,
+      "lat": 45.9853772,
+      "lon": -112.5121053,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "127A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46007853,
+      "lat": 46.0561835,
+      "lon": -112.7607806,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "211"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46012470,
+      "lat": 45.8673065,
+      "lon": -112.6729545,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "111"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46025780,
+      "lat": 45.9567644,
+      "lon": -112.4696913,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "228"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46027674,
+      "lat": 45.7491516,
+      "lon": -112.7313211,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "102"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46028252,
+      "lat": 45.9923784,
+      "lon": -112.5433909,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "126"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46036461,
+      "lat": 45.9964689,
+      "lon": -112.6533744,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "119"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46042082,
+      "lat": 46.0099296,
+      "lon": -112.6890384,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "216"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46044346,
+      "lat": 45.9848162,
+      "lon": -112.4782987,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "129",
+        "ref:left": "129"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46046514,
+      "lat": 45.9771485,
+      "lon": -112.4775531,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "227"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46068030,
+      "lat": 45.9918667,
+      "lon": -112.5379063,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46094658,
+      "lat": 45.7087026,
+      "lon": -112.7017483,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "99"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46230725,
+      "lat": 47.8452392,
+      "lon": -111.7025285,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "313"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46251440,
+      "lat": 47.709319,
+      "lon": -111.6568386,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46254952,
+      "lat": 47.9529716,
+      "lon": -111.7490243,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "321"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46307510,
+      "lat": 48.4472516,
+      "lon": -111.8836174,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "358"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46309765,
+      "lat": 48.5118187,
+      "lon": -111.8799606,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "363"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46310250,
+      "lat": 48.9901678,
+      "lon": -111.9595657,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "397"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46312098,
+      "lat": 48.8815019,
+      "lon": -111.8996432,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "389"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46315207,
+      "lat": 48.939997,
+      "lon": -111.9306683,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "394"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46315214,
+      "lat": 48.9463141,
+      "lon": -111.933359,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46318742,
+      "lat": 48.5914625,
+      "lon": -111.8617353,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "369"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46321753,
+      "lat": 48.8232179,
+      "lon": -111.862633,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "385"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46326491,
+      "lat": 48.6494066,
+      "lon": -111.8618278,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "373"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46327071,
+      "lat": 48.5260976,
+      "lon": -111.8654672,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "364"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46327152,
+      "lat": 48.7357603,
+      "lon": -111.8614108,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "379"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46364462,
+      "lat": 46.152653,
+      "lon": -107.4409516,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46364485,
+      "lat": 46.1488262,
+      "lon": -107.4503518,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46364743,
+      "lat": 45.7660163,
+      "lon": -109.7906376,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "377"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46379122,
+      "lat": 46.1934143,
+      "lon": -107.2652307,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46442651,
+      "lat": 46.2597037,
+      "lon": -107.2171527,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "67"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46543196,
+      "lat": 46.9405452,
+      "lon": -104.0671345,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "248"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46547035,
+      "lat": 47.0082002,
+      "lon": -104.3013274,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "236"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46556532,
+      "lat": 46.1321932,
+      "lon": -107.5478373,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46596106,
+      "lat": 46.1396498,
+      "lon": -107.5022087,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46596986,
+      "lat": 45.778469,
+      "lon": -108.1456994,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "469"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46619563,
+      "lat": 46.0547802,
+      "lon": -107.7480213,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46625151,
+      "lat": 45.7974033,
+      "lon": -108.2842185,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "462"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46629205,
+      "lat": 45.8861932,
+      "lon": -108.305287,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46647787,
+      "lat": 45.9417213,
+      "lon": -108.1441484,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46649336,
+      "lat": 45.9885026,
+      "lon": -107.9847393,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46657236,
+      "lat": 45.6645002,
+      "lon": -108.7944436,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "433"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46674324,
+      "lat": 45.7716868,
+      "lon": -108.4872088,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "450"
+      }
+    },
+    {
+      "type": "node",
+      "id": 46724688,
+      "lat": 45.7644735,
+      "lon": -108.5374077,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 271111111,
+      "lat": 45.981164,
+      "lon": -112.4885936,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "129",
+        "ref:right": "129"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314363329,
+      "lat": 47.4753479,
+      "lon": -111.3565829,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "277"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314363336,
+      "lat": 47.4838264,
+      "lon": -111.3459013,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "278"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314366480,
+      "lat": 47.488843,
+      "lon": -111.3326302,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314367640,
+      "lat": 47.4861358,
+      "lon": -111.3401886,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314462659,
+      "lat": 47.5595056,
+      "lon": -111.5303662,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "290"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314467780,
+      "lat": 47.6517629,
+      "lon": -111.6006414,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "297"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314472605,
+      "lat": 47.5108773,
+      "lon": -111.3474548,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "280"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314472653,
+      "lat": 47.5261509,
+      "lon": -111.3852776,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "282"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314472818,
+      "lat": 47.5466319,
+      "lon": -111.4556143,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "286"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314472893,
+      "lat": 47.5510392,
+      "lon": -111.4842518,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314473039,
+      "lat": 47.5651744,
+      "lon": -111.5380723,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "290"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314474405,
+      "lat": 47.6574411,
+      "lon": -111.6066636,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "297"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314487705,
+      "lat": 47.256937,
+      "lon": -111.7089218,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "254"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314496775,
+      "lat": 47.1551252,
+      "lon": -111.8454099,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "244"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314498359,
+      "lat": 47.1611722,
+      "lon": -111.8179182,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314498478,
+      "lat": 47.1854988,
+      "lon": -111.8103465,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "247"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314499859,
+      "lat": 47.4354869,
+      "lon": -111.5015197,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "270"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314500338,
+      "lat": 47.2829719,
+      "lon": -111.6948637,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "256"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314500396,
+      "lat": 47.2645343,
+      "lon": -111.7081856,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "254"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314500982,
+      "lat": 47.2239153,
+      "lon": -111.7737651,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "250"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314501191,
+      "lat": 47.1928533,
+      "lon": -111.8012196,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "247"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314501440,
+      "lat": 47.1532591,
+      "lon": -111.8359503,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "244"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314501681,
+      "lat": 47.1331593,
+      "lon": -111.8889887,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "240"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418452456,
+      "lat": 45.7810399,
+      "lon": -110.0611203,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "362"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418453212,
+      "lat": 45.7753577,
+      "lon": -110.0714177,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "362"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418487886,
+      "lat": 45.7283372,
+      "lon": -109.6710074,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "384"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418489232,
+      "lat": 45.7336158,
+      "lon": -109.7531138,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418493039,
+      "lat": 45.7307128,
+      "lon": -109.6804638,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "384"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418493375,
+      "lat": 45.7371902,
+      "lon": -109.7608855,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418496302,
+      "lat": 45.8257523,
+      "lon": -109.9668031,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "367"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418499982,
+      "lat": 45.8237717,
+      "lon": -109.9784147,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "367"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418500136,
+      "lat": 45.8330232,
+      "lon": -109.9022199,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "370"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418500146,
+      "lat": 45.8308011,
+      "lon": -109.914285,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "370"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418500207,
+      "lat": 45.7718191,
+      "lon": -109.7962138,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "377"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418505218,
+      "lat": 45.7387491,
+      "lon": -110.2080848,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "354"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418505760,
+      "lat": 45.7358977,
+      "lon": -110.2201641,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "354"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418554207,
+      "lat": 45.7238802,
+      "lon": -110.2448678,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "352"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418554291,
+      "lat": 45.7044888,
+      "lon": -110.2602345,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "350"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418554332,
+      "lat": 45.6981607,
+      "lon": -110.2624933,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "350"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418554497,
+      "lat": 45.7047794,
+      "lon": -110.4596468,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "340"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418554500,
+      "lat": 45.7084902,
+      "lon": -110.4508316,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "340"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418554585,
+      "lat": 45.6885466,
+      "lon": -110.4993654,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "337"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418554607,
+      "lat": 45.6878727,
+      "lon": -110.5008855,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "337"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418558625,
+      "lat": 45.6445323,
+      "lon": -110.5678136,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "333"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418561295,
+      "lat": 45.6500054,
+      "lon": -110.6079932,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "330"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418561684,
+      "lat": 45.6524608,
+      "lon": -110.6161764,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "330"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418569639,
+      "lat": 45.6623627,
+      "lon": -110.7065922,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418572184,
+      "lat": 45.6616422,
+      "lon": -110.7359305,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "324"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418572517,
+      "lat": 45.6617048,
+      "lon": -110.7438976,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "324"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418852669,
+      "lat": 45.636255,
+      "lon": -108.9091322,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "426"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418852766,
+      "lat": 45.6338773,
+      "lon": -108.9198606,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "426"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418853763,
+      "lat": 45.6002989,
+      "lon": -109.0621159,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418854513,
+      "lat": 45.5980272,
+      "lon": -109.0699214,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418855562,
+      "lat": 45.64473,
+      "lon": -109.2427027,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "408"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418855571,
+      "lat": 45.6490597,
+      "lon": -109.2529287,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "408"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418857635,
+      "lat": 45.6992501,
+      "lon": -109.3840783,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418857867,
+      "lat": 45.7011142,
+      "lon": -109.3928305,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "400"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418858293,
+      "lat": 45.6838555,
+      "lon": -109.453106,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "396"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418858383,
+      "lat": 45.6845142,
+      "lon": -109.4575304,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "396"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418859387,
+      "lat": 45.7040952,
+      "lon": -109.5464487,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "392"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418859440,
+      "lat": 45.7059408,
+      "lon": -109.5376648,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "392"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418884017,
+      "lat": 45.6628495,
+      "lon": -108.7682953,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "434"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418887765,
+      "lat": 45.7523403,
+      "lon": -108.5297748,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "447"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418889489,
+      "lat": 45.7520653,
+      "lon": -108.5415681,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "447"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418918191,
+      "lat": 45.7515388,
+      "lon": -108.5514524,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "446"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418922731,
+      "lat": 45.7511145,
+      "lon": -108.559155,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418927479,
+      "lat": 45.7539524,
+      "lon": -108.557162,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418929218,
+      "lat": 45.7511272,
+      "lon": -108.5586817,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418930996,
+      "lat": 45.7481318,
+      "lon": -108.5621683,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418931722,
+      "lat": 45.7487992,
+      "lon": -108.5693401,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "446"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418944827,
+      "lat": 45.7349009,
+      "lon": -108.5986396,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "443"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418945132,
+      "lat": 45.7289994,
+      "lon": -108.610295,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "443"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418946470,
+      "lat": 45.6849478,
+      "lon": -108.7008115,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "437"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418946532,
+      "lat": 45.6812514,
+      "lon": -108.7111154,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "437"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418948337,
+      "lat": 45.6641765,
+      "lon": -108.7639293,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "434"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419206078,
+      "lat": 45.7643719,
+      "lon": -108.4881219,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "450"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419207649,
+      "lat": 45.7951131,
+      "lon": -108.4611171,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "452"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419208544,
+      "lat": 45.7982233,
+      "lon": -108.4528003,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "452"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419209735,
+      "lat": 45.8175524,
+      "lon": -108.4102956,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "455"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419210551,
+      "lat": 45.8119263,
+      "lon": -108.4191945,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "455"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419215401,
+      "lat": 45.8260923,
+      "lon": -108.3908244,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "456",
+        "ref:right": "456"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419217514,
+      "lat": 45.8248543,
+      "lon": -108.3983502,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "456",
+        "ref:right": "456"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419223409,
+      "lat": 45.8267375,
+      "lon": -108.3958206,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429990091,
+      "lat": 46.9406425,
+      "lon": -104.0797957,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "248"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429990195,
+      "lat": 46.9944903,
+      "lon": -104.1963905,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "241"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429990215,
+      "lat": 46.9897937,
+      "lon": -104.1721714,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "242"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430017941,
+      "lat": 47.0120259,
+      "lon": -104.3103503,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "236"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430018148,
+      "lat": 47.0856247,
+      "lon": -104.523555,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "224"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430021038,
+      "lat": 47.1244624,
+      "lon": -104.6899174,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "215"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430021085,
+      "lat": 47.1166007,
+      "lon": -104.7318665,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "213"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430021138,
+      "lat": 47.1050804,
+      "lon": -104.7659974,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "211"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430021204,
+      "lat": 47.08624,
+      "lon": -104.7792941,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "210"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430021237,
+      "lat": 47.0384135,
+      "lon": -104.8124021,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "206"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430021304,
+      "lat": 47.0090705,
+      "lon": -104.8338422,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "204"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430021393,
+      "lat": 46.9497242,
+      "lon": -104.9060936,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "198"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430026613,
+      "lat": 46.8403112,
+      "lon": -105.1316592,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "185"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430026646,
+      "lat": 46.9029976,
+      "lon": -105.0159682,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "192"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430269514,
+      "lat": 46.7890039,
+      "lon": -105.2978902,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430269595,
+      "lat": 46.7277265,
+      "lon": -105.4252591,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "169"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430269829,
+      "lat": 46.6197284,
+      "lon": -105.5375905,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "159"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430270050,
+      "lat": 46.4284756,
+      "lon": -105.7850621,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "141"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430270248,
+      "lat": 46.3748885,
+      "lon": -105.8690593,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "135"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430270357,
+      "lat": 46.321273,
+      "lon": -105.9839108,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "128"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430297487,
+      "lat": 46.5191915,
+      "lon": -105.6858513,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "148"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430310682,
+      "lat": 46.3974867,
+      "lon": -105.8160339,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430310869,
+      "lat": 46.276108,
+      "lon": -106.1932427,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "117"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430322058,
+      "lat": 46.2737701,
+      "lon": -106.2039586,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "117"
+      }
+    },
+    {
+      "type": "node",
+      "id": 431377329,
+      "lat": 46.2665277,
+      "lon": -106.4890112,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "103"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434087242,
+      "lat": 44.6297117,
+      "lon": -112.5891013,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434109048,
+      "lat": 45.1337461,
+      "lon": -112.7395885,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "56"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434150167,
+      "lat": 45.9407245,
+      "lon": -112.6693259,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "116"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434150693,
+      "lat": 45.991324,
+      "lon": -112.6556609,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "119"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434150717,
+      "lat": 46.0062902,
+      "lon": -112.6401263,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "121",
+        "ref:left": "121"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434153666,
+      "lat": 46.007446,
+      "lon": -112.6176648,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "122"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434153795,
+      "lat": 45.9930224,
+      "lon": -112.5403954,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434153827,
+      "lat": 45.9836544,
+      "lon": -112.507051,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "127B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434168753,
+      "lat": 44.5604169,
+      "lon": -112.3222859,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "0"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434171448,
+      "lat": 44.610616,
+      "lon": -112.4908488,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434174440,
+      "lat": 44.6480927,
+      "lon": -112.6032461,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434174462,
+      "lat": 44.6345938,
+      "lon": -112.5967467,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "15"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434179632,
+      "lat": 44.9036972,
+      "lon": -112.8218488,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434179710,
+      "lat": 44.7285119,
+      "lon": -112.7064193,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434179742,
+      "lat": 44.798117,
+      "lon": -112.7682621,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "29"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434179830,
+      "lat": 44.8555766,
+      "lon": -112.7980883,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434184288,
+      "lat": 45.0042875,
+      "lon": -112.850404,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "44"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434190322,
+      "lat": 45.084399,
+      "lon": -112.7861164,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434190355,
+      "lat": 45.0988538,
+      "lon": -112.7779556,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "52"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434192271,
+      "lat": 45.1274798,
+      "lon": -112.7445876,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434195315,
+      "lat": 45.1393386,
+      "lon": -112.7344034,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "56"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434195336,
+      "lat": 45.1831977,
+      "lon": -112.6909583,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "59"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434198334,
+      "lat": 45.2103302,
+      "lon": -112.6516884,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "62"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434198377,
+      "lat": 45.2291614,
+      "lon": -112.6414685,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434200717,
+      "lat": 45.3827654,
+      "lon": -112.7095783,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "74"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434206784,
+      "lat": 45.7154024,
+      "lon": -112.7050493,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "99"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434206803,
+      "lat": 45.5278391,
+      "lon": -112.7055229,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "85"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434206980,
+      "lat": 45.6341436,
+      "lon": -112.6765428,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "93"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434207699,
+      "lat": 45.8752685,
+      "lon": -112.6735407,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "111"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434207710,
+      "lat": 45.7567555,
+      "lon": -112.7305815,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "102"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434207759,
+      "lat": 45.8397191,
+      "lon": -112.6823813,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434208036,
+      "lat": 46.0089844,
+      "lon": -112.628718,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "121",
+        "ref:right": "121"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434208057,
+      "lat": 45.9475727,
+      "lon": -112.6677544,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "116"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434208185,
+      "lat": 46.0065344,
+      "lon": -112.6045865,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "122"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434209714,
+      "lat": 45.9925424,
+      "lon": -112.5338944,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "126"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434210060,
+      "lat": 45.9822233,
+      "lon": -112.5049154,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "127"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434324824,
+      "lat": 46.2716932,
+      "lon": -112.2421827,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "156"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434704986,
+      "lat": 46.0377385,
+      "lon": -112.4580441,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "134"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434709873,
+      "lat": 46.0985505,
+      "lon": -112.4179109,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434718009,
+      "lat": 46.2551316,
+      "lon": -112.3427582,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "151"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434728711,
+      "lat": 46.2704764,
+      "lon": -112.2527199,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "156"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434728828,
+      "lat": 46.2613307,
+      "lon": -112.1992641,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "160"
+      }
+    },
+    {
+      "type": "node",
+      "id": 434742347,
+      "lat": 46.244302,
+      "lon": -112.123457,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "164"
+      }
+    },
+    {
+      "type": "node",
+      "id": 435164538,
+      "lat": 46.3909776,
+      "lon": -112.0229037,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "176"
+      }
+    },
+    {
+      "type": "node",
+      "id": 435164690,
+      "lat": 46.4021806,
+      "lon": -112.0167477,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 435182726,
+      "lat": 46.4716244,
+      "lon": -111.9805806,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "182"
+      }
+    },
+    {
+      "type": "node",
+      "id": 435182749,
+      "lat": 46.5442036,
+      "lon": -111.9466958,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 435183401,
+      "lat": 46.4182264,
+      "lon": -112.0021131,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436140139,
+      "lat": 48.7438188,
+      "lon": -111.8616521,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "379"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436140151,
+      "lat": 48.8303263,
+      "lon": -111.862942,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "385"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436140175,
+      "lat": 48.9462693,
+      "lon": -111.9336557,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "394"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436140185,
+      "lat": 48.9935092,
+      "lon": -111.9601266,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "397"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436140328,
+      "lat": 48.8881166,
+      "lon": -111.9068444,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "389"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436145190,
+      "lat": 48.5988594,
+      "lon": -111.8620097,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "369"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436145197,
+      "lat": 48.6566391,
+      "lon": -111.8621387,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "373"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436146068,
+      "lat": 48.5353899,
+      "lon": -111.8598093,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "364"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436146074,
+      "lat": 48.5576778,
+      "lon": -111.8606209,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436146141,
+      "lat": 48.454446,
+      "lon": -111.883976,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "358"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436146189,
+      "lat": 48.3700682,
+      "lon": -111.9342358,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "352"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436146201,
+      "lat": 48.3103546,
+      "lon": -111.9364076,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "348"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436146205,
+      "lat": 48.2671105,
+      "lon": -111.9363844,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "345"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436146234,
+      "lat": 48.1853516,
+      "lon": -111.9341768,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "339"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436146258,
+      "lat": 48.1331728,
+      "lon": -111.9059972,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "335"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436150031,
+      "lat": 48.0384017,
+      "lon": -111.8324549,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "328"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436150933,
+      "lat": 47.9597641,
+      "lon": -111.7533856,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "321"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436150935,
+      "lat": 47.9296507,
+      "lon": -111.7361061,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436150962,
+      "lat": 47.8528221,
+      "lon": -111.7072709,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "313"
+      }
+    },
+    {
+      "type": "node",
+      "id": 436151011,
+      "lat": 47.7155287,
+      "lon": -111.6633599,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 447858468,
+      "lat": 45.7996233,
+      "lon": -108.2940976,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "462"
+      }
+    },
+    {
+      "type": "node",
+      "id": 447858552,
+      "lat": 45.7789713,
+      "lon": -108.1351853,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "469"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448250075,
+      "lat": 45.7814897,
+      "lon": -108.0061114,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448310323,
+      "lat": 45.5257725,
+      "lon": -107.4171388,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "514"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448310834,
+      "lat": 45.5838678,
+      "lon": -107.4561648,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "510"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448311781,
+      "lat": 45.5320753,
+      "lon": -107.4233308,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "514"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448312996,
+      "lat": 45.1348997,
+      "lon": -107.3686177,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "544"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448313294,
+      "lat": 45.063476,
+      "lon": -107.3374075,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "549"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448366562,
+      "lat": 45.6767357,
+      "lon": -107.5015208,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "503"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448366721,
+      "lat": 45.7461601,
+      "lon": -107.6188681,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "495"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448366741,
+      "lat": 45.6835013,
+      "lon": -107.5081797,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "503"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448412250,
+      "lat": 45.6058862,
+      "lon": -107.4636519,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "509"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448413251,
+      "lat": 45.3203315,
+      "lon": -107.3437006,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "530"
+      }
+    },
+    {
+      "type": "node",
+      "id": 448413261,
+      "lat": 45.3108933,
+      "lon": -107.344591,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "530"
+      }
+    },
+    {
+      "type": "node",
+      "id": 466344878,
+      "lat": 45.8822243,
+      "lon": -108.3128235,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 467701061,
+      "lat": 45.9375298,
+      "lon": -108.1536881,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 467701070,
+      "lat": 45.9851292,
+      "lon": -107.9946245,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "23"
+      }
+    },
+    {
+      "type": "node",
+      "id": 467712322,
+      "lat": 46.0519388,
+      "lon": -107.7568252,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "36"
+      }
+    },
+    {
+      "type": "node",
+      "id": 467728147,
+      "lat": 46.1289832,
+      "lon": -107.5603786,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 467728171,
+      "lat": 46.1378307,
+      "lon": -107.5122775,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 468187542,
+      "lat": 46.2631951,
+      "lon": -107.1430732,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "72"
+      }
+    },
+    {
+      "type": "node",
+      "id": 468365502,
+      "lat": 46.250103,
+      "lon": -106.8215852,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "87"
+      }
+    },
+    {
+      "type": "node",
+      "id": 506718629,
+      "lat": 46.0095179,
+      "lon": -112.6789746,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "216"
+      }
+    },
+    {
+      "type": "node",
+      "id": 506726903,
+      "lat": 46.0515886,
+      "lon": -112.7533435,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "211"
+      }
+    },
+    {
+      "type": "node",
+      "id": 507109541,
+      "lat": 46.0675147,
+      "lon": -112.7770827,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 507109584,
+      "lat": 46.0893284,
+      "lon": -112.7904854,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 507411119,
+      "lat": 46.1777672,
+      "lon": -112.7844461,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "201"
+      }
+    },
+    {
+      "type": "node",
+      "id": 507460155,
+      "lat": 46.2328306,
+      "lon": -112.7669481,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "197"
+      }
+    },
+    {
+      "type": "node",
+      "id": 507460206,
+      "lat": 46.2414337,
+      "lon": -112.7638662,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "197"
+      }
+    },
+    {
+      "type": "node",
+      "id": 507519053,
+      "lat": 46.2666496,
+      "lon": -112.7499328,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "195"
+      }
+    },
+    {
+      "type": "node",
+      "id": 508125717,
+      "lat": 46.3694368,
+      "lon": -112.7401164,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 508283384,
+      "lat": 46.4085999,
+      "lon": -112.7214214,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "184"
+      }
+    },
+    {
+      "type": "node",
+      "id": 508328485,
+      "lat": 46.4843378,
+      "lon": -112.7235672,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "179"
+      }
+    },
+    {
+      "type": "node",
+      "id": 510795614,
+      "lat": 46.512005,
+      "lon": -112.7842436,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "175"
+      }
+    },
+    {
+      "type": "node",
+      "id": 510888836,
+      "lat": 46.5567145,
+      "lon": -112.8745695,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "170"
+      }
+    },
+    {
+      "type": "node",
+      "id": 510888869,
+      "lat": 46.5559732,
+      "lon": -112.8641274,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "170"
+      }
+    },
+    {
+      "type": "node",
+      "id": 512537084,
+      "lat": 46.5907418,
+      "lon": -112.9242781,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "166"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513452597,
+      "lat": 46.6619895,
+      "lon": -113.1351151,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "154"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513477053,
+      "lat": 46.6894468,
+      "lon": -113.1993974,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513537967,
+      "lat": 46.7019595,
+      "lon": -113.3429994,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513538024,
+      "lat": 46.7056953,
+      "lon": -113.3365677,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513652350,
+      "lat": 46.6978646,
+      "lon": -113.4267492,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "138"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513705502,
+      "lat": 46.7253789,
+      "lon": -113.5816231,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "130"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514635164,
+      "lat": 46.7282408,
+      "lon": -113.6624321,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "126"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514635219,
+      "lat": 46.7258532,
+      "lon": -113.6292941,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514727009,
+      "lat": 46.7772457,
+      "lon": -113.7114488,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "120"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516098574,
+      "lat": 46.8340447,
+      "lon": -113.825951,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "113"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516228964,
+      "lat": 46.8679098,
+      "lon": -113.9461712,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "107"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516318202,
+      "lat": 46.8832053,
+      "lon": -113.9942456,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516318226,
+      "lat": 46.8775025,
+      "lon": -113.9896957,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516318232,
+      "lat": 46.8734888,
+      "lon": -113.9854968,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "105"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516318243,
+      "lat": 46.8684327,
+      "lon": -113.9782647,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "105"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516389597,
+      "lat": 46.9149409,
+      "lon": -114.0382198,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "101"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516389604,
+      "lat": 46.9112424,
+      "lon": -114.0311609,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "101"
+      }
+    },
+    {
+      "type": "node",
+      "id": 516422033,
+      "lat": 46.9211089,
+      "lon": -114.0628827,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "99"
+      }
+    },
+    {
+      "type": "node",
+      "id": 517519891,
+      "lat": 46.9497909,
+      "lon": -114.1282475,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "96"
+      }
+    },
+    {
+      "type": "node",
+      "id": 517609135,
+      "lat": 47.0146786,
+      "lon": -114.2254409,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "89"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527339189,
+      "lat": 47.0335662,
+      "lon": -114.3278125,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "85"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527346359,
+      "lat": 47.0212506,
+      "lon": -114.3635838,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "82"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527796713,
+      "lat": 46.992353,
+      "lon": -114.4404839,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "77"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527824769,
+      "lat": 47.0042884,
+      "lon": -114.5720604,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "70"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527824823,
+      "lat": 47.0193366,
+      "lon": -114.5156558,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527840342,
+      "lat": 47.0192458,
+      "lon": -114.6600107,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "65"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527840382,
+      "lat": 47.0171514,
+      "lon": -114.6415137,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "66"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527851210,
+      "lat": 47.0230407,
+      "lon": -114.7373032,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "61"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527871313,
+      "lat": 47.103627,
+      "lon": -114.7857652,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "55"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527871317,
+      "lat": 47.1104586,
+      "lon": -114.7869289,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "55"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527996327,
+      "lat": 47.1930662,
+      "lon": -114.8955825,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 527996347,
+      "lat": 47.1900397,
+      "lon": -114.885461,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "47"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528110652,
+      "lat": 47.2280968,
+      "lon": -114.9742965,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "43"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528110656,
+      "lat": 47.2234615,
+      "lon": -114.9651489,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "43"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528164223,
+      "lat": 47.2505675,
+      "lon": -115.053327,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528164299,
+      "lat": 47.258918,
+      "lon": -115.0537929,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "37"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528164443,
+      "lat": 47.2938299,
+      "lon": -115.0945104,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "33"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528164450,
+      "lat": 47.2985188,
+      "lon": -115.1049194,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "33"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528351304,
+      "lat": 45.9182199,
+      "lon": -111.6024626,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "274"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528370987,
+      "lat": 45.9146514,
+      "lon": -111.748377,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "267"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528371001,
+      "lat": 45.9149103,
+      "lon": -111.7372694,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "267"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528554957,
+      "lat": 47.2950349,
+      "lon": -115.1604394,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 528554963,
+      "lat": 47.2987397,
+      "lon": -115.175741,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533712300,
+      "lat": 47.3188424,
+      "lon": -115.2443137,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "25"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533736317,
+      "lat": 47.3561366,
+      "lon": -115.2984203,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533736323,
+      "lat": 47.351541,
+      "lon": -115.291254,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "22"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533744873,
+      "lat": 47.3738006,
+      "lon": -115.3453234,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "18"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533774330,
+      "lat": 47.3925174,
+      "lon": -115.4161382,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533774337,
+      "lat": 47.3876621,
+      "lon": -115.4044994,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533774361,
+      "lat": 47.3824878,
+      "lon": -115.3937274,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "16"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533807283,
+      "lat": 47.418571,
+      "lon": -115.618935,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533807289,
+      "lat": 47.4210369,
+      "lon": -115.6117399,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533807330,
+      "lat": 47.4202071,
+      "lon": -115.6031533,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533807381,
+      "lat": 47.4107152,
+      "lon": -115.5150646,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533892811,
+      "lat": 47.4527429,
+      "lon": -115.6940107,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "0",
+        "source": "wikipedia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 533892852,
+      "lat": 47.4216647,
+      "lon": -115.6325907,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 534871429,
+      "lat": 45.8704252,
+      "lon": -111.9602787,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "256"
+      }
+    },
+    {
+      "type": "node",
+      "id": 534879879,
+      "lat": 45.8784872,
+      "lon": -112.1072909,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "249"
+      }
+    },
+    {
+      "type": "node",
+      "id": 552351307,
+      "lat": 45.9057867,
+      "lon": -112.2458731,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "241"
+      }
+    },
+    {
+      "type": "node",
+      "id": 552351334,
+      "lat": 45.9049296,
+      "lon": -112.2387963,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "241"
+      }
+    },
+    {
+      "type": "node",
+      "id": 583061921,
+      "lat": 48.5141365,
+      "lon": -111.8751341,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 583186883,
+      "lat": 45.7133429,
+      "lon": -110.4080484,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "343"
+      }
+    },
+    {
+      "type": "node",
+      "id": 585220169,
+      "lat": 47.9234852,
+      "lon": -111.7321378,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595726136,
+      "lat": 45.7439905,
+      "lon": -107.5858328,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "497"
+      }
+    },
+    {
+      "type": "node",
+      "id": 596235698,
+      "lat": 46.2502901,
+      "lon": -106.8095898,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "87"
+      }
+    },
+    {
+      "type": "node",
+      "id": 596252078,
+      "lat": 46.2606139,
+      "lon": -106.931558,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "82"
+      }
+    },
+    {
+      "type": "node",
+      "id": 596258257,
+      "lat": 46.2593328,
+      "lon": -106.9248158,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "82"
+      }
+    },
+    {
+      "type": "node",
+      "id": 596358976,
+      "lat": 46.2636201,
+      "lon": -107.1318134,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "72"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597327992,
+      "lat": 46.2571148,
+      "lon": -107.227321,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "67"
+      }
+    },
+    {
+      "type": "node",
+      "id": 597329863,
+      "lat": 46.1976465,
+      "lon": -107.2624151,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "63"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621247754,
+      "lat": 45.9214693,
+      "lon": -112.4175815,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "233"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621247891,
+      "lat": 45.9644475,
+      "lon": -112.4737523,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "228"
+      }
+    },
+    {
+      "type": "node",
+      "id": 666737119,
+      "lat": 45.9467902,
+      "lon": -112.262785,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Junction T"
+      }
+    },
+    {
+      "type": "node",
+      "id": 666737140,
+      "lat": 45.9445822,
+      "lon": -112.2570452,
+      "tags": {
+        "highway": "motorway_junction",
+        "name": "Junction U"
+      }
+    },
+    {
+      "type": "node",
+      "id": 678255277,
+      "lat": 45.9925274,
+      "lon": -112.4740894,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 678894097,
+      "lat": 46.9552975,
+      "lon": -112.103946,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 678967411,
+      "lat": 45.9149056,
+      "lon": -112.3732682,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 678967551,
+      "lat": 45.9155253,
+      "lon": -112.3809618,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 679632913,
+      "lat": 46.5911652,
+      "lon": -111.997559,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 680230012,
+      "lat": 46.8972978,
+      "lon": -114.039354,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 761862267,
+      "lat": 45.8030181,
+      "lon": -108.486155,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 796092911,
+      "lat": 46.5826815,
+      "lon": -112.9013026,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1020843947,
+      "lat": 44.8499231,
+      "lon": -112.7939733,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1033907865,
+      "lat": 46.9884358,
+      "lon": -114.1834856,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1034530651,
+      "lat": 46.3762046,
+      "lon": -112.7356423,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "187"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1044976441,
+      "lat": 45.6443309,
+      "lon": -110.5729054,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "333"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1108665183,
+      "lat": 46.5783871,
+      "lon": -111.9805422,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "190"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1108665194,
+      "lat": 46.5707017,
+      "lon": -111.968659,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "190"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1537571156,
+      "lat": 46.5905845,
+      "lon": -112.003699,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1636832938,
+      "lat": 47.4085351,
+      "lon": -115.5065047,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1643690089,
+      "lat": 46.6218706,
+      "lon": -112.0111564,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "194"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1650032977,
+      "lat": 48.5149638,
+      "lon": -111.8772673,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "363"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1650033017,
+      "lat": 48.5160031,
+      "lon": -111.8791909,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1769753565,
+      "lat": 46.6164821,
+      "lon": -112.014742,
+      "tags": {
+        "highway": "motorway_junction",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1890930771,
+      "lat": 46.0071673,
+      "lon": -112.6487972,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "219"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3658391015,
+      "lat": 45.7582678,
+      "lon": -111.1562842,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "299"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3658391678,
+      "lat": 45.7627287,
+      "lon": -111.169632,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "299"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3669140315,
+      "lat": 46.0057355,
+      "lon": -112.5829491,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3847573141,
+      "lat": 48.177997,
+      "lon": -114.3262366,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4096141309,
+      "lat": 45.69554,
+      "lon": -108.6783614,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4096141321,
+      "lat": 45.6889093,
+      "lon": -108.6917844,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4464474284,
+      "lat": 47.0160138,
+      "lon": -114.6859492,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "65"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4505308600,
+      "lat": 48.2143079,
+      "lon": -114.3465465,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4582911555,
+      "lat": 48.240418,
+      "lon": -114.332483,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4583058742,
+      "lat": 48.2384034,
+      "lon": -114.336514,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5823890498,
+      "lat": 46.6118533,
+      "lon": -112.0103936,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "194"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7828509403,
+      "lat": 48.2214962,
+      "lon": -114.3488324,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7828509433,
+      "lat": 48.1931346,
+      "lon": -114.3371737,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7828509448,
+      "lat": 48.2297942,
+      "lon": -114.3488389,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7828509463,
+      "lat": 48.2066409,
+      "lon": -114.3459647,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7828509466,
+      "lat": 48.2339799,
+      "lon": -114.3443317,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7851514523,
+      "lat": 48.2002075,
+      "lon": -114.3441461,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8619173409,
+      "lat": 45.6615387,
+      "lon": -108.8036833,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "433"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9421729974,
+      "lat": 46.0046605,
+      "lon": -112.5738752,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "124"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9421730030,
+      "lat": 46.0023908,
+      "lon": -112.5575842,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9421730118,
+      "lat": 46.0035329,
+      "lon": -112.550455,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9848772533,
+      "lat": 48.1831651,
+      "lon": -114.3306102,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9848772599,
+      "lat": 48.1908893,
+      "lon": -114.3359396,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10179135590,
+      "lat": 45.80363,
+      "lon": -108.4814638,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11035998987,
+      "lat": 46.894815,
+      "lon": -114.039201,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5426468,
+      "center": {
+        "lat": 47.4863643,
+        "lon": -111.3393244
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination:street": "14th Street Southwest",
+        "highway": "motorway_link",
+        "junction:ref": "0",
+        "oneway": "yes",
+        "source": "Bing",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cascade, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5426529,
+      "center": {
+        "lat": 47.1913577,
+        "lon": -111.8049008
+      },
+      "tags": {
+        "destination": "Hardy Creek",
+        "highway": "motorway_link",
+        "junction:ref": "247",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5426530,
+      "center": {
+        "lat": 47.1872614,
+        "lon": -111.808561
+      },
+      "tags": {
+        "destination": "Hardy Creek",
+        "highway": "motorway_link",
+        "junction:ref": "247",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5426752,
+      "center": {
+        "lat": 47.2180817,
+        "lon": -111.7769609
+      },
+      "tags": {
+        "destination": "Local Access",
+        "highway": "motorway_link",
+        "junction:ref": "250",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5426916,
+      "center": {
+        "lat": 47.4839389,
+        "lon": -111.3468368
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "10th Avenue South",
+        "destination:ref": "US 89 South;MT 200 East",
+        "hgv": "designated",
+        "highway": "motorway_link",
+        "junction:ref": "278",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "US 89;MT 200",
+        "source": "local_knowledge",
+        "surface": "asphalt",
+        "unsigned_ref": "I 315"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5429172,
+      "center": {
+        "lat": 47.2221554,
+        "lon": -111.7758078
+      },
+      "tags": {
+        "destination": "Local Access",
+        "highway": "motorway_link",
+        "junction:ref": "250",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5429227,
+      "center": {
+        "lat": 47.1540144,
+        "lon": -111.8375405
+      },
+      "tags": {
+        "destination": "Canyon Access",
+        "highway": "motorway_link",
+        "junction:ref": "244",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5429233,
+      "center": {
+        "lat": 47.1544112,
+        "lon": -111.8425856
+      },
+      "tags": {
+        "destination": "Canyon Access",
+        "highway": "motorway_link",
+        "junction:ref": "244",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5429318,
+      "center": {
+        "lat": 47.1325302,
+        "lon": -111.8928643
+      },
+      "tags": {
+        "destination": "Dearborn",
+        "highway": "motorway_link",
+        "junction:ref": "240",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cascade, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5429534,
+      "center": {
+        "lat": 47.1337463,
+        "lon": -111.890018
+      },
+      "tags": {
+        "destination": "Dearborn",
+        "highway": "motorway_link",
+        "junction:ref": "240",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cascade, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5430294,
+      "center": {
+        "lat": 47.2782834,
+        "lon": -111.7015104
+      },
+      "tags": {
+        "destination": "Cascade",
+        "highway": "motorway_link",
+        "junction:ref": "256",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5724877,
+      "center": {
+        "lat": 46.1045481,
+        "lon": -112.4149923
+      },
+      "tags": {
+        "destination": "Elk Park",
+        "highway": "motorway_link",
+        "junction:ref": "138",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5724982,
+      "center": {
+        "lat": 46.1002838,
+        "lon": -112.4163638
+      },
+      "tags": {
+        "destination": "Elk Park",
+        "highway": "motorway_link",
+        "junction:ref": "138",
+        "oneway": "yes",
+        "source": "Bing",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5725766,
+      "center": {
+        "lat": 46.5386947,
+        "lon": -111.9434264
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Montana City",
+        "destination:ref": "MT 518",
+        "highway": "motorway_link",
+        "junction:ref": "187",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5725768,
+      "center": {
+        "lat": 46.2564861,
+        "lon": -112.3418143
+      },
+      "tags": {
+        "destination": "Bernice",
+        "highway": "motorway_link",
+        "junction:ref": "151",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5725774,
+      "center": {
+        "lat": 46.3897055,
+        "lon": -112.0242239
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Jefferson City",
+        "highway": "motorway_link",
+        "junction:ref": "176",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5725881,
+      "center": {
+        "lat": 46.2481923,
+        "lon": -112.1177502
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Boulder",
+        "destination:ref": "MT 69",
+        "highway": "motorway_link",
+        "junction:ref": "164",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5726351,
+      "center": {
+        "lat": 46.2594689,
+        "lon": -112.3404529
+      },
+      "tags": {
+        "destination": "Bernice",
+        "highway": "motorway_link",
+        "junction:ref": "151",
+        "oneway": "yes",
+        "source": "Bing",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5733874,
+      "center": {
+        "lat": 46.5928863,
+        "lon": -112.0008169
+      },
+      "tags": {
+        "destination": "Townsend;Capitol Area",
+        "destination:ref": "US 12 South;US 287 South",
+        "highway": "motorway_link",
+        "junction:ref": "192",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "US 287"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5744726,
+      "center": {
+        "lat": 46.6091292,
+        "lon": -112.0098069
+      },
+      "tags": {
+        "destination:ref": "I 15 Business",
+        "destination:street": "Cedar Street",
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "I 15 Business"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5746261,
+      "center": {
+        "lat": 46.6037925,
+        "lon": -112.0057611
+      },
+      "tags": {
+        "destination:street": "Cedar Street",
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "2",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5747859,
+      "center": {
+        "lat": 46.5885853,
+        "lon": -111.9943964
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Townsend;Capitol Area",
+        "destination:ref": "I 15 Business;US 12;US 287",
+        "highway": "motorway_link",
+        "junction:ref": "192",
+        "oneway": "yes",
+        "ref": "I 15 Business"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5766227,
+      "center": {
+        "lat": 46.9124324,
+        "lon": -114.0325638
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Hamilton",
+        "destination:ref": "US 93 South",
+        "destination:street": "Reserve Street",
+        "highway": "motorway_link",
+        "junction:ref": "101",
+        "maxspeed:advisory": "45 mph",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Missoula, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5804898,
+      "center": {
+        "lat": 45.9820661,
+        "lon": -112.4811587
+      },
+      "tags": {
+        "destination": "Billings",
+        "destination:ref": "I 90 East",
+        "highway": "motorway_link",
+        "junction:ref": "129",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Silver Bow, MT",
+        "tiger:source": "tiger_import_dch_v0.6_20070813",
+        "tiger:tlid": "153581017:153581491",
+        "tiger:upload_uuid": "bulk_upload.pl-3a256fcc-9480-4b0a-9fa7-4b5c154cce1b"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5815214,
+      "center": {
+        "lat": 48.5151223,
+        "lon": -111.8784831
+      },
+      "tags": {
+        "destination": "Shelby;Cut Bank",
+        "destination:ref": "US 2",
+        "highway": "motorway_link",
+        "junction:ref": "363",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35868071,
+      "center": {
+        "lat": 45.8279283,
+        "lon": -108.3917882
+      },
+      "tags": {
+        "destination": "Bismarck",
+        "destination:ref": "I 94 East",
+        "highway": "motorway_link",
+        "junction:ref": "456",
+        "oneway": "yes",
+        "source": "Yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37264872,
+      "center": {
+        "lat": 45.9813333,
+        "lon": -112.4809991
+      },
+      "tags": {
+        "destination": "Helena",
+        "destination:ref": "I 15 North",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "129",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "oneway": "yes",
+        "ref": "I 15",
+        "source:hgv:national_network": "https://hepgis-usdot.hub.arcgis.com/apps/6d9a255b444f490599415adbb61fe87c/explore"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37300583,
+      "center": {
+        "lat": 46.0429041,
+        "lon": -112.453261
+      },
+      "tags": {
+        "destination": "Woodville",
+        "highway": "motorway_link",
+        "junction:ref": "134",
+        "lanes": "1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37301651,
+      "center": {
+        "lat": 46.2706645,
+        "lon": -112.2499566
+      },
+      "tags": {
+        "destination": "Basin",
+        "highway": "motorway_link",
+        "junction:ref": "156",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37301679,
+      "center": {
+        "lat": 46.2606538,
+        "lon": -112.1970847
+      },
+      "tags": {
+        "destination:street": "High Ore Road",
+        "highway": "motorway_link",
+        "junction:ref": "160",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37336443,
+      "center": {
+        "lat": 46.8890097,
+        "lon": -112.112605
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Sieben",
+        "highway": "motorway_link",
+        "junction:ref": "216",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37336444,
+      "center": {
+        "lat": 46.8878273,
+        "lon": -112.1085627
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Sieben",
+        "highway": "motorway_link",
+        "junction:ref": "216",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37336781,
+      "center": {
+        "lat": 47.00507,
+        "lon": -112.0665135
+      },
+      "tags": {
+        "destination": "Wolf Creek",
+        "destination:ref": "MT 434",
+        "highway": "motorway_link",
+        "junction:ref": "226",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37336784,
+      "center": {
+        "lat": 47.0059463,
+        "lon": -112.0726025
+      },
+      "tags": {
+        "destination": "Wolf Creek",
+        "destination:ref": "MT 434",
+        "highway": "motorway_link",
+        "junction:ref": "226",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37337323,
+      "center": {
+        "lat": 47.0770043,
+        "lon": -111.9660827
+      },
+      "tags": {
+        "destination": "Craig",
+        "highway": "motorway_link",
+        "junction:ref": "234",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37337324,
+      "center": {
+        "lat": 47.0733632,
+        "lon": -111.9682115
+      },
+      "tags": {
+        "destination": "Craig",
+        "highway": "motorway_link",
+        "junction:ref": "234",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38719228,
+      "center": {
+        "lat": 47.485012,
+        "lon": -111.3449657
+      },
+      "tags": {
+        "bicycle": "yes",
+        "bridge": "yes",
+        "destination": "10th Avenue South",
+        "destination:ref": "US 89 South;MT 200 East",
+        "hgv": "designated",
+        "highway": "motorway_link",
+        "junction:ref": "278",
+        "lanes": "2",
+        "layer": "1",
+        "oneway": "yes",
+        "ref": "US 89;MT 200",
+        "source": "local_knowledge",
+        "surface": "asphalt",
+        "unsigned_ref": "I 315"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38719229,
+      "center": {
+        "lat": 47.4853658,
+        "lon": -111.3429744
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "10th Avenue South",
+        "destination:ref": "US 89 South;MT 200 East",
+        "hgv": "designated",
+        "highway": "motorway_link",
+        "junction:ref": "278",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "US 89;MT 200",
+        "source": "local_knowledge",
+        "surface": "asphalt",
+        "unsigned_ref": "I 315"
+      }
+    },
+    {
+      "type": "way",
+      "id": 81775267,
+      "center": {
+        "lat": 47.4866326,
+        "lon": -111.3381959
+      },
+      "tags": {
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "0",
+        "layer": "1",
+        "oneway": "yes",
+        "source": "Bing",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Cascade, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 81775269,
+      "center": {
+        "lat": 47.4860195,
+        "lon": -111.337568
+      },
+      "tags": {
+        "bicycle": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "0",
+        "oneway": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 95607156,
+      "center": {
+        "lat": 46.5729609,
+        "lon": -111.9712833
+      },
+      "tags": {
+        "destination": "South Helena",
+        "highway": "motorway_link",
+        "junction:ref": "190",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118924168,
+      "center": {
+        "lat": 45.8256278,
+        "lon": -108.394087
+      },
+      "tags": {
+        "destination": "Sheridan",
+        "destination:ref": "I 90 East",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "456",
+        "lanes": "1",
+        "maxspeed": "65 mph",
+        "oneway": "yes",
+        "ref": "I 90;US 87;US 212",
+        "source": "Yahoo",
+        "source:hgv:national_network": "https://hepgis-usdot.hub.arcgis.com/apps/6d9a255b444f490599415adbb61fe87c/explore",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140316159,
+      "center": {
+        "lat": 47.4855633,
+        "lon": -111.3378678
+      },
+      "tags": {
+        "highway": "motorway_link",
+        "junction:ref": "0",
+        "oneway": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 151553345,
+      "center": {
+        "lat": 46.6199169,
+        "lon": -112.0121802
+      },
+      "tags": {
+        "destination:street": "Custer Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "194",
+        "lanes": "1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153853953,
+      "center": {
+        "lat": 48.5129776,
+        "lon": -111.8775474
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Shelby;Cut Bank",
+        "destination:ref": "I 15 BUS;US 2",
+        "highway": "motorway_link",
+        "junction:ref": "363",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "ref": "I 15 BUS",
+        "source": "Bing;yahoo",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Toole, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 153853957,
+      "center": {
+        "lat": 48.5160731,
+        "lon": -111.8786249
+      },
+      "tags": {
+        "destination": "Shelby",
+        "destination:symbol": "info;train_station",
+        "highway": "motorway_link",
+        "junction:ref": "363",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 154944828,
+      "center": {
+        "lat": 48.5143604,
+        "lon": -111.8748918
+      },
+      "tags": {
+        "destination": "Cut Bank;Glacier National Park",
+        "highway": "motorway_link",
+        "junction:ref": "363",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "yahoo",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Toole, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 452638396,
+      "center": {
+        "lat": 45.9802976,
+        "lon": -112.4859489
+      },
+      "tags": {
+        "destination": "Helena",
+        "destination:ref": "I 15 North",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "129",
+        "lanes": "1",
+        "maxspeed": "65 mph",
+        "oneway": "yes",
+        "ref": "I 15",
+        "source:hgv:national_network": "https://hepgis-usdot.hub.arcgis.com/apps/6d9a255b444f490599415adbb61fe87c/explore"
+      }
+    },
+    {
+      "type": "way",
+      "id": 558697441,
+      "center": {
+        "lat": 46.6134117,
+        "lon": -112.0103644
+      },
+      "tags": {
+        "destination:street": "Custer Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "194",
+        "lanes": "2",
+        "oneway": "yes",
+        "placement": "right_of:1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 558697443,
+      "center": {
+        "lat": 46.5762289,
+        "lon": -111.978043
+      },
+      "tags": {
+        "destination": "South Helena",
+        "highway": "motorway_link",
+        "junction:ref": "190",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 558697444,
+      "center": {
+        "lat": 46.5424397,
+        "lon": -111.9463658
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Montana City",
+        "destination:ref": "MT 518",
+        "highway": "motorway_link",
+        "junction:ref": "187",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 558697446,
+      "center": {
+        "lat": 46.4700646,
+        "lon": -111.9813761
+      },
+      "tags": {
+        "destination": "Clancy",
+        "highway": "motorway_link",
+        "junction:ref": "182",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 558697447,
+      "center": {
+        "lat": 46.4668833,
+        "lon": -111.9818738
+      },
+      "tags": {
+        "destination": "Clancy",
+        "highway": "motorway_link",
+        "junction:ref": "182",
+        "oneway": "yes",
+        "source": "yahoo",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 558697448,
+      "center": {
+        "lat": 46.3864277,
+        "lon": -112.0255508
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Jefferson City",
+        "highway": "motorway_link",
+        "junction:ref": "176",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 631869163,
+      "center": {
+        "lat": 46.2450038,
+        "lon": -112.1206164
+      },
+      "tags": {
+        "bicycle": "no",
+        "destination": "Boulder",
+        "destination:ref": "MT 69",
+        "highway": "motorway_link",
+        "junction:ref": "164",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Jefferson, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 631869750,
+      "center": {
+        "lat": 46.259938,
+        "lon": -112.1923188
+      },
+      "tags": {
+        "destination:street": "High Ore Road",
+        "highway": "motorway_link",
+        "junction:ref": "160",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 631870921,
+      "center": {
+        "lat": 46.2718335,
+        "lon": -112.2447712
+      },
+      "tags": {
+        "destination": "Basin",
+        "highway": "motorway_link",
+        "junction:ref": "156",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 631875583,
+      "center": {
+        "lat": 46.0392291,
+        "lon": -112.4558718
+      },
+      "tags": {
+        "destination": "Woodville",
+        "highway": "motorway_link",
+        "junction:ref": "134",
+        "lanes": "1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 632098077,
+      "center": {
+        "lat": 47.2818429,
+        "lon": -111.6972291
+      },
+      "tags": {
+        "destination": "Cascade",
+        "destination:ref": "MT 68",
+        "highway": "motorway_link",
+        "junction:ref": "256",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 632112384,
+      "center": {
+        "lat": 48.5162505,
+        "lon": -111.8789483
+      },
+      "tags": {
+        "destination": "Cut Bank;Glacier National Park",
+        "highway": "motorway_link",
+        "junction:ref": "363",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1018931765,
+      "center": {
+        "lat": 47.5634335,
+        "lon": -111.5372981
+      },
+      "tags": {
+        "destination": "Choteau;Missoula",
+        "destination:ref": "US 89 North;MT 200 West",
+        "highway": "motorway_link",
+        "junction:ref": "290",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1018931767,
+      "center": {
+        "lat": 47.5610767,
+        "lon": -111.5317305
+      },
+      "tags": {
+        "destination": "Choteau;Missoula",
+        "destination:ref": "US 89 North;MT 200 West",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "290",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "US 89;MT 200",
+        "source:hgv:national_network": "https://hepgis-usdot.hub.arcgis.com/apps/usdot::national-network-conventional-combination-trucks-map/explore",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1021483806,
+      "center": {
+        "lat": 46.9197847,
+        "lon": -112.1210104
+      },
+      "tags": {
+        "destination": "Spring Creek",
+        "highway": "motorway_link",
+        "junction:ref": "219",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1021544994,
+      "center": {
+        "lat": 46.0023377,
+        "lon": -112.5561247
+      },
+      "tags": {
+        "destination": "Excelsior Avenue;Walkerville",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1021545002,
+      "center": {
+        "lat": 46.0038883,
+        "lon": -112.5518205
+      },
+      "tags": {
+        "destination": "Excelsior Avenue;Walkerville",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1039755269,
+      "center": {
+        "lat": 46.6165591,
+        "lon": -112.0135774
+      },
+      "tags": {
+        "destination:street": "Custer Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "194",
+        "lanes": "1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1039755270,
+      "center": {
+        "lat": 46.6172917,
+        "lon": -112.0134094
+      },
+      "tags": {
+        "destination:street": "Custer Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "194",
+        "lanes": "2",
+        "oneway": "yes",
+        "turn:lanes": "left|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1039755312,
+      "center": {
+        "lat": 46.6055975,
+        "lon": -112.0050511
+      },
+      "tags": {
+        "destination:street": "Cedar Street",
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "3",
+        "oneway": "yes",
+        "placement": "left_of:2",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through;right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1039755316,
+      "center": {
+        "lat": 46.6075212,
+        "lon": -112.0092843
+      },
+      "tags": {
+        "change:lanes": "no|no",
+        "destination:ref": "I 15 Business",
+        "destination:street": "Cedar Street",
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "2",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "ref": "I 15 Business",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1041829722,
+      "center": {
+        "lat": 48.5142142,
+        "lon": -111.8746364
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Shelby",
+        "destination:symbol": "hospital;train_station",
+        "highway": "motorway_link",
+        "junction:ref": "363",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "I 15 BUS",
+        "source": "Bing;yahoo",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "Toole, MT"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1260702416,
+      "center": {
+        "lat": 46.6157519,
+        "lon": -112.0101878
+      },
+      "tags": {
+        "destination:street": "Custer Avenue",
+        "highway": "motorway_link",
+        "junction:ref": "194",
+        "lanes": "3",
+        "oneway": "yes",
+        "placement": "right_of:1",
+        "turn:lanes": "left|left;through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1260735978,
+      "center": {
+        "lat": 46.5905432,
+        "lon": -111.9953973
+      },
+      "tags": {
+        "bicycle": "yes",
+        "destination": "Townsend;Capitol Area",
+        "destination:ref": "I 15 Business;US 12;US 287",
+        "highway": "motorway_link",
+        "junction:ref": "192",
+        "lanes": "3",
+        "oneway": "yes",
+        "ref": "I 15 Business",
+        "turn:lanes": "left|left|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1341516723,
+      "center": {
+        "lat": 46.6072044,
+        "lon": -112.0091557
+      },
+      "tags": {
+        "change:lanes": "no|no|no",
+        "destination:ref": "I 15 Business",
+        "destination:street": "Cedar Street",
+        "highway": "motorway_link",
+        "junction:ref": "193",
+        "lanes": "3",
+        "oneway": "yes",
+        "placement": "right_of:2",
+        "ref": "I 15 Business",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|right|right"
+      }
+    }
+  ]
+}

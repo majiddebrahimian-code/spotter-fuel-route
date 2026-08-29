@@ -1,0 +1,4662 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-28T03:18:20Z",
+    "timestamp_areas_base": "2026-08-28T00:16:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 178555225,
+      "lat": 39.1998195,
+      "lon": -75.5365597,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178556252,
+      "lat": 39.1306276,
+      "lon": -75.4931738,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178557605,
+      "lat": 39.2780297,
+      "lon": -75.5861678,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "114"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178557885,
+      "lat": 39.287209,
+      "lon": -75.592505,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "114"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178559040,
+      "lat": 38.9940546,
+      "lon": -75.4524111,
+      "tags": {
+        "highway": "motorway_junction",
+        "openstreetcam": "http://www.openstreetcam.org/details/1312917/1494/track-info",
+        "ref": "83"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178560654,
+      "lat": 39.1467081,
+      "lon": -75.4963001,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "95"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178561006,
+      "lat": 39.2090085,
+      "lon": -75.5463376,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178561042,
+      "lat": 39.2032174,
+      "lon": -75.550392,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178561964,
+      "lat": 39.1409645,
+      "lon": -75.497022,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178575259,
+      "lat": 39.1278357,
+      "lon": -75.4897119,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "95"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178575275,
+      "lat": 39.119348,
+      "lon": -75.4759362,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "93"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178575279,
+      "lat": 39.1166709,
+      "lon": -75.471477,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "92"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178575435,
+      "lat": 39.0167873,
+      "lon": -75.4618678,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "86"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178575550,
+      "lat": 39.1231326,
+      "lon": -75.4831812,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "93"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178575623,
+      "lat": 38.9911553,
+      "lon": -75.4491679,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "83"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178575656,
+      "lat": 38.9399706,
+      "lon": -75.4279833,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178585739,
+      "lat": 39.1708253,
+      "lon": -75.4956139,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "98"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178595446,
+      "lat": 38.9288774,
+      "lon": -75.4176205,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178601714,
+      "lat": 38.9232663,
+      "lon": -75.4086948,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617653,
+      "lat": 39.7546644,
+      "lon": -75.5531229,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617656,
+      "lat": 39.777516,
+      "lon": -75.512808,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617689,
+      "lat": 39.6737382,
+      "lon": -75.6777531,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617697,
+      "lat": 39.6718769,
+      "lon": -75.6753934,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617746,
+      "lat": 39.669018,
+      "lon": -75.670979,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617832,
+      "lat": 39.8179139,
+      "lon": -75.4517674,
+      "tags": {
+        "destination": "Naamans Road",
+        "destination:ref": "DE 92",
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617834,
+      "lat": 39.8119165,
+      "lon": -75.4571601,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "11"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617839,
+      "lat": 39.8169725,
+      "lon": -75.4517645,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617882,
+      "lat": 39.7000873,
+      "lon": -75.5851831,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617891,
+      "lat": 39.7033391,
+      "lon": -75.5884933,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617910,
+      "lat": 39.7069566,
+      "lon": -75.5963299,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178617999,
+      "lat": 39.6368592,
+      "lon": -75.652951,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178618020,
+      "lat": 39.6406888,
+      "lon": -75.6522557,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "160"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178618143,
+      "lat": 39.674865,
+      "lon": -75.6789779,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178618637,
+      "lat": 39.6950473,
+      "lon": -75.6202683,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5А"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178618835,
+      "lat": 39.6966853,
+      "lon": -75.5483461,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178619178,
+      "lat": 39.6770813,
+      "lon": -75.5933275,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178619415,
+      "lat": 39.8025626,
+      "lon": -75.4505008,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178619493,
+      "lat": 39.715887,
+      "lon": -75.608965,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178620138,
+      "lat": 39.6786115,
+      "lon": -75.6935651,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178620381,
+      "lat": 39.6431722,
+      "lon": -75.7437737,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178620683,
+      "lat": 39.6886989,
+      "lon": -75.6415881,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178620830,
+      "lat": 39.6989043,
+      "lon": -75.6075808,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178620851,
+      "lat": 39.7014811,
+      "lon": -75.5923685,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178621007,
+      "lat": 39.6965097,
+      "lon": -75.5665112,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178621141,
+      "lat": 39.7817553,
+      "lon": -75.5031275,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178621310,
+      "lat": 39.6566992,
+      "lon": -75.6512871,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "162"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178621616,
+      "lat": 39.738721,
+      "lon": -75.617604,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178621624,
+      "lat": 39.802586,
+      "lon": -75.450832,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178621881,
+      "lat": 39.575703,
+      "lon": -75.661775,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178622091,
+      "lat": 39.7136842,
+      "lon": -75.5853579,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178622102,
+      "lat": 39.7171207,
+      "lon": -75.581901,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178622309,
+      "lat": 39.8185182,
+      "lon": -75.450023,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178622759,
+      "lat": 39.7681165,
+      "lon": -75.5384379,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178622775,
+      "lat": 39.7648851,
+      "lon": -75.5426529,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178622981,
+      "lat": 39.6121022,
+      "lon": -75.7457465,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178623082,
+      "lat": 39.7391941,
+      "lon": -75.5185875,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178623100,
+      "lat": 39.7326012,
+      "lon": -75.5245658,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178623772,
+      "lat": 39.7146878,
+      "lon": -75.5799014,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5A-B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178623934,
+      "lat": 39.75531,
+      "lon": -75.495854,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624329,
+      "lat": 39.6779954,
+      "lon": -75.6889465,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624353,
+      "lat": 39.7374487,
+      "lon": -75.6216827,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624402,
+      "lat": 39.766621,
+      "lon": -75.5430634,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624662,
+      "lat": 39.7506429,
+      "lon": -75.5044971,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624735,
+      "lat": 39.7066578,
+      "lon": -75.6071381,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624851,
+      "lat": 39.6938531,
+      "lon": -75.5779847,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624884,
+      "lat": 39.6696869,
+      "lon": -75.6792103,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624911,
+      "lat": 39.6750776,
+      "lon": -75.6742841,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624921,
+      "lat": 39.6764868,
+      "lon": -75.6701299,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178624981,
+      "lat": 39.7028377,
+      "lon": -75.6053107,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178625287,
+      "lat": 39.7375644,
+      "lon": -75.6190337,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178625405,
+      "lat": 39.6467845,
+      "lon": -75.7506993,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178625473,
+      "lat": 39.5840396,
+      "lon": -75.6619466,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "152"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178625612,
+      "lat": 39.7477381,
+      "lon": -75.557832,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178625679,
+      "lat": 39.7348627,
+      "lon": -75.6209245,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178626067,
+      "lat": 39.6823272,
+      "lon": -75.6568108,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "165B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178626517,
+      "lat": 39.6815067,
+      "lon": -75.6593203,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4B;4A",
+        "ref:left": "4B",
+        "ref:right": "4A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178626684,
+      "lat": 39.6732552,
+      "lon": -75.6543878,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "164B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178626811,
+      "lat": 39.7322705,
+      "lon": -75.5246021,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178626867,
+      "lat": 39.7390585,
+      "lon": -75.5183481,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178627637,
+      "lat": 39.6958994,
+      "lon": -75.5582211,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178627731,
+      "lat": 39.7062763,
+      "lon": -75.600101,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178627734,
+      "lat": 39.7045395,
+      "lon": -75.6037226,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178627901,
+      "lat": 39.6728058,
+      "lon": -75.6757891,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178628219,
+      "lat": 39.5434631,
+      "lon": -75.650712,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "148"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178629231,
+      "lat": 39.7275539,
+      "lon": -75.6185197,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178629263,
+      "lat": 39.7725118,
+      "lon": -75.5922152,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178629361,
+      "lat": 39.7638093,
+      "lon": -75.5477145,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178629883,
+      "lat": 39.6779545,
+      "lon": -75.6972918,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178630168,
+      "lat": 39.7214952,
+      "lon": -75.5386755,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178630991,
+      "lat": 39.6641356,
+      "lon": -75.6541664,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "162"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178631166,
+      "lat": 39.6972008,
+      "lon": -75.5707851,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178631291,
+      "lat": 39.8083006,
+      "lon": -75.4526925,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178631877,
+      "lat": 39.6348882,
+      "lon": -75.656372,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178632127,
+      "lat": 39.7688652,
+      "lon": -75.5434392,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178632179,
+      "lat": 39.6992433,
+      "lon": -75.6036256,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178632189,
+      "lat": 39.7010108,
+      "lon": -75.6016173,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "3A",
+        "ref:left": "I 95 North;I 495 North"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178632526,
+      "lat": 39.7452341,
+      "lon": -75.5592559,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178632629,
+      "lat": 39.738314,
+      "lon": -75.619085,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178638546,
+      "lat": 39.6809631,
+      "lon": -75.6992191,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178645593,
+      "lat": 39.7389149,
+      "lon": -75.6199004,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178649333,
+      "lat": 39.3341648,
+      "lon": -75.6328108,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "119A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178651417,
+      "lat": 39.722774,
+      "lon": -75.616587,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178657382,
+      "lat": 39.328337,
+      "lon": -75.6217398,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "119B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178665494,
+      "lat": 39.5601382,
+      "lon": -75.6533476,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178668677,
+      "lat": 39.8087171,
+      "lon": -75.4533829,
+      "tags": {
+        "destination": "Philadelphia Pike;Claymont;Marcus Hook",
+        "destination:ref": "US 13",
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178668693,
+      "lat": 39.7177777,
+      "lon": -75.5448119,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178669457,
+      "lat": 39.6760129,
+      "lon": -75.655716,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "164A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178669678,
+      "lat": 39.6687579,
+      "lon": -75.6550566,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "164"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178677729,
+      "lat": 39.741155,
+      "lon": -75.6171917,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178680130,
+      "lat": 39.7692397,
+      "lon": -75.5355132,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178680185,
+      "lat": 39.7526758,
+      "lon": -75.5537453,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "7A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178680212,
+      "lat": 39.6666387,
+      "lon": -75.6860488,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178680435,
+      "lat": 39.658462,
+      "lon": -75.6965692,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178680463,
+      "lat": 39.68153,
+      "lon": -75.6617594,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4A-B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178680499,
+      "lat": 39.7055378,
+      "lon": -75.5877857,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178680849,
+      "lat": 39.6496903,
+      "lon": -75.7282753,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178685556,
+      "lat": 38.9112226,
+      "lon": -75.3983992,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178693114,
+      "lat": 38.8938668,
+      "lon": -75.3922921,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178695849,
+      "lat": 39.3320489,
+      "lon": -75.6281349,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "119"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178700701,
+      "lat": 39.6963216,
+      "lon": -75.5684827,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178741130,
+      "lat": 39.7752267,
+      "lon": -75.5442197,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178749753,
+      "lat": 38.8882398,
+      "lon": -75.383744,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178751558,
+      "lat": 38.5992173,
+      "lon": -75.062339,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 178769726,
+      "lat": 38.8891696,
+      "lon": -75.3848128,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302477696,
+      "lat": 39.7672989,
+      "lon": -75.5430174,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302478138,
+      "lat": 39.7801011,
+      "lon": -75.5420416,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 302692690,
+      "lat": 39.777583,
+      "lon": -75.5461852,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 381874780,
+      "lat": 39.800361,
+      "lon": -75.483705,
+      "tags": {
+        "destination": "Harvey Road",
+        "highway": "motorway_junction",
+        "ref": "10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396455138,
+      "lat": 39.6869354,
+      "lon": -75.6556867,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "165A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396455675,
+      "lat": 39.6853474,
+      "lon": -75.6558139,
+      "tags": {
+        "highway": "motorway_junction",
+        "old_ref": "101A",
+        "ref": "165A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396458764,
+      "lat": 39.6917315,
+      "lon": -75.6534699,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "166"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396460601,
+      "lat": 39.6891911,
+      "lon": -75.6542515,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "166"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396462171,
+      "lat": 39.6980817,
+      "lon": -75.6107493,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396485818,
+      "lat": 39.7106913,
+      "lon": -75.6080582,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396493900,
+      "lat": 39.718191,
+      "lon": -75.6121172,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396493931,
+      "lat": 39.7078134,
+      "lon": -75.607592,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 396527206,
+      "lat": 39.7197387,
+      "lon": -75.6134011,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 418993067,
+      "lat": 39.7336289,
+      "lon": -75.6212724,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6A-B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419480779,
+      "lat": 39.7733677,
+      "lon": -75.5895352,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 419480780,
+      "lat": 39.7698442,
+      "lon": -75.5956932,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 446547582,
+      "lat": 39.6097529,
+      "lon": -75.6499667,
+      "tags": {
+        "highway": "motorway_junction",
+        "note": "approximate DelDot traffic assessment location on DE 1",
+        "ref": "156",
+        "ref:left": "156",
+        "url": "http://www.deldot.gov/information/pubs_forms/manuals/traffic_counts/2006/pdf/rpt_pgs1_38_ref.pdf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 457757232,
+      "lat": 39.6325102,
+      "lon": -75.6529259,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "160"
+      }
+    },
+    {
+      "type": "node",
+      "id": 459390864,
+      "lat": 39.7075768,
+      "lon": -75.5975402,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5A-B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 462753415,
+      "lat": 39.7032531,
+      "lon": -75.6053767,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 462886334,
+      "lat": 39.8060887,
+      "lon": -75.4515896,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465191089,
+      "lat": 39.1519012,
+      "lon": -75.494547,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "97"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465191113,
+      "lat": 39.1370111,
+      "lon": -75.5252488,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465191119,
+      "lat": 39.1351552,
+      "lon": -75.5269692,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465191136,
+      "lat": 39.1440865,
+      "lon": -75.5049499,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465193877,
+      "lat": 39.4586906,
+      "lon": -75.6725525,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "136"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465193893,
+      "lat": 39.4496493,
+      "lon": -75.6729441,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "136"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465195343,
+      "lat": 39.5046986,
+      "lon": -75.6463879,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "142",
+        "source": "extrapolation",
+        "source_ref": "tiger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465195375,
+      "lat": 39.4962528,
+      "lon": -75.6461835,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "142",
+        "source": "extrapolation",
+        "source_ref": "tiger"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465199170,
+      "lat": 39.622803,
+      "lon": -75.6476031,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "156"
+      }
+    },
+    {
+      "type": "node",
+      "id": 465199173,
+      "lat": 39.6200588,
+      "lon": -75.6452051,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "156B–A",
+        "ref:left": "156B",
+        "ref:right": "156A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 550071829,
+      "lat": 39.5585449,
+      "lon": -75.6529735,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 553740422,
+      "lat": 38.8062514,
+      "lon": -75.2762791,
+      "tags": {
+        "fixme": "Verify exit number",
+        "highway": "motorway_junction",
+        "ref": "49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 620642231,
+      "lat": 39.6031968,
+      "lon": -75.759371,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 620642263,
+      "lat": 39.6039042,
+      "lon": -75.7561847,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 685975455,
+      "lat": 39.7551048,
+      "lon": -75.4973406,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 778988003,
+      "lat": 39.7117103,
+      "lon": -75.5624551,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 778988330,
+      "lat": 39.7169157,
+      "lon": -75.5579689,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 778988658,
+      "lat": 39.7172305,
+      "lon": -75.5538586,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 779108207,
+      "lat": 39.6154647,
+      "lon": -75.6456614,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 845506016,
+      "lat": 39.7002442,
+      "lon": -75.600644,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 849060000,
+      "lat": 39.7492032,
+      "lon": -75.5079845,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1044013551,
+      "lat": 39.6967261,
+      "lon": -75.5531512,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1309859792,
+      "lat": 39.7819641,
+      "lon": -75.5456812,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1309859802,
+      "lat": 39.1131475,
+      "lon": -75.4662293,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1834088800,
+      "lat": 39.6811015,
+      "lon": -75.5895163,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1849179878,
+      "lat": 39.0829501,
+      "lon": -75.4577484,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1849179911,
+      "lat": 39.0832583,
+      "lon": -75.4578482,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1849179929,
+      "lat": 39.1047943,
+      "lon": -75.4540495,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "91"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1849180027,
+      "lat": 39.1076322,
+      "lon": -75.4570536,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "91"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1904757570,
+      "lat": 39.6824103,
+      "lon": -75.6559728,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1927774209,
+      "lat": 39.681813,
+      "lon": -75.6561384,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1929135624,
+      "lat": 39.6966415,
+      "lon": -75.5805217,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1929135688,
+      "lat": 39.6976549,
+      "lon": -75.5826584,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1929850089,
+      "lat": 39.7521225,
+      "lon": -75.5019032,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1950041016,
+      "lat": 39.6867751,
+      "lon": -75.6476508,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "4A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977464125,
+      "lat": 38.9168443,
+      "lon": -75.4022924,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977464171,
+      "lat": 39.0151666,
+      "lon": -75.4609288,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "86"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977480737,
+      "lat": 39.1464694,
+      "lon": -75.4999935,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2061789822,
+      "lat": 39.6795909,
+      "lon": -75.5898616,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2061789890,
+      "lat": 39.6817567,
+      "lon": -75.5895268,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2061789914,
+      "lat": 39.6825572,
+      "lon": -75.5919858,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2061789969,
+      "lat": 39.6800029,
+      "lon": -75.5911117,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2061790011,
+      "lat": 39.6788453,
+      "lon": -75.5892326,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "1A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2140194661,
+      "lat": 39.6716401,
+      "lon": -75.654272,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "165C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2395083966,
+      "lat": 38.6030955,
+      "lon": -75.0629438,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3053075442,
+      "lat": 39.6976111,
+      "lon": -75.6037821,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4323653897,
+      "lat": 39.7411191,
+      "lon": -75.5598165,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4324602850,
+      "lat": 39.678567,
+      "lon": -75.6563562,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "165B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4326135909,
+      "lat": 39.7612278,
+      "lon": -75.5508144,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "8"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4336263787,
+      "lat": 39.6787993,
+      "lon": -75.5916268,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4584243373,
+      "lat": 38.9568747,
+      "lon": -75.4278383,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "79"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4584243503,
+      "lat": 38.9551033,
+      "lon": -75.4267153,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "79"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5930374605,
+      "lat": 39.7350271,
+      "lon": -75.5641764,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5992077113,
+      "lat": 39.4483207,
+      "lon": -75.7487696,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5992077372,
+      "lat": 39.4418613,
+      "lon": -75.7547096,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5992077926,
+      "lat": 39.416332,
+      "lon": -75.7658133,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001305102,
+      "lat": 39.5455319,
+      "lon": -75.6487289,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001305191,
+      "lat": 39.5450238,
+      "lon": -75.6485692,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001305239,
+      "lat": 39.5340888,
+      "lon": -75.6497658,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "147"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001306995,
+      "lat": 39.5250663,
+      "lon": -75.6726865,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001307072,
+      "lat": 39.5231009,
+      "lon": -75.6857122,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001307415,
+      "lat": 39.4811355,
+      "lon": -75.7236223,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6001307540,
+      "lat": 39.4877758,
+      "lon": -75.7192546,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6081537682,
+      "lat": 38.9270939,
+      "lon": -75.4175296,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6185167548,
+      "lat": 39.7377701,
+      "lon": -75.6164716,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216783823,
+      "lat": 39.0535155,
+      "lon": -75.4597818,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "88"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216783860,
+      "lat": 39.0340406,
+      "lon": -75.4577582,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "88"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6573524356,
+      "lat": 38.9307214,
+      "lon": -75.4204314,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7348781344,
+      "lat": 38.8013783,
+      "lon": -75.2664971,
+      "tags": {
+        "fixme": "Verify exit number",
+        "highway": "motorway_junction",
+        "ref": "49"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9322284329,
+      "lat": 38.9302187,
+      "lon": -75.4192094,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9472918410,
+      "lat": 39.0296537,
+      "lon": -75.4587634,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10738804659,
+      "lat": 38.927216,
+      "lon": -75.4173988,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10983137225,
+      "lat": 39.6957313,
+      "lon": -75.6005237,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10983137235,
+      "lat": 39.6941628,
+      "lon": -75.5997399,
+      "tags": {
+        "highway": "motorway_junction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12117964099,
+      "lat": 38.8046184,
+      "lon": -75.2712276,
+      "tags": {
+        "highway": "motorway_junction",
+        "noref": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12973852702,
+      "lat": 38.6003929,
+      "lon": -75.3186576,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12973852729,
+      "lat": 38.5996869,
+      "lon": -75.3177387,
+      "tags": {
+        "highway": "motorway_junction",
+        "ref": "12"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217606,
+      "center": {
+        "lat": 39.6585849,
+        "lon": -75.6514141
+      },
+      "tags": {
+        "destination": "Newark;New Castle",
+        "destination:ref": "DE 273",
+        "highway": "motorway_link",
+        "junction:ref": "162",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source": "survey",
+        "source_ref": "GPS",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217620,
+      "center": {
+        "lat": 39.7777775,
+        "lon": -75.5109394
+      },
+      "tags": {
+        "destination": "Marsh Road",
+        "destination:ref": "DE 3",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217642,
+      "center": {
+        "lat": 39.8125329,
+        "lon": -75.4558026
+      },
+      "tags": {
+        "destination": "Naamans Road;Claymont",
+        "destination:ref": "DE 92",
+        "highway": "motorway_link",
+        "junction:ref": "11",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217660,
+      "center": {
+        "lat": 39.7043252,
+        "lon": -75.6007035
+      },
+      "tags": {
+        "destination": "Newport;Lancaster",
+        "destination:ref": "DE 141 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217668,
+      "center": {
+        "lat": 39.6395203,
+        "lon": -75.6529326
+      },
+      "tags": {
+        "destination": "Bear;Glasgow",
+        "destination:ref": "US 40",
+        "highway": "motorway_link",
+        "junction:ref": "160",
+        "lanes": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source": "Bing",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217673,
+      "center": {
+        "lat": 39.6343726,
+        "lon": -75.6517884
+      },
+      "tags": {
+        "destination": "Bear;Glasgow",
+        "destination:ref": "US 40",
+        "highway": "motorway_link",
+        "junction:ref": "160",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source": "survey;image",
+        "source_ref": "GPS;yahoo aerial imagery",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217752,
+      "center": {
+        "lat": 39.7520687,
+        "lon": -75.5543631
+      },
+      "tags": {
+        "destination": "Delaware Avenue",
+        "destination:ref": "DE 52 South",
+        "highway": "motorway_link",
+        "junction:ref": "7A",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217816,
+      "center": {
+        "lat": 39.6955107,
+        "lon": -75.6183939
+      },
+      "tags": {
+        "destination": "New Castle",
+        "destination:ref": "DE 141 South",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5А",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17217906,
+      "center": {
+        "lat": 39.804192,
+        "lon": -75.4502882
+      },
+      "tags": {
+        "destination": "Philadelphia Pike;Claymont",
+        "destination:lanes": "Philadelphia Pike;Claymont;Marcus Hook",
+        "destination:ref": "US 13",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "turn:lanes": "slight_left;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218041,
+      "center": {
+        "lat": 39.6188457,
+        "lon": -75.6450382
+      },
+      "tags": {
+        "destination": "Red Lion",
+        "destination:ref": "DE 71 South",
+        "highway": "motorway_link",
+        "junction:ref": "156A",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source": "survey",
+        "source_ref": "GPS",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218107,
+      "center": {
+        "lat": 39.8011685,
+        "lon": -75.4821889
+      },
+      "tags": {
+        "destination": "Harvey Road",
+        "highway": "motorway_link",
+        "junction:ref": "10",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218116,
+      "center": {
+        "lat": 39.6882897,
+        "lon": -75.6435819
+      },
+      "tags": {
+        "destination": "Churchmans Crossing",
+        "destination:ref": "DE 7 North;DE 58 North",
+        "highway": "motorway_link",
+        "junction:ref": "4B",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218127,
+      "center": {
+        "lat": 39.6755234,
+        "lon": -75.6561795
+      },
+      "tags": {
+        "destination": "Mall Road",
+        "highway": "motorway_link",
+        "junction:ref": "164A",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source": "survey;image",
+        "source_ref": "GPS;yahoo aerial imagery",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218158,
+      "center": {
+        "lat": 39.6994891,
+        "lon": -75.5999933
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "DE 141 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218211,
+      "center": {
+        "lat": 39.7812205,
+        "lon": -75.504193
+      },
+      "tags": {
+        "destination": "Marsh Road",
+        "destination:ref": "DE 3",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218411,
+      "center": {
+        "lat": 39.7035623,
+        "lon": -75.6075064
+      },
+      "tags": {
+        "destination": "Newark;Baltimore",
+        "destination:ref": "I 95 South",
+        "highway": "motorway_link",
+        "junction:ref": "3B",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218478,
+      "center": {
+        "lat": 39.7686781,
+        "lon": -75.5369755
+      },
+      "tags": {
+        "destination": "Wilmington;West Chester",
+        "destination:lanes": "Wilmington;Concord Pike;West Chester",
+        "destination:ref": "US 202",
+        "destination:street": "Concord Pike",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "1",
+        "oneway": "yes",
+        "turn:lanes": "slight_left;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218834,
+      "center": {
+        "lat": 39.7511884,
+        "lon": -75.5049853
+      },
+      "tags": {
+        "destination": "South Edgemoor Road;Edgemoor Industrial Park",
+        "destination:ref": "DE 3",
+        "highway": "motorway_link",
+        "junction:ref": "4B",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218887,
+      "center": {
+        "lat": 39.6695491,
+        "lon": -75.6754787
+      },
+      "tags": {
+        "destination": "Dover",
+        "destination:ref": "DE 273 East",
+        "highway": "motorway_link",
+        "junction:ref": "3A",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218956,
+      "center": {
+        "lat": 39.6463186,
+        "lon": -75.7492624
+      },
+      "tags": {
+        "construction": "motorway_link",
+        "destination": "Newark;Middletown",
+        "destination:ref": "DE 896",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "oneway": "yes",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17218998,
+      "center": {
+        "lat": 39.7467236,
+        "lon": -75.5586242
+      },
+      "tags": {
+        "destination": "Martin Luther King Junior Boulevard;Fourth Street",
+        "destination:ref": "DE 9",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219075,
+      "center": {
+        "lat": 39.6853509,
+        "lon": -75.6549069
+      },
+      "tags": {
+        "destination": "Newark;Baltimore",
+        "destination:ref": "I 95 South",
+        "highway": "motorway_link",
+        "junction:ref": "165A",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219078,
+      "center": {
+        "lat": 39.6822481,
+        "lon": -75.6580274
+      },
+      "tags": {
+        "destination": "Wilmington;Philadelphia",
+        "destination:ref": "I 95 North",
+        "highway": "motorway_link",
+        "junction:ref": "165B",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "GPS;yahoo aerial map",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219188,
+      "center": {
+        "lat": 39.6816759,
+        "lon": -75.6605398
+      },
+      "tags": {
+        "destination": "Churchmans Crossing;Mall Road;Dover",
+        "destination:lanes": "Churchmans Crossing;Mall Road;Christiana",
+        "destination:ref": "DE 1;DE 7;DE 58",
+        "highway": "motorway_link",
+        "junction:ref": "4A-B",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "toll": "no",
+        "turn:lanes": "slight_left;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219230,
+      "center": {
+        "lat": 39.6730727,
+        "lon": -75.6552775
+      },
+      "tags": {
+        "destination": "Christiana",
+        "destination:ref": "DE 7 South",
+        "highway": "motorway_link",
+        "junction:ref": "164B",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "ref": "DE 7",
+        "source": "survey;image",
+        "source_ref": "GPS;yahoo aerial imagery",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "turn:lanes": "left|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219246,
+      "center": {
+        "lat": 39.7334258,
+        "lon": -75.5226799
+      },
+      "tags": {
+        "destination": "12th Street",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219412,
+      "center": {
+        "lat": 39.7064307,
+        "lon": -75.6032744
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "DE 141 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219416,
+      "center": {
+        "lat": 39.705342,
+        "lon": -75.6032565
+      },
+      "tags": {
+        "destination": "Newark;Baltimore",
+        "destination:ref": "I 95 South",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "3B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219449,
+      "center": {
+        "lat": 39.7168757,
+        "lon": -75.5576171
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Wilmington",
+        "destination:ref": "US 13 Business",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "layer": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219677,
+      "center": {
+        "lat": 39.7181895,
+        "lon": -75.5420992
+      },
+      "tags": {
+        "destination": "Terminal Avenue;Port of Wilmington",
+        "destination:ref": "DE 9A",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "Yahoo",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219680,
+      "center": {
+        "lat": 39.7266121,
+        "lon": -75.6185498
+      },
+      "tags": {
+        "destination": "Boxwood Road;Newport Gap Pike",
+        "destination:ref": "DE 62",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219699,
+      "center": {
+        "lat": 39.7625185,
+        "lon": -75.5492644
+      },
+      "tags": {
+        "destination": "Wilmington;West Chester",
+        "destination:lanes": "Concord Pike;West Chester|Concord Pike;West Chester;Wilmington",
+        "destination:ref": "US 202 North",
+        "destination:street": "Concord Pike",
+        "highway": "motorway_link",
+        "junction:ref": "8",
+        "lanes": "2",
+        "oneway": "yes",
+        "ref": "US 202",
+        "surface": "asphalt",
+        "turn:lanes": "none|through;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219853,
+      "center": {
+        "lat": 39.6848141,
+        "lon": -75.6581514
+      },
+      "tags": {
+        "destination": "Newark;Baltimore",
+        "destination:ref": "I 95 Toll South",
+        "highway": "motorway_link",
+        "junction:ref": "165A",
+        "note": "Erroneously signed with toll banner despite I-95 not being tolled here",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219861,
+      "center": {
+        "lat": 39.7208636,
+        "lon": -75.5399388
+      },
+      "tags": {
+        "destination": "Terminal Avenue;Port of Wilmington",
+        "destination:ref": "DE 9A",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17219918,
+      "center": {
+        "lat": 39.7543279,
+        "lon": -75.4996973
+      },
+      "tags": {
+        "destination": "Governor Printz Boulevard;North Edgemoor Road",
+        "destination:lanes": "Wilmington;State Police;none",
+        "destination:ref": "US 13;DE 3 North",
+        "highway": "motorway_link",
+        "junction:ref": "4A",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "turn:lanes": "left;through;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17220074,
+      "center": {
+        "lat": 39.6629633,
+        "lon": -75.6538651
+      },
+      "tags": {
+        "destination": "Newark;New Castle",
+        "destination:ref": "DE 273",
+        "highway": "motorway_link",
+        "junction:ref": "162",
+        "lanes": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17220244,
+      "center": {
+        "lat": 39.8071732,
+        "lon": -75.4532009
+      },
+      "tags": {
+        "destination": "Philadelphia Pike;Claymont",
+        "destination:ref": "US 13",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17220342,
+      "center": {
+        "lat": 39.7013052,
+        "lon": -75.6024601
+      },
+      "tags": {
+        "destination": "Wilmington;Philadelphia",
+        "destination:ref": "I 95 North;I 495 North;US 202 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "3A",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "US 202",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17220355,
+      "center": {
+        "lat": 39.714479,
+        "lon": -75.5817574
+      },
+      "tags": {
+        "destination": "Newport;New Castle",
+        "destination:ref:to": "DE 141",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5A-B",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17220419,
+      "center": {
+        "lat": 39.7457499,
+        "lon": -75.5588625
+      },
+      "tags": {
+        "destination": "Delaware Avenue",
+        "destination:ref": "DE 52",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 17232112,
+      "center": {
+        "lat": 39.6695368,
+        "lon": -75.6547423
+      },
+      "tags": {
+        "destination": "Christiana;Mall Road",
+        "destination:ref": "DE 7 South",
+        "highway": "motorway_link",
+        "junction:ref": "164",
+        "lane_markings": "no",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source": "survey",
+        "source_ref": "GPS",
+        "tiger:cfcc": "A31",
+        "tiger:county": "New Castle, DE",
+        "tiger:name_base": "State Highway 1"
+      }
+    },
+    {
+      "type": "way",
+      "id": 34444436,
+      "center": {
+        "lat": 39.6906332,
+        "lon": -75.6540809
+      },
+      "tags": {
+        "destination": "Churchmans Road;Churchmans Crossing",
+        "destination:ref": "DE 58",
+        "destination:ref:to": "I 95",
+        "highway": "motorway_link",
+        "junction:ref": "166",
+        "lanes": "2",
+        "maxspeed": "45 mph",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 34446354,
+      "center": {
+        "lat": 39.7217551,
+        "lon": -75.6145374
+      },
+      "tags": {
+        "destination": "Newport Gap Pike;Boxwood Road",
+        "destination:ref": "DE 62",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 34446581,
+      "center": {
+        "lat": 39.7168117,
+        "lon": -75.6109895
+      },
+      "tags": {
+        "destination": "Newport;Stanton",
+        "destination:ref": "DE 4",
+        "highway": "motorway_link",
+        "junction:ref": "4A",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 34446602,
+      "center": {
+        "lat": 39.7119067,
+        "lon": -75.6081713
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Newport;Stanton",
+        "destination:ref": "DE 4",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "layer": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 35837082,
+      "center": {
+        "lat": 39.7337822,
+        "lon": -75.6212451
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Elsmere;Newark",
+        "destination:ref": "DE 2",
+        "highway": "motorway_link",
+        "junction:ref": "6A-B",
+        "lanes": "1",
+        "layer": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38849215,
+      "center": {
+        "lat": 39.7015013,
+        "lon": -75.6029949
+      },
+      "tags": {
+        "destination": "Wilmington;Philadelphia",
+        "destination:ref": "I 95 North;I 495 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "3A",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38938211,
+      "center": {
+        "lat": 39.716268,
+        "lon": -75.5827946
+      },
+      "tags": {
+        "destination": "New Castle;Delaware Memorial Bridge",
+        "destination:ref": "I 295 North",
+        "highway": "motorway_link",
+        "junction:ref": "5C",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "survey",
+        "source_ref": "GPS",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38938400,
+      "center": {
+        "lat": 39.7069266,
+        "lon": -75.5988206
+      },
+      "tags": {
+        "destination": "New Castle;Newport",
+        "destination:lanes": "New Castle|Newport",
+        "destination:ref": "DE 141",
+        "destination:to": "US 13",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5A-B",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "oneway": "yes",
+        "ref": "US 202",
+        "surface": "asphalt",
+        "turn:lanes": "none|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 38941637,
+      "center": {
+        "lat": 39.8172352,
+        "lon": -75.4532102
+      },
+      "tags": {
+        "destination": "Naamans Road",
+        "destination:ref": "DE 92",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "turn:lanes": "slight_left;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 39017733,
+      "center": {
+        "lat": 39.1491783,
+        "lon": -75.497498
+      },
+      "tags": {
+        "NHS": "STRAHNET",
+        "destination": "Salisbury;Norfolk",
+        "destination:ref:to": "US 13",
+        "highway": "motorway",
+        "junction:ref": "97",
+        "lanes": "1",
+        "maxspeed": "55 mph",
+        "name": "Puncheon Run Connector",
+        "noref": "yes",
+        "oneway": "yes",
+        "source": "image",
+        "source_ref": "yahoo aerial imagery",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 39018651,
+      "center": {
+        "lat": 39.6219303,
+        "lon": -75.6468405
+      },
+      "tags": {
+        "destination": "Wilmington;Red Lion",
+        "destination:ref": "US 13 North;DE 71 South",
+        "highway": "motorway_link",
+        "junction:ref": "156",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40294902,
+      "center": {
+        "lat": 39.6109049,
+        "lon": -75.6491027
+      },
+      "tags": {
+        "NHS": "yes",
+        "destination": "New Castle;New Jersey;New York",
+        "destination:ref": "US 13 North",
+        "destination:ref:to": "I 295",
+        "expressway": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "trunk",
+        "junction:ref": "156",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "South Dupont Highway",
+        "oneway": "yes",
+        "ref": "US 13",
+        "source": "image",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23",
+        "source_ref": "yahoo aerial imagery",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31;A35",
+        "tiger:county": "New Castle, DE",
+        "tiger:name_base": "State Highway 1;St Rd 1",
+        "tiger:name_base_1": "Dupont",
+        "tiger:name_base_2": "United States Highway 13",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_direction_prefix_1": "S",
+        "tiger:name_type": "Pky",
+        "tiger:name_type_1": "Hwy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41840214,
+      "center": {
+        "lat": 39.6182768,
+        "lon": -75.6436997
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Wilmington",
+        "destination:ref": "US 13 North",
+        "highway": "motorway_link",
+        "junction:ref": "156B",
+        "layer": "1",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source": "image",
+        "source_ref": "yahoo aerial imagery",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 41840215,
+      "center": {
+        "lat": 39.6161183,
+        "lon": -75.643894
+      },
+      "tags": {
+        "destination": "Wilmington",
+        "destination:ref": "US 13 North",
+        "highway": "motorway_link",
+        "junction:ref": "156B",
+        "maxspeed": "60 mph",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "source": "image",
+        "source_ref": "yahoo aerial imagery",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 42005819,
+      "center": {
+        "lat": 39.6716065,
+        "lon": -75.6741082
+      },
+      "tags": {
+        "destination": "Newark",
+        "destination:ref": "DE 273 West",
+        "highway": "motorway_link",
+        "junction:ref": "3B",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43532348,
+      "center": {
+        "lat": 39.7364247,
+        "lon": -75.5632542
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Martin Luther King Jr Boulevard;Maryland Avenue",
+        "destination:ref": "DE 4",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lane_markings": "no",
+        "lanes": "1",
+        "layer": "2",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 43676276,
+      "center": {
+        "lat": 39.7382835,
+        "lon": -75.520124
+      },
+      "tags": {
+        "destination": "12th Street",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "survey",
+        "source_ref": "GPS",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 44075470,
+      "center": {
+        "lat": 39.6193149,
+        "lon": -75.6445734
+      },
+      "tags": {
+        "destination": "Wilmington",
+        "destination:ref": "US 13 North",
+        "highway": "motorway_link",
+        "junction:ref": "156B",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "source": "image",
+        "source_ref": "yahoo aerial imagery",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45107457,
+      "center": {
+        "lat": 39.5829404,
+        "lon": -75.6622882
+      },
+      "tags": {
+        "destination": "Delaware City;Saint Georges",
+        "destination:ref": "US 13 South;DE 72",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "152",
+        "lanes": "1",
+        "oneway": "yes",
+        "ref": "US 13",
+        "source": "image",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23",
+        "source_ref": "yahoo aerial imagery",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45107507,
+      "center": {
+        "lat": 39.577276,
+        "lon": -75.6613415
+      },
+      "tags": {
+        "destination": "Delaware City;Newark",
+        "destination:ref": "DE 72",
+        "destination:ref:to": "DE 7",
+        "highway": "motorway_link",
+        "junction:ref": "152",
+        "oneway": "yes",
+        "source": "Bing",
+        "source:date": "2010-06/2011-05",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 45844455,
+      "center": {
+        "lat": 39.7174473,
+        "lon": -75.5551203
+      },
+      "tags": {
+        "destination": "Wilmington;Dover",
+        "destination:ref": "US 13 South",
+        "destination:ref:to": "US 40;US 13 North",
+        "highway": "motorway_link",
+        "junction:ref": "1",
+        "lanes": "1",
+        "maxspeed:advisory": "35 mph",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48889398,
+      "center": {
+        "lat": 39.7074879,
+        "lon": -75.607783
+      },
+      "tags": {
+        "destination": "South James Street;Old Airport Road",
+        "highway": "motorway_link",
+        "junction:ref": "4B",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 62344668,
+      "center": {
+        "lat": 39.7382556,
+        "lon": -75.6183051
+      },
+      "tags": {
+        "destination": "Newark",
+        "destination:ref": "DE 2 West",
+        "highway": "motorway_link",
+        "junction:ref": "6B",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 71358258,
+      "center": {
+        "lat": 39.7523584,
+        "lon": -75.5008893
+      },
+      "tags": {
+        "destination": "Edgemoor Road;Edgemoor Industrial Park;Governor Printz Boulevard",
+        "destination:ref": "DE 3;US 13",
+        "highway": "motorway_link",
+        "junction:ref": "4",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "turn:lanes": "left;right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 86516486,
+      "center": {
+        "lat": 39.7543578,
+        "lon": -75.5532015
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Delaware Avenue North",
+        "destination:ref": "DE 52 North",
+        "highway": "motorway_link",
+        "junction:ref": "7B",
+        "layer": "1",
+        "oneway": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 110430955,
+      "center": {
+        "lat": 39.6137608,
+        "lon": -75.6469501
+      },
+      "tags": {
+        "NHS": "yes",
+        "expressway": "yes",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "trunk",
+        "junction:ref": "156",
+        "lanes": "2",
+        "maxspeed": "55 mph",
+        "name": "South Dupont Highway",
+        "oneway": "yes",
+        "ref": "US 13",
+        "source": "image",
+        "source:hgv:national_network": "Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23",
+        "source_ref": "yahoo aerial imagery",
+        "surface": "asphalt",
+        "tiger:cfcc": "A31;A35",
+        "tiger:county": "New Castle, DE",
+        "tiger:name_base": "State Highway 1;St Rd 1",
+        "tiger:name_base_1": "Dupont",
+        "tiger:name_base_2": "United States Highway 13",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_direction_prefix_1": "S",
+        "tiger:name_type": "Pky",
+        "tiger:name_type_1": "Hwy",
+        "turn:lanes": "slight_left;through|"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121069510,
+      "center": {
+        "lat": 39.7034218,
+        "lon": -75.606618
+      },
+      "tags": {
+        "destination": "New Castle",
+        "destination:ref": "US 202 South;DE 141 South",
+        "destination:ref:to": "US 13",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5A",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "US 202",
+        "source": "yahoo",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122596774,
+      "center": {
+        "lat": 39.6992815,
+        "lon": -75.6056004
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "DE 141 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "source": "survey",
+        "source_ref": "GPS",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 184508231,
+      "center": {
+        "lat": 39.6802038,
+        "lon": -75.6559951
+      },
+      "tags": {
+        "destination": "Wilmington;Philadelphia",
+        "destination:ref": "I 95 North",
+        "destination:ref:to": "I 295;I 495",
+        "highway": "motorway_link",
+        "junction:ref": "165B",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 196810168,
+      "center": {
+        "lat": 39.6864673,
+        "lon": -75.6491704
+      },
+      "tags": {
+        "destination": "Mall Road;Dover;Beaches",
+        "destination:ref": "DE 1 South;DE 7 South",
+        "highway": "motorway_link",
+        "junction:ref": "4A",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 196810511,
+      "center": {
+        "lat": 39.6813611,
+        "lon": -75.6582394
+      },
+      "tags": {
+        "destination": "Churchmans Crossing",
+        "destination:ref": "DE 7 North;DE 58 North",
+        "highway": "motorway_link",
+        "junction:ref": "4B",
+        "oneway": "yes",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 307961763,
+      "center": {
+        "lat": 39.7356694,
+        "lon": -75.6195383
+      },
+      "tags": {
+        "destination": "Elsmere",
+        "destination:ref": "DE 2 East",
+        "highway": "motorway_link",
+        "junction:ref": "6A",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434280296,
+      "center": {
+        "lat": 39.6895035,
+        "lon": -75.6534392
+      },
+      "tags": {
+        "destination": "Churchmans Road;Churchmans Crossing",
+        "destination:ref": "DE 58",
+        "highway": "motorway_link",
+        "junction:ref": "166",
+        "lanes": "1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 434297133,
+      "center": {
+        "lat": 39.6758184,
+        "lon": -75.6554407
+      },
+      "tags": {
+        "destination": "Wilmington;Philadelphia",
+        "destination:ref": "I 95 North",
+        "destination:ref:to": "I 295;I 495",
+        "highway": "motorway_link",
+        "junction:ref": "165C",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 525270954,
+      "center": {
+        "lat": 39.442618,
+        "lon": -75.7531327
+      },
+      "tags": {
+        "destination": "South Middletown;Townsend",
+        "destination:ref": "DE 299",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 525272742,
+      "center": {
+        "lat": 39.5304414,
+        "lon": -75.6522866
+      },
+      "tags": {
+        "NHS": "STRAHNET",
+        "destination": "Annapolis",
+        "destination:ref": "US 301 Toll South",
+        "hgv": "designated",
+        "hgv:national_network": "yes",
+        "highway": "motorway",
+        "junction:ref": "147",
+        "lanes": "2",
+        "maxspeed": "65 mph",
+        "name": "First Responders Memorial Highway",
+        "oneway": "yes",
+        "ref": "US 301 Toll",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 525272746,
+      "center": {
+        "lat": 39.523229,
+        "lon": -75.68285
+      },
+      "tags": {
+        "destination:street": "Jamison Corner Road",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 525272748,
+      "center": {
+        "lat": 39.5251229,
+        "lon": -75.6760346
+      },
+      "tags": {
+        "destination:street": "Jamison Corner Road",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 525272782,
+      "center": {
+        "lat": 39.4472447,
+        "lon": -75.750545
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "South Middletown;Townsend",
+        "destination:ref": "DE 299",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "2",
+        "layer": "1",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 525272783,
+      "center": {
+        "lat": 39.4479314,
+        "lon": -75.7493238
+      },
+      "tags": {
+        "destination": "South Middletown;Townsend",
+        "destination:ref": "DE 299",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 525272784,
+      "center": {
+        "lat": 39.4468227,
+        "lon": -75.7514728
+      },
+      "tags": {
+        "destination": "South Middletown;Townsend",
+        "destination:ref": "DE 299",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "2",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 540259838,
+      "center": {
+        "lat": 39.680545,
+        "lon": -75.6582773
+      },
+      "tags": {
+        "destination": "Mall Road;Christiana",
+        "destination:ref": "DE 1 South;DE 7 South",
+        "highway": "motorway_link",
+        "junction:ref": "4A",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 540276428,
+      "center": {
+        "lat": 39.6760059,
+        "lon": -75.67153
+      },
+      "tags": {
+        "destination": "Christiana;Newark",
+        "destination:lanes": "Newark|Dover",
+        "destination:ref": "DE 273",
+        "destination:ref:lanes": "DE 273 East| DE 273 West",
+        "highway": "motorway_link",
+        "junction:ref": "3",
+        "lanes": "2",
+        "oneway": "yes",
+        "source": "GPS",
+        "tiger:cfcc": "A41",
+        "tiger:county": "New Castle, DE",
+        "toll": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 635131779,
+      "center": {
+        "lat": 39.4436442,
+        "lon": -75.7512076
+      },
+      "tags": {
+        "destination": "South Middletown;Townsend",
+        "destination:ref": "DE 299",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "2",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "left;through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 635131781,
+      "center": {
+        "lat": 39.44744,
+        "lon": -75.7501069
+      },
+      "tags": {
+        "destination": "South Middletown;Townsend",
+        "destination:ref": "DE 299",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "2",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 635131782,
+      "center": {
+        "lat": 39.4461934,
+        "lon": -75.7525082
+      },
+      "tags": {
+        "destination": "South Middletown;Townsend",
+        "destination:ref": "DE 299",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "3",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes",
+        "turn:lanes": "left|left;through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636384516,
+      "center": {
+        "lat": 39.4862425,
+        "lon": -75.7207944
+      },
+      "tags": {
+        "destination": "North Middletown",
+        "destination:ref": "DE 71",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 636384517,
+      "center": {
+        "lat": 39.4824221,
+        "lon": -75.7225335
+      },
+      "tags": {
+        "destination": "North Middletown",
+        "destination:ref": "DE 71",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "concrete",
+        "toll": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 913388792,
+      "center": {
+        "lat": 39.6891209,
+        "lon": -75.6526315
+      },
+      "tags": {
+        "destination": "Churchmans Road;Churchmans Crossing",
+        "destination:lanes": "Churchmans Road|Churchmans Road;none|Churchmans Road;Churchmans Crossing",
+        "destination:ref": "DE 58",
+        "highway": "motorway_link",
+        "junction:ref": "166",
+        "lanes": "3",
+        "oneway": "yes",
+        "turn:lanes": "slight_left|slight_left;through|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 948841296,
+      "center": {
+        "lat": 39.6610145,
+        "lon": -75.6517711
+      },
+      "tags": {
+        "destination": "Newark;New Castle;Park-Ride",
+        "destination:ref": "DE 273",
+        "highway": "motorway_link",
+        "junction:ref": "162",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "turn:lanes": "left;through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 948841298,
+      "center": {
+        "lat": 39.6613202,
+        "lon": -75.6534143
+      },
+      "tags": {
+        "destination": "Newark;New Castle",
+        "destination:ref": "DE 273",
+        "highway": "motorway_link",
+        "junction:ref": "162",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "concrete",
+        "turn:lanes": "left;through|right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1002628577,
+      "center": {
+        "lat": 39.686097,
+        "lon": -75.6509402
+      },
+      "tags": {
+        "destination": "Mall Road;Dover;Beaches",
+        "destination:ref": "DE 1 South;DE 7 South",
+        "highway": "motorway_link",
+        "junction:ref": "4A",
+        "lanes": "3",
+        "maxspeed": "65 mph",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1016498868,
+      "center": {
+        "lat": 39.6205582,
+        "lon": -75.6456415
+      },
+      "tags": {
+        "destination": "Wilmington;Red Lion",
+        "destination:lanes": "Wilmington|Red Lion",
+        "destination:ref": "US 13 North;DE 71 South",
+        "highway": "motorway_link",
+        "junction:ref": "156",
+        "lanes": "2",
+        "maxspeed": "60 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "turn:lanes": "none|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1018521427,
+      "center": {
+        "lat": 39.7779996,
+        "lon": -75.5087425
+      },
+      "tags": {
+        "destination": "Marsh Road",
+        "destination:lanes": "Bellevue State Park|Bellevue State Park|Rockwood Museum",
+        "destination:ref": "DE 3",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "3",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "turn:lanes": "left|left|slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1025116197,
+      "center": {
+        "lat": 39.6986616,
+        "lon": -75.603461
+      },
+      "tags": {
+        "destination": "Delaware Memorial Bridge;New Jersey;Airport Road",
+        "destination:lanes": "Airport Road;none",
+        "destination:ref": "I 295 North",
+        "embankment": "yes",
+        "highway": "trunk_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "turn:lanes": "slight_left;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1083515737,
+      "center": {
+        "lat": 39.7464709,
+        "lon": -75.5582998
+      },
+      "tags": {
+        "destination": "Delaware Avenue;Wilmington Hospital",
+        "destination:ref": "DE 52",
+        "highway": "motorway_link",
+        "junction:ref": "7",
+        "lanes": "2",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1096205659,
+      "center": {
+        "lat": 39.6740459,
+        "lon": -75.6559699
+      },
+      "tags": {
+        "destination": "Christiana",
+        "destination:ref": "DE 7 South",
+        "highway": "motorway_link",
+        "junction:ref": "164B",
+        "oneway": "yes",
+        "ref": "DE 7",
+        "source": "survey;image",
+        "source_ref": "GPS;yahoo aerial imagery",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1137173252,
+      "center": {
+        "lat": 39.7805806,
+        "lon": -75.505502
+      },
+      "tags": {
+        "destination": "Marsh Road",
+        "destination:ref": "DE 3",
+        "highway": "motorway_link",
+        "junction:ref": "9",
+        "lanes": "3",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "turn:lanes": "||slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1164773429,
+      "center": {
+        "lat": 38.8031222,
+        "lon": -75.2691306
+      },
+      "tags": {
+        "NHS": "yes",
+        "expressway_link": "yes",
+        "fixme": "Verify exit number",
+        "highway": "trunk_link",
+        "junction:ref": "49",
+        "maxspeed": "55 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169520757,
+      "center": {
+        "lat": 39.7146671,
+        "lon": -75.5801127
+      },
+      "tags": {
+        "destination": "Newport;New Castle",
+        "destination:ref:to": "DE 141",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5A-B",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169524846,
+      "center": {
+        "lat": 39.738331,
+        "lon": -75.5623196
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Martin Luther King Jr Boulevard;Maryland Avenue",
+        "destination:ref": "DE 4",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lane_markings": "no",
+        "lanes": "2",
+        "layer": "2",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169524858,
+      "center": {
+        "lat": 39.7452652,
+        "lon": -75.5598557
+      },
+      "tags": {
+        "destination": "Martin Luther King Junior Boulevard;Fourth Street",
+        "destination:ref": "DE 4;DE 9",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169524859,
+      "center": {
+        "lat": 39.7455863,
+        "lon": -75.5595345
+      },
+      "tags": {
+        "destination": "Martin Luther King Junior Boulevard;Fourth Street",
+        "destination:ref": "DE 4;DE 9",
+        "highway": "motorway_link",
+        "junction:ref": "6",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169524867,
+      "center": {
+        "lat": 39.750738,
+        "lon": -75.5559313
+      },
+      "tags": {
+        "destination": "Delaware Avenue",
+        "destination:ref": "DE 52 South",
+        "highway": "motorway_link",
+        "junction:ref": "7A",
+        "lanes": "2",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "concrete",
+        "tiger:cfcc": "A41",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169524868,
+      "center": {
+        "lat": 39.7512105,
+        "lon": -75.5553756
+      },
+      "tags": {
+        "destination": "Delaware Avenue",
+        "destination:ref": "DE 52 South",
+        "highway": "motorway_link",
+        "junction:ref": "7A",
+        "lanes": "1",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "concrete",
+        "tiger:cfcc": "A41",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169785257,
+      "center": {
+        "lat": 39.7046101,
+        "lon": -75.6030716
+      },
+      "tags": {
+        "destination": "Newark;Baltimore",
+        "destination:ref": "I 95 South",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "3B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169785258,
+      "center": {
+        "lat": 39.7061972,
+        "lon": -75.6002672
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "DE 141 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5B",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169785259,
+      "center": {
+        "lat": 39.7030905,
+        "lon": -75.6056739
+      },
+      "tags": {
+        "destination": "New Castle",
+        "destination:ref": "US 202 South;DE 141 South",
+        "destination:ref:to": "US 13",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5A",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "ref": "US 202",
+        "source": "yahoo",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169785260,
+      "center": {
+        "lat": 39.7010284,
+        "lon": -75.6090907
+      },
+      "tags": {
+        "destination": "Newark;Baltimore",
+        "destination:ref": "I 95 South",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "3B",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169785261,
+      "center": {
+        "lat": 39.7061626,
+        "lon": -75.6069308
+      },
+      "tags": {
+        "destination": "Newark;Baltimore",
+        "destination:ref": "I 95 South",
+        "highway": "motorway_link",
+        "junction:ref": "3B",
+        "lanes": "1",
+        "maxspeed:advisory": "25 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1170453605,
+      "center": {
+        "lat": 39.7066206,
+        "lon": -75.5976316
+      },
+      "tags": {
+        "destination": "Newport",
+        "destination:ref": "DE 141 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1170453606,
+      "center": {
+        "lat": 39.7031515,
+        "lon": -75.6027027
+      },
+      "tags": {
+        "destination": "Newport;Lancaster",
+        "destination:ref": "DE 141 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1170453608,
+      "center": {
+        "lat": 39.7027358,
+        "lon": -75.6052237
+      },
+      "tags": {
+        "bridge": "yes",
+        "destination": "Wilmington;Philadelphia",
+        "destination:ref": "I 95 North;I 495 North",
+        "highway": "motorway_link",
+        "junction:ref": "3A",
+        "lanes": "1",
+        "layer": "1",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1170453611,
+      "center": {
+        "lat": 39.6978455,
+        "lon": -75.6035501
+      },
+      "tags": {
+        "destination": "Delaware Memorial Bridge;New Jersey",
+        "destination:lanes": "Airport Road;none",
+        "destination:ref": "I 295 North",
+        "embankment": "yes",
+        "highway": "trunk_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "concrete",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "turn:lanes": "slight_left;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1170453613,
+      "center": {
+        "lat": 39.6995279,
+        "lon": -75.6040762
+      },
+      "tags": {
+        "destination": "Delaware Memorial Bridge;New Jersey",
+        "destination:ref": "I 295 North",
+        "embankment": "yes",
+        "highway": "motorway_link",
+        "junction:ref": "2",
+        "lanes": "1",
+        "maxspeed:advisory": "30 mph",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308549828,
+      "center": {
+        "lat": 38.8054281,
+        "lon": -75.2750037
+      },
+      "tags": {
+        "expressway_link": "yes",
+        "fixme": "Verify exit number",
+        "highway": "trunk_link",
+        "junction:ref": "49",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308550002,
+      "center": {
+        "lat": 38.8048443,
+        "lon": -75.2713522
+      },
+      "tags": {
+        "expressway_link": "yes",
+        "fixme": "Verify exit number",
+        "highway": "trunk_link",
+        "junction:ref": "49",
+        "lanes": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1308550004,
+      "center": {
+        "lat": 38.8043226,
+        "lon": -75.2734526
+      },
+      "tags": {
+        "expressway_link": "yes",
+        "fixme": "Verify exit number",
+        "highway": "trunk_link",
+        "junction:ref": "49",
+        "lanes": "2",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339821270,
+      "center": {
+        "lat": 39.7256101,
+        "lon": -75.618932
+      },
+      "tags": {
+        "destination": "Boxwood Road;Newport Gap Pike",
+        "destination:ref": "DE 62",
+        "highway": "motorway_link",
+        "junction:ref": "5",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1488630033,
+      "center": {
+        "lat": 39.802144,
+        "lon": -75.4803343
+      },
+      "tags": {
+        "destination": "Harvey Road",
+        "highway": "motorway_link",
+        "junction:ref": "10",
+        "lanes": "1",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "tiger:reviewed": "no",
+        "turn:lanes": "through;slight_right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1494895761,
+      "center": {
+        "lat": 39.6878416,
+        "lon": -75.6463481
+      },
+      "tags": {
+        "destination": "Churchmans Crossing",
+        "destination:ref": "DE 7 North;DE 58 North",
+        "highway": "motorway_link",
+        "junction:ref": "4B",
+        "lanes": "3",
+        "oneway": "yes",
+        "tiger:cfcc": "A63",
+        "tiger:county": "New Castle, DE",
+        "toll": "no",
+        "turn:lanes": "slight_left|through|through"
+      }
+    }
+  ]
+}

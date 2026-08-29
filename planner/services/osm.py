@@ -1,7 +1,6 @@
 import json
+from math import atan2, cos, radians, sin, sqrt
 from pathlib import Path
-
-from math import radians, sin, cos, sqrt, atan2
 
 import requests
 
@@ -9,6 +8,12 @@ OVERPASS_URLS = [
     "https://overpass-api.de/api/interpreter",
     "https://overpass.private.coffee/api/interpreter",
 ]
+
+REQUEST_HEADERS = {
+    "User-Agent": "spotter-fuel-route-assessment/1.0",
+}
+
+_STATE_FUEL_MEMORY_CACHE = {}
 
 
 def build_state_query(state_code):
@@ -32,8 +37,6 @@ def build_state_query(state_code):
 
 
 def request_overpass(query):
-    headers = {"User-Agent": "spotter-fuel-route-assessment/1.0"}
-
     last_error = None
 
     for url in OVERPASS_URLS:
@@ -43,7 +46,7 @@ def request_overpass(query):
             response = requests.post(
                 url,
                 data={"data": query},
-                headers=headers,
+                headers=REQUEST_HEADERS,
                 timeout=120,
             )
 
@@ -57,14 +60,27 @@ def request_overpass(query):
             print(f"Failed: {exc}")
             last_error = exc
 
-    raise last_error
+    if last_error:
+        raise last_error
+
+    raise RuntimeError("No Overpass endpoint available.")
 
 
-def fetch_state_fuel_candidates(state_code):
+def fetch_state_fuel_candidates(
+    state_code,
+):
     state_code = state_code.upper()
+
+    # First level:
+    # reuse already loaded state data
+    # during this Python process.
+    if state_code in _STATE_FUEL_MEMORY_CACHE:
+        return _STATE_FUEL_MEMORY_CACHE[state_code]
 
     cache_path = Path(f"data/overpass_{state_code.lower()}.json")
 
+    # Second level:
+    # persistent disk cache.
     if cache_path.exists():
         print(f"Using cache: {cache_path}")
 
@@ -72,8 +88,14 @@ def fetch_state_fuel_candidates(state_code):
             "r",
             encoding="utf-8",
         ) as file:
-            return json.load(file)
+            data = json.load(file)
 
+        _STATE_FUEL_MEMORY_CACHE[state_code] = data
+
+        return data
+
+    # Third level:
+    # only now call Overpass.
     query = build_state_query(state_code)
 
     data = request_overpass(query)
@@ -94,36 +116,54 @@ def fetch_state_fuel_candidates(state_code):
             indent=2,
         )
 
+    _STATE_FUEL_MEMORY_CACHE[state_code] = data
+
     return data
 
 
+def clear_state_memory_cache():
+    _STATE_FUEL_MEMORY_CACHE.clear()
+
+
 def get_coordinates(element):
-    if element["type"] == "node":
-        return (
-            element.get("lat"),
-            element.get("lon"),
+    if element.get("type") == "node":
+        latitude = element.get("lat")
+        longitude = element.get("lon")
+
+    else:
+        center = element.get(
+            "center",
+            {},
         )
 
-    center = element.get("center", {})
+        latitude = center.get("lat")
+        longitude = center.get("lon")
 
-    return (
-        center.get("lat"),
-        center.get("lon"),
-    )
+    return latitude, longitude
 
 
-def distance_miles(lat1, lon1, lat2, lon2):
+def distance_miles(
+    lat1,
+    lon1,
+    lat2,
+    lon2,
+):
     earth_radius_miles = 3958.8
 
     lat1 = radians(float(lat1))
     lon1 = radians(float(lon1))
+
     lat2 = radians(float(lat2))
     lon2 = radians(float(lon2))
 
-    lat_diff = lat2 - lat1
-    lon_diff = lon2 - lon1
+    latitude_difference = lat2 - lat1
 
-    a = sin(lat_diff / 2) ** 2 + cos(lat1) * cos(lat2) * sin(lon_diff / 2) ** 2
+    longitude_difference = lon2 - lon1
+
+    a = (
+        sin(latitude_difference / 2) ** 2
+        + cos(lat1) * cos(lat2) * sin(longitude_difference / 2) ** 2
+    )
 
     c = 2 * atan2(
         sqrt(a),
